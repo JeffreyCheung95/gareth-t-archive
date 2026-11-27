@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:14 UTC",
+  "updated_at": "2026-11-27 14:57 UTC",
   "releases": [
     {
       "id": "6836248204",
@@ -1713,6 +1713,16 @@
   ],
   "posts": [
     {
+      "id": "th_txt_mv_share",
+      "platform": "Threads",
+      "date": "未能查證",
+      "text": "gareth.t - 用背脊唱情歌 (official video)",
+      "kind": "post",
+      "verified": false,
+      "post_url": "",
+      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
+    },
+    {
       "id": "ig_post_18174169852485671",
       "platform": "Instagram",
       "date": "2026-11-27",
@@ -1909,19 +1919,49 @@
       "kind": "post",
       "verified": true,
       "post_url": ""
-    },
-    {
-      "id": "th_txt_mv_share",
-      "platform": "Threads",
-      "date": "未能查證",
-      "text": "gareth.t - 用背脊唱情歌 (official video)",
-      "kind": "post",
-      "verified": false,
-      "post_url": "",
-      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
     }
   ],
   "interviews": [
+    {
+      "id": "text_cool_20260430",
+      "title": "Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個",
+      "category": "文字專訪",
+      "source": "COOL-STYLE 潮流生活網",
+      "thumb": "",
+      "link": "https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C",
+      "date": "2026-04-30",
+      "is_text": true
+    },
+    {
+      "id": "text_60s_202509",
+      "title": "〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！",
+      "category": "文字專訪",
+      "source": "閱評流（LINE TODAY）",
+      "thumb": "",
+      "link": "https://today.line.me/hk/v3/article/j7gLOza",
+      "date": "2025-09",
+      "is_text": true
+    },
+    {
+      "id": "text_hbx_202206",
+      "title": "HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》",
+      "category": "文字專訪",
+      "source": "Hypebeast",
+      "thumb": "",
+      "link": "https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest",
+      "date": "2022-06",
+      "is_text": true
+    },
+    {
+      "id": "text_ubeat_202203",
+      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
+      "category": "文字專訪",
+      "source": "大學線月刊 UBeat（香港中文大學）",
+      "thumb": "",
+      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
+      "date": "2022-03",
+      "is_text": true
+    },
     {
       "id": "cCIMriBkzpU",
       "title": "湯令山之誠實小測驗/ Gareth.T's Honesty Test",
@@ -2265,46 +2305,6 @@
       "source": "Uncore安歌頻道",
       "thumb": "https://i.ytimg.com/vi/YC7DOLEllR4/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=YC7DOLEllR4"
-    },
-    {
-      "id": "text_cool_20260430",
-      "title": "Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個",
-      "category": "文字專訪",
-      "source": "COOL-STYLE 潮流生活網",
-      "thumb": "",
-      "link": "https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C",
-      "date": "2026-04-30",
-      "is_text": true
-    },
-    {
-      "id": "text_60s_202509",
-      "title": "〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！",
-      "category": "文字專訪",
-      "source": "閱評流（LINE TODAY）",
-      "thumb": "",
-      "link": "https://today.line.me/hk/v3/article/j7gLOza",
-      "date": "2025-09",
-      "is_text": true
-    },
-    {
-      "id": "text_hbx_202206",
-      "title": "HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》",
-      "category": "文字專訪",
-      "source": "Hypebeast",
-      "thumb": "",
-      "link": "https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest",
-      "date": "2022-06",
-      "is_text": true
-    },
-    {
-      "id": "text_ubeat_202203",
-      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
-      "category": "文字專訪",
-      "source": "大學線月刊 UBeat（香港中文大學）",
-      "thumb": "",
-      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
-      "date": "2022-03",
-      "is_text": true
     }
   ],
   "mvs": [
@@ -2647,6 +2647,42 @@
   ],
   "lives": [
     {
+      "id": "zvr6HFoWu5E",
+      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
+      "date": "2026-04-24",
+      "category": "現場演出",
+      "source": "RTHK 香港電台（官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
+    },
+    {
+      "id": "MnCf7bMVork",
+      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
+      "date": "2025-12-27",
+      "category": "現場演出",
+      "source": "STARS（YouTube，非官方上載）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
+    },
+    {
+      "id": "XmWu9jcnNHc",
+      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
+      "date": "2025-06-30",
+      "category": "現場演出",
+      "source": "Music Life（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
+    },
+    {
       "id": "XIf9Nc-b9tk",
       "title": "2022-11-23 湯令山 Gareth. T - Master Class + 鏡中鏡 @ November Rain 2022",
       "date": "2022-11-23",
@@ -2658,6 +2694,50 @@
       ],
       "thumb": "https://i.ytimg.com/vi/XIf9Nc-b9tk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=XIf9Nc-b9tk"
+    },
+    {
+      "id": "xPdNKcngYU8",
+      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
+      "date": "2022-07-10",
+      "category": "現場演出",
+      "source": "Warner Music Hong Kong（官方）",
+      "songs": [
+        "心亂如麻",
+        "Boyfriend Material"
+      ],
+      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
+    },
+    {
+      "id": "owRghq0jMVk",
+      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
+      "date": "2022-05-18",
+      "category": "現場演出",
+      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "songs": [
+        "懷舊情人",
+        "勁浪漫 超溫馨"
+      ],
+      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
+    },
+    {
+      "id": "NASap-eBRjU",
+      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
+      "date": "2021-11-23",
+      "category": "現場演出",
+      "source": "MC 張天賦（YouTube 官方）",
+      "songs": [
+        "E先生連環不幸事件",
+        "Honest",
+        "我不如",
+        "記憶棉",
+        "真話的清高",
+        "深夜浪漫",
+        "係咁先啦"
+      ],
+      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
     },
     {
       "id": "Dp4BZr41hHc",
@@ -3048,32 +3128,6 @@
       "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
     },
     {
-      "id": "owRghq0jMVk",
-      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
-      "date": "2022-05-18",
-      "category": "現場演出",
-      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
-      "songs": [
-        "懷舊情人",
-        "勁浪漫 超溫馨"
-      ],
-      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
-    },
-    {
-      "id": "xPdNKcngYU8",
-      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
-      "date": "2022-07-10",
-      "category": "現場演出",
-      "source": "Warner Music Hong Kong（官方）",
-      "songs": [
-        "心亂如麻",
-        "Boyfriend Material"
-      ],
-      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
-    },
-    {
       "id": "glC4c918Wf8",
       "title": "《CHILL CLUB》注入全新感覺！男女合唱的浪漫！Julia Wu 吳卓源 & Gareth.T《那些年》",
       "date": null,
@@ -3084,63 +3138,59 @@
       ],
       "thumb": "https://i.ytimg.com/vi/glC4c918Wf8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=glC4c918Wf8"
-    },
-    {
-      "id": "zvr6HFoWu5E",
-      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
-      "date": "2026-04-24",
-      "category": "現場演出",
-      "source": "RTHK 香港電台（官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
-    },
-    {
-      "id": "NASap-eBRjU",
-      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
-      "date": "2021-11-23",
-      "category": "現場演出",
-      "source": "MC 張天賦（YouTube 官方）",
-      "songs": [
-        "E先生連環不幸事件",
-        "Honest",
-        "我不如",
-        "記憶棉",
-        "真話的清高",
-        "深夜浪漫",
-        "係咁先啦"
-      ],
-      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
-    },
-    {
-      "id": "XmWu9jcnNHc",
-      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
-      "date": "2025-06-30",
-      "category": "現場演出",
-      "source": "Music Life（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
-    },
-    {
-      "id": "MnCf7bMVork",
-      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
-      "date": "2025-12-27",
-      "category": "現場演出",
-      "source": "STARS（YouTube，非官方上載）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
     }
   ],
   "fancams": [
+    {
+      "id": "PSr-oBXNnx4",
+      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
+      "date": "2026-07-11",
+      "category": "Fan Cam",
+      "source": "77mcff（YouTube，FanCam）",
+      "songs": [
+        "泥菩薩",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
+    },
+    {
+      "id": "eXSMe0Qyj6c",
+      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
+      "date": "2026-03-28",
+      "category": "Fan Cam",
+      "source": "Karius Wong（YouTube，非官方）",
+      "songs": [
+        "早到的U"
+      ],
+      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
+    },
+    {
+      "id": "Wo5BVn9cm0w",
+      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
+      "date": "2025-12-20",
+      "category": "Fan Cam",
+      "source": "pipishuut（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
+    },
+    {
+      "id": "o9UlXZx_2og",
+      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
+      "date": "2025-11-03",
+      "category": "Fan Cam",
+      "source": "仍然懷念她（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
+    },
     {
       "id": "V2CjuEOvxHA",
       "title": "《用背脊唱情歌》Gareth Tong 湯令山【Chill Club 推介榜年度推介 25/26】Fan Cam (2026.05.03)",
@@ -3158,32 +3208,6 @@
       "link": "https://www.youtube.com/watch?v=ryGPAlrfpzM"
     },
     {
-      "id": "PSr-oBXNnx4",
-      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
-      "date": "2026-07-11",
-      "category": "Fan Cam",
-      "source": "77mcff（YouTube，FanCam）",
-      "songs": [
-        "泥菩薩",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
-    },
-    {
-      "id": "Wo5BVn9cm0w",
-      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
-      "date": "2025-12-20",
-      "category": "Fan Cam",
-      "source": "pipishuut（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
-    },
-    {
       "id": "UK3abwDoNXo",
       "title": "《洋蔥》 live by Gareth T. 2025 Concert Tour",
       "date": null,
@@ -3194,30 +3218,6 @@
       ],
       "thumb": "https://i.ytimg.com/vi/UK3abwDoNXo/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UK3abwDoNXo"
-    },
-    {
-      "id": "o9UlXZx_2og",
-      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
-      "date": "2025-11-03",
-      "category": "Fan Cam",
-      "source": "仍然懷念她（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
-    },
-    {
-      "id": "eXSMe0Qyj6c",
-      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
-      "date": "2026-03-28",
-      "category": "Fan Cam",
-      "source": "Karius Wong（YouTube，非官方）",
-      "songs": [
-        "早到的U"
-      ],
-      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
     },
     {
       "id": "qhwtIqkM3X8",
