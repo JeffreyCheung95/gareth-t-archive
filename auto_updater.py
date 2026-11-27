@@ -24,7 +24,7 @@ HEADERS = {
 
 
 KNOWN_TEXT_INTERVIEWS = [{'id': 'text_cool_20260430', 'title': 'Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個', 'category': '文字專訪', 'source': 'COOL-STYLE 潮流生活網', 'date': '2026-04-30', 'link': 'https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C', 'thumb': ''}, {'id': 'text_60s_202509', 'title': '〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！', 'category': '文字專訪', 'source': '閱評流（LINE TODAY）', 'date': '2025-09', 'link': 'https://today.line.me/hk/v3/article/j7gLOza', 'thumb': ''}, {'id': 'text_hbx_202206', 'title': 'HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》', 'category': '文字專訪', 'source': 'Hypebeast', 'date': '2022-06', 'link': 'https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest', 'thumb': ''}, {'id': 'text_ubeat_202203', 'title': '革新香港音樂的湯令山 Gareth.T（人物專訪）', 'category': '文字專訪', 'source': '大學線月刊 UBeat（香港中文大學）', 'date': '2022-03', 'link': 'https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html', 'thumb': ''}]
-ARTIST_INTERACTIONS = [{'artist': 'Tyson Yoshi', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文（作詞 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作詞：@tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文', 'date': '2023-12-26', 'text': 'december christmas remix 🎄 original by @tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C1UkkRtvTxq/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 帖文內文（作曲 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作曲：me and @teddyfanguitar', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'MC 張天賦', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 伙拍 MC 及 Lewsz 合唱《孤單》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': 'MC 張天賦', 'where': '歌曲合作《金童子》', 'date': '2026-02-26', 'text': 'MC 張天賦 x Gareth Tong《金童子》官方 MV', 'post_url': 'https://www.youtube.com/watch?v=hgGoXAwA6J4', 'source': 'YouTube Gareth.T 官方 MV'}, {'artist': 'moon tang', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 及 moon tang 繼香港站後，於澳門站再度合唱《Honest》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': '林峯', 'where': '林峯澳門演唱會（嘉賓合唱）', 'date': '2025', 'text': 'Gareth T X 林峯《用背脊唱情歌》Go With The Flow 林峯澳門演唱會', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單；完整連結見 lives）'}, {'artist': '姜濤', 'where': 'November Rain 2022 尾場嘉賓', 'date': '2022-11-20', 'text': '姜濤任尾場嘉賓；Gareth.T 曾為姜濤創作《Master Class》《鏡中鏡》', 'post_url': '', 'source': '原基準資料；中時新聞 2026-04-30（創作 credit）'}, {'artist': 'Day @ COLLAR', 'where': 'November Rain 2022 第二場嘉賓', 'date': '2022-11-19', 'text': 'Day @ COLLAR 合唱《笑住喊》', 'post_url': '', 'source': '原基準資料'}, {'artist': '菲道爾 Firdhaus', 'where': 'Prince Of Nothing 澳門站 2026-07-03 嘉賓', 'date': '2026-07-03', 'text': '合唱《能遇見，就很不錯了》《去北極忘記你》— 據原基準資料，未經網上核實', 'post_url': '', 'source': '原基準資料（待核實）'}, {'artist': '攬佬', 'where': '歌曲合作〈悲傷結了帳〉', 'date': '2026', 'text': '與攬佬合作的〈悲傷結了帳〉，為過去劃下句點', 'post_url': '', 'source': 'COOL 專訪 2026-04-30'}, {'artist': '黃偉文 Wyman', 'where': '填詞合作（長期）', 'date': '2026', 'text': '《THE PROTÉGÉ》全專輯填詞、專輯名亦由其命名；另填詞《勁浪漫 超溫馨》《國際孤獨等級》《緊急聯絡人》《偶像已死》《你都不知道自己有多好》《用背脊唱情歌》《泥菩薩》', 'post_url': '', 'source': 'Blow 吹音樂 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': '倫敦站現場', 'date': '2025-10-30', 'text': "黃偉文親臨倫敦 O2 Shepherd's Bush Empire 現場支持；Gareth.T 台上隔空致謝", 'post_url': '', 'source': '明周 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': 'Instagram 留言（Gemini 种子 seed_4，未核實）', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'post_url': '', 'source': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）'}, {'artist': '容祖兒', 'where': '創作合作', 'date': '2024', 'text': 'Gareth.T 為容祖兒創作〈九秒九〉，成五台冠軍曲', 'post_url': '', 'source': '緯來新聞網（2024 台北 T-Time 報道）'}, {'artist': '梁總', 'where': 'Threads 回覆', 'date': '2025-07-09', 'text': '謝梁總', 'post_url': '', 'source': 'threads-cli profile-replies（author-filtered）；梁總身份未能查證'}, {'artist': 'R.O.O.T', 'where': 'Chill Club 現場演出', 'date': '未能查證', 'text': '《CHILL CLUB》Gareth.T X R.O.O.T《Master Class》（現場演出）', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單）'}, {'artist': '葉崇恩 Patrick Yip / 徐偉臻 nictsui', 'where': 'Instagram 帖文內文（製作 credit）', 'date': '2026-11-27', 'text': '「心動一半」曲：我和 @nictsui；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}]
+ARTIST_INTERACTIONS = [{'artist': 'Tyson Yoshi', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文（作詞 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作詞：@tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文', 'date': '2023-12-26', 'text': 'december christmas remix 🎄 original by @tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C1UkkRtvTxq/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 帖文內文（作曲 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作曲：me and @teddyfanguitar', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'MC 張天賦', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 伙拍 MC 及 Lewsz 合唱《孤單》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': 'MC 張天賦', 'where': '歌曲合作《金童子》', 'date': '2026-02-26', 'text': 'MC 張天賦 x Gareth Tong《金童子》官方 MV', 'post_url': 'https://www.youtube.com/watch?v=hgGoXAwA6J4', 'source': 'YouTube Gareth.T 官方 MV'}, {'artist': 'moon tang', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 及 moon tang 繼香港站後，於澳門站再度合唱《Honest》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': '林峯', 'where': '林峯澳門演唱會（嘉賓合唱）', 'date': '2025', 'text': 'Gareth T X 林峯《用背脊唱情歌》Go With The Flow 林峯澳門演唱會', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單；完整連結見 lives）'}, {'artist': '姜濤', 'where': 'November Rain 2022 尾場', 'date': '2022-11-20', 'text': '姜濤原定任尾場嘉賓，因腳傷手術未能到場，僅 encore 電話連線打氣；Gareth 獨唱《Master Class》《鏡中鏡》送他；Gareth.T 曾為姜濤創作《Master Class》《鏡中鏡》', 'post_url': '', 'source': '明報 / am730 / HK01 尾場報道；中時新聞 2026-04-30（創作 credit）'}, {'artist': 'Day @ COLLAR', 'where': 'November Rain 2022 第二場嘉賓', 'date': '2022-11-19', 'text': 'Day @ COLLAR 合唱《笑住喊》', 'post_url': '', 'source': '原基準資料'}, {'artist': '菲道爾 Firdhaus', 'where': 'Prince Of Nothing 澳門站 2026-07-03 嘉賓', 'date': '2026-07-03', 'text': '合唱《能遇見，就很不錯了》《去北極忘記你》', 'post_url': '', 'source': 'mpweekly / 星島頭條 / am730 澳門站報道（已核實）'}, {'artist': '攬佬', 'where': '歌曲合作〈悲傷結了帳〉', 'date': '2026', 'text': '與攬佬合作的〈悲傷結了帳〉，為過去劃下句點', 'post_url': '', 'source': 'COOL 專訪 2026-04-30'}, {'artist': '黃偉文 Wyman', 'where': '填詞合作（長期）', 'date': '2026', 'text': '《THE PROTÉGÉ》全專輯填詞、專輯名亦由其命名；另填詞《勁浪漫 超溫馨》《國際孤獨等級》《緊急聯絡人》《偶像已死》《你都不知道自己有多好》《用背脊唱情歌》《泥菩薩》', 'post_url': '', 'source': 'Blow 吹音樂 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': '倫敦站現場', 'date': '2025-10-30', 'text': "黃偉文親臨倫敦 O2 Shepherd's Bush Empire 現場支持；Gareth.T 台上隔空致謝", 'post_url': '', 'source': '明周 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': 'Instagram 留言（Gemini 种子 seed_4，未核實）', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'post_url': '', 'source': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）'}, {'artist': '容祖兒', 'where': '創作合作', 'date': '2024', 'text': 'Gareth.T 為容祖兒創作〈九秒九〉，成五台冠軍曲', 'post_url': '', 'source': '緯來新聞網（2024 台北 T-Time 報道）'}, {'artist': '梁總', 'where': 'Threads 回覆', 'date': '2025-07-09', 'text': '謝梁總', 'post_url': '', 'source': 'threads-cli profile-replies（author-filtered）；梁總身份未能查證'}, {'artist': 'R.O.O.T', 'where': 'Chill Club 現場演出', 'date': '未能查證', 'text': '《CHILL CLUB》Gareth.T X R.O.O.T《Master Class》（現場演出）', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單）'}, {'artist': '葉崇恩 Patrick Yip / 徐偉臻 nictsui', 'where': 'Instagram 帖文內文（製作 credit）', 'date': '2026-11-27', 'text': '「心動一半」曲：我和 @nictsui；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}]
 # 已确认非 Gareth / 重复的照片文件：每次运行都从数据里清除，
 # 主 agent 另需从仓库 photos/ 删除这些文件。
 BAD_PHOTO_FILES = ['Instagram_2026-11-27_dfa0d9915a.jpg', 'Threads_2026-11-27_2d9242db6f.jpg', 'Threads_2026-11-27_ba6dba162c.jpg', 'Threads_2026-11-27_d046f1d12b.jpg']
@@ -45,6 +45,16 @@ BLOCKED_VIDEO_IDS = {
 }
 # 已确认非 Gareth 的两张图的內容 MD5（去重用）：
 BAD_PHOTO_MD5 = {"1fa713edb965b14388a3550f9e696d2e"}  # 駕駛考試成績表
+
+# 手工核實加入的現場影片：每次運行都確保在 lives 裡，sync_videos 絕不刪除、
+# 絕不因分類器改動而丟失。若某次上傳的 site_data.json 缺了它們，會自動補回。
+KEEP_LIVES = {
+    "owRghq0jMVk": {"id": "owRghq0jMVk", "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨", "date": "2022-05-18", "category": "現場演出", "source": "The Show Must Go On（YouTube 頻道，非官方上載）", "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg", "link": "https://www.youtube.com/watch?v=owRghq0jMVk", "songs": ["懷舊情人", "勁浪漫 超溫馨"]},
+    "xPdNKcngYU8": {"id": "xPdNKcngYU8", "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》", "date": "2022-07-10", "category": "現場演出", "source": "Warner Music Hong Kong（官方）", "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg", "link": "https://www.youtube.com/watch?v=xPdNKcngYU8", "songs": ["心亂如麻", "Boyfriend Material"]},
+}
+# 每輪自動同步最多新增影片數（硬上限）。新發行 MV/現場通常一輪只有 0–2 條；
+# 超過即停，剩下的留待人工核實，絕不批量灌入。
+MAX_NEW_VIDEOS_PER_RUN = 5
 
 
 def load_data():
@@ -221,21 +231,60 @@ INTERVIEW_STRONG = ["專訪", "专访", "訪問", "访问", "訪談", "访谈", 
                     "相愛相殺", "COVER STORY", "大師請指教", "囝囝研究所", "His Story",
                     "成長故事", "音樂圈", "電笠", "娛壹", "MING'S", "Cosmopolitan",
                     "TALK", "對談", "人物專訪", "Honesty Test", "拉闊 少於三"]
-LIVE_STRONG = ["Fan Cam", "fancam", "現場版", "live @", "live in", "頒獎", "表演片段",
-               "足本重溫", "慈善演唱會", "慈善運音會", "音樂會", "紅毯現場", "Cartier",
+LIVE_STRONG = ["Fan Cam", "fancam", "現場版", "live @", "live in",
+               "足本重溫", "慈善演唱會", "慈善運音會", "音樂會", "Cartier",
                "multi angle", "medley", "演唱會", "倫敦站", "live show", "Chill Club",
                "CHILL CLUB", "年度之歌", "推介榜"]
+# 「頒獎」「紅毯現場」「表演片段」已從 LIVE_STRONG 刪除：頒獎/紅毯/榜單公佈
+# 片段不是演出，之前靠這三個詞被誤分進 lives。
 
-def classify_video(vid, title, source=""):
-    """Strict classifier (tested in /tmp/test_fix.py).
-    Returns interviews / mvs / lives / fancams, or None for videos that are
-    none of those (album trial, award clip, red carpet, news segment) —
-    those must be dropped, never filed under another heading.
-    Fan cams are NEVER official live. MVs are official videos only."""
+def _is_rejected_video(vid, title):
+    """Run-#5 驗證過的垃圾標題，一律拒收（回傳 True）。
+    適用於新抓到的影片；已在清單內的舊條目不受影響（sync_videos 只對新
+    條目呼叫此函數，舊條目按 id 原樣保留）。"""
     t = title or ""
     low = t.lower()
-    if "fan cam" in low or "fancam" in low:
-        return "fancams"
+    # 頒獎/得獎訪問、紅毯、新聞片段、榜單公佈：不是演出也不是專訪。
+    # 注意：只拒「得獎訪問」這類完整詞組，不拒「得獎心路歷程」這類專訪標題。
+    if any(k in t for k in ("得獎訪問", "獨家得獎", "得獎後", "Chart Awards",
+                            "頒獎典禮", "紅毯", "娛樂新聞", "娛聞新村",
+                            "明報娛樂新聞")):
+        return True
+    # 「加冕年度之歌」若無演唱字眼（唱/live/現場）就是頒獎新聞，不是演出。
+    # 已核實的現場 w_Lg2gecd_0 標題含「孭背包唱情歌」有「唱」字，不會被拒。
+    if "加冕" in t and "年度之歌" in t and "唱" not in t and "live" not in low and "現場" not in t:
+        return True
+    # 別人翻唱：標題以他人名字開頭的 Cover（例：洪嘉豪 - 國際孤獨等級…、
+    # MC 張天賦 X Gareth.T … Cover）。Gareth 自己翻唱他人歌曲（標題以
+    # Gareth 開頭，或寫明 Cover by Gareth.T）不在此限。
+    if "cover" in low:
+        if t.startswith(("Gareth", "湯令山")):
+            return False
+        if "cover by gareth" in low or "cover by 湯令山" in low:
+            return False
+        return True
+    # 「藝人 - 歌曲」格式而開頭藝人不是 Gareth：別人的影片。
+    m = re.match(r"^\s*([^\-\(（《\[]+?)\s*[-–—]\s*", t)
+    if m:
+        artist = m.group(1).strip()
+        if artist and "gareth" not in artist.lower() and "湯令山" not in artist:
+            return True
+    return False
+
+
+def classify_video(vid, title, source=""):
+    """Strict classifier (tested in /tmp/test_updater_fix.py).
+    Returns interviews / mvs / lives / fancams, or None for videos that are
+    none of those (album trial, award clip, red carpet, news segment, another
+    artist's cover) — those must be dropped, never filed under another heading.
+    Fan cams are NEVER official live. MVs are official videos only.
+    Unknown talk/feature pieces also return None now: the old fallback that
+    dumped everything into interviews is what inflated interviews 47 -> 124
+    in run #5. New interviews are added only by manual verification."""
+    t = title or ""
+    low = t.lower()
+    # 以下 7 個 id 是人工核實過的舊條目，最先判斷，絕不誤殺（其中
+    # aVsEQRptqNY 標題/來源未提 Gareth，故必須在點名規則之前）。
     if vid == "pc9nZ2syMs0":
         return "lives"        # 拉闊音樂會 少於三足本重溫 = concert replay
     if vid == "aVsEQRptqNY":
@@ -248,10 +297,20 @@ def classify_video(vid, title, source=""):
         return "lives"        # Concrete Woods Live Session = 正式現場錄製
     if vid == "XIf9Nc-b9tk":
         return "lives"        # Master Class + 鏡中鏡 @ November Rain 2022 = 演唱會現場
-    if "live studio" in low or "live session" in low:
-        return "lives"        # live studio / live session = 正式現場錄製
     if vid == "L0gsbDmZLh4":
         return "interviews"   # 叱咤2022 後台訪問 = backstage interview
+    # 標題與來源完全未提 Gareth：與他無關的影片（肥媽倫敦演唱會、Day 許軼
+    # fan cam、洪嘉豪紀錄片、MC/姜濤專訪等），一律拒收。
+    if ("gareth" not in low and "湯令山" not in t
+            and "gareth" not in (source or "").lower()
+            and "湯令山" not in (source or "")):
+        return None
+    if "fan cam" in low or "fancam" in low:
+        return "fancams"
+    if _is_rejected_video(vid, t):
+        return None
+    if "live studio" in low or "live session" in low:
+        return "lives"        # live studio / live session = 正式現場錄製
     if "全專輯試聽" in t:
         return None           # album trial, not an MV
     if ("official video" in low or "official mv" in low
@@ -273,11 +332,38 @@ def classify_video(vid, title, source=""):
         return "interviews"
     if any(k in t for k in LIVE_STRONG):
         return "lives"
-    return "interviews"  # fallback: talk/feature piece, not a performance
-def sync_videos(existing=None):
-    """2. 增量抓取专访 / MV / 现场演出（yt-dlp）；严格分类，绝不把 MV/演出
-    标成专访；fan cam 单独成表，不进官方现场。单步失败不影响整站；
-    本地 VM 抓不到时保留已有清单（不清空）。"""
+    return None  # 未知內容一律拒收，絕不預設歸入專訪（run #5 教訓）
+
+
+def _video_upload_date(entry):
+    """Return a search result's upload date as YYYY-MM-DD, or '' if unknown."""
+    pub = entry.get("upload_date") or entry.get("timestamp")
+    if not pub:
+        return ""
+    if isinstance(pub, (int, float)):
+        return datetime.fromtimestamp(pub, tz=timezone.utc).strftime("%Y-%m-%d")
+    s = str(pub)
+    return f"{s[:4]}-{s[4:6]}-{s[6:8]}" if len(s) >= 8 and s[:8].isdigit() else ""
+
+
+def _title_mentions_gareth(title, channel=""):
+    """Gate (c): title or channel must name Gareth.T / 湯令山.
+    肥媽倫敦演唱會、Day 許軼 fan cam 這類與他無關的影片就靠這關擋下。"""
+    t = f"{title or ''} {channel or ''}"
+    low = t.lower()
+    return ("gareth" in low) or ("湯令山" in t) or ("湯令山" in t)
+
+
+def sync_videos(existing=None, newest_release_date=""):
+    """2. 只為「新發行」增量抓取 MV / 現場演出（yt-dlp）。
+    保護原則（run #5 之後寫死）：
+    - 已有清單原樣保留，只追加；絕不重掃整個舊目錄。
+    - 新影片必須全部通過：不在 BLOCKED_VIDEO_IDS；classify_video() 給出
+      真實分類（未知內容回傳 None 即拒收）；標題/頻道提到 Gareth.T /
+      湯令山；不是頒獎/紅毯/新聞/別人翻唱；上載日期晚於檔案內最新發行
+      日期（newest_release_date）；未在任何清單內；每輪最多新增 5 條。
+    - KEEP_LIVES 的兩段手工核實現場缺失時自動補回。
+    單步失敗不影響整站；本地 VM 抓不到時保留已有清單（不清空）。"""
     existing = existing or {}
     out = {
         "interviews": list(existing.get("interviews", [])),
@@ -294,27 +380,21 @@ def sync_videos(existing=None):
         for v in legacy:
             if v.get("id") in BLOCKED_VIDEO_IDS:
                 continue
-            cat = classify_video(v.get("id", ""), v.get("title", ""), v.get("source", "")) or "interviews"
+            cat = classify_video(v.get("id", ""), v.get("title", ""), v.get("source", ""))
+            if cat is None:
+                continue  # 未知內容不入任何清單
             if v.get("id") not in {x.get("id") for x in out[cat]}:
                 out[cat].append(v)
     seen_ids = {v.get("id") for lst in out.values() for v in lst}
+    added_count = 0
     ydl_opts = {"quiet": True, "extract_flat": True}
+    # 窄化查詢：只找新發行相關影片，不再按年份重掃舊專訪/舊演出。
+    # 舊內容由日期門檻（晚於最新發行日）一併擋下。
     queries = [
-        "ytsearch20:Gareth.T 湯令山 專訪",
-        "ytsearch20:Gareth.T 湯令山 專訪 2025",
-        "ytsearch20:Gareth.T 湯令山 專訪 2026",
-        "ytsearch20:Gareth.T 湯令山 專訪 2024",
-        "ytsearch20:Gareth.T 湯令山 專訪 2023",
-        "ytsearch20:湯令山 叱咤903",
-        "ytsearch20:Gareth.T Chill Club",
-        "ytsearch20:湯令山 電台訪問",
-        "ytsearch20:湯令山 田木集作",
-        "ytsearch20:湯令山 電笠 專訪",
-        "ytsearch20:湯令山 MING'S 專訪",
-        "ytsearch20:Gareth.T Warner 紀錄片",
-        "ytsearch15:Gareth.T 湯令山 訪問",
-        "ytsearch15:Gareth.T 湯令山 live",
-        "ytsearch15:Gareth.T 湯令山 official video",
+        "ytsearch10:Gareth.T 湯令山 official video",
+        "ytsearch10:Gareth.T 湯令山 MV",
+        "ytsearch10:Gareth.T 湯令山 live",
+        "ytsearch10:湯令山 專訪",
     ]
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
@@ -328,10 +408,21 @@ def sync_videos(existing=None):
                             continue
                         if vid in BLOCKED_VIDEO_IDS:
                             continue
+                        # 五道門檻，任一不通過即丟棄，絕不入任何清單。
+                        if not _title_mentions_gareth(title, entry.get("channel") or entry.get("uploader") or ""):
+                            continue  # (c) 標題/頻道未提 Gareth.T / 湯令山
+                        if _is_rejected_video(vid, title):
+                            continue  # (d) 頒獎/紅毯/新聞/別人翻唱
+                        up_date = _video_upload_date(entry)
+                        if not newest_release_date or not up_date or up_date <= newest_release_date:
+                            continue  # 新發行限定：上載日必須晚於最新發行日
+                        if added_count >= MAX_NEW_VIDEOS_PER_RUN:
+                            break  # 硬上限：每輪最多新增 5 條
                         seen_ids.add(vid)
                         cat = classify_video(vid, title, entry.get("channel") or "")
                         if cat is None:
-                            continue  # 既非 MV/現場亦非專訪：直接丟棄，不入任何清單
+                            continue  # (b) 未知內容：直接丟棄，不入任何清單
+                        added_count += 1
                         item = {
                             "id": vid, "title": title,
                             "category": {"interviews": "深度專訪", "mvs": "歌曲MV",
@@ -353,7 +444,12 @@ def sync_videos(existing=None):
                     continue
     except Exception as e:
         print(f"[影音同步跳过] {e}")
-    # 已核实的文字专访（无 YouTube 片源，yt-dlp 抓不到）：缺失才补。
+    # 手工核實的兩段現場：缺失時自動補回（run #5 曾令它們在 live 檔消失）。
+    have_ids = {v.get("id") for lst in out.values() for v in lst}
+    for vid, item in KEEP_LIVES.items():
+        if vid not in have_ids and vid not in BLOCKED_VIDEO_IDS:
+            out["lives"].append(dict(item))
+    # 已核实的文字专访（无 YouTube 片源，yt-dlp 抓不到）：缺失才補。
     have = {v.get("id") for lst in out.values() for v in lst}
     for t in KNOWN_TEXT_INTERVIEWS:
         if t["id"] not in have:
@@ -418,11 +514,568 @@ def sync_news(existing_news=None):
 
 
 def get_base_concerts():
-    """26 场已核实演出（2022–2027，按日期升序，逐场拆分）。
-    曼徹斯特 2025-10-28 未經核實，已刪除；倫敦為心傷王子巡演首站。
-    座位/票價/嘉賓/歌單只寫已核實的，未知寫「未能查證」，
-    未來場次歌單標「預計歌單」，絕不编造。"""
-    return [{'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（首場）', 'date_sort': '2022-11-18', 'dates': '2022-11-18（星期五）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': 'Tyson Yoshi', 'ticket': '', 'source': '原基準資料（2022 首個個人演唱會）', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（第二場）', 'date_sort': '2022-11-19', 'dates': '2022-11-19（星期六）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': 'Day @ COLLAR（合唱《笑住喊》）', 'ticket': '', 'source': '原基準資料', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（尾場）', 'date_sort': '2022-11-20', 'dates': '2022-11-20（星期日）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': '姜濤', 'ticket': '', 'source': '原基準資料', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': 'Tone Music Festival 2023（音樂節演出）', 'date_sort': '2023-10-01', 'dates': '2023-10-01（星期日）', 'city': '未能查證', 'venue': 'Tone Music Festival 2023（場地未能查證）', 'time': '音樂節時段，未能查證', 'prices': '未能查證', 'seating': '音樂節場地', 'guests': '未能查證', 'ticket': '', 'source': '現場 Fan Cam 標題：[4K Fan Cam] 231001 Gareth.T - 鏡中鏡 (Spiege im Spiegel) @ Tone Music 2023', 'source_link': '', 'setlist': ['鏡中鏡'], 'setlist_label': '部分核實'}, {'tour': '2024 Gareth.T 湯令山 “T-Time” 台北站（首次台北專場）', 'date_sort': '2024-09-20', 'dates': '2024-09-20（星期五）', 'city': '台北', 'venue': 'NUZONE 展演空間（台北市大安區市民大道三段198號2樓；原訂 Zepp New Taipei，9月18日公告改場地）', 'time': '20:00 開演（原訂 19:00）', 'prices': '未能查證', 'seating': '未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'KKTIX 活動頁（更換場地公告 2024-09-18）', 'source_link': 'https://spaceport.kktix.cc/events/5b26fa2a?locale=zh-TW', 'setlist': [], 'setlist_label': '未能查證'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 溫哥華站', 'date_sort': '2025-04-10', 'dates': '2025-04-10（星期四）', 'city': '溫哥華', 'venue': 'ENSŌ, Vancouver BC', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 多倫多站', 'date_sort': '2025-04-12', 'dates': '2025-04-12（星期六）', 'city': '多倫多', 'venue': 'The Parkdale Hall, Toronto ON', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）；註：有樂迷帖文稱演出為 4月13日，與海報 4月12日有出入，待核實', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 紐約站', 'date_sort': '2025-04-16', 'dates': '2025-04-16（星期三）', 'city': '紐約', 'venue': 'Racket NYC, New York City NY', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 三藩市站', 'date_sort': '2025-04-18', 'dates': '2025-04-18（星期五）', 'city': '三藩市', 'venue': 'The Chapel, San Francisco CA', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 洛杉磯站', 'date_sort': '2025-04-20', 'dates': '2025-04-20（星期日）', 'city': '洛杉磯', 'venue': 'The Vermont Hollywood, Los Angeles CA', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '華納家族演唱會《WM!GO!》澳門站（群星演唱會，非個人專場）', 'date_sort': '2025-08-02', 'dates': '2025-08-02（星期六）', 'city': '澳門', 'venue': '澳門（場館未能查證）', 'time': '未能查證', 'prices': '未能查證', 'seating': '未能查證', 'guests': '與 MC張天賦、Lewsz 合唱《孤單》；與 moon tang 合唱《Honest》', 'ticket': '', 'source': '明報 2025-08-03〈湯令山宣布10月英國開騷 陳康堤初登舞台展大將之風〉', 'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20250803/1754213952176/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%AE%A3%E5%B8%8310%E6%9C%88%E8%8B%B1%E5%9C%8B%E9%96%8B%E9%A8%B7-%E9%99%B3%E5%BA%B7%E5%A0%A4%E5%88%9D%E7%99%BB%E8%88%9E%E5%8F%B0%E5%B1%95%E5%A4%A7%E5%B0%87%E4%B9%8B%E9%A2%A2', 'setlist': [], 'setlist_label': '未能查證'}, {'tour': '2025 秋季英國巡演《Prince of Sadness》（心傷王子）— 倫敦站（歐洲首演）', 'date_sort': '2025-10-30', 'dates': '2025-10-30（星期四）', 'city': '倫敦', 'venue': "O2 Shepherd's Bush Empire, London", 'time': '19:30 開演（當地時間）', 'prices': '£68 / £78 / £88 / £98 / £118', 'seating': '地下站區 + 一至三樓座位（現場一至三樓座無虛席，連地下站區亦擠得水泄不通）', 'guests': '個人專場無表演嘉賓；黃偉文、吳君如親臨現場支持', 'ticket': 'https://www.ticketmaster.co.uk', 'source': 'Bastillepost / 明周 / topick 倫敦站報道；票價見 Bastillepost', 'source_link': 'https://www.bastillepost.com/hongkong/article/15231977-%e3%80%8agareth-t-prince-of-sadness%e3%80%8b%e7%86%b1%e6%bd%ae%e6%8c%81%e7%ba%8c%e5%bb%b6%e7%87%92%e5%80%ab%e6%95%a6%e6%88%90%e9%a6%96%e7%ab%99-%e3%80%8c%e5%bf%83%e5%82%b7%e7%8e%8b%e5%ad%90', 'setlist': ['花樣年華（開場，小提琴）', '你都不知道自己有多好', '勁浪漫 超溫馨', '用背脊唱情歌（全場三唱）', '用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '部分核實'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第一場）', 'date_sort': '2025-12-05', 'dates': '2025-12-05（星期五）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'LINE TODAY 閱評流（澳門站 5–7/12/2025，三場）；Trip.com（2025-12-05 至 12-07）', 'source_link': 'https://today.line.me/hk/v3/article/j7gLOza', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第二場）', 'date_sort': '2025-12-06', 'dates': '2025-12-06（星期六）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': '香港01 澳門站攻略；Bastillepost（12月6日首度登陸百老匯舞台）', 'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60273256/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832025%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第三場）', 'date_sort': '2025-12-07', 'dates': '2025-12-07（星期日）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '18:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'LINE TODAY 閱評流（7/12 18:00）；Trip.com（2025-12-05 至 12-07）', 'source_link': 'https://today.line.me/hk/v3/article/j7gLOza', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': 'oddshapes 音樂節（墨爾本站演出）', 'date_sort': '2026-03-28', 'dates': '2026-03-28（星期六）', 'city': '墨爾本', 'venue': '墨爾本 oddshapes 音樂節（場地未能查證）', 'time': '音樂節時段，未能查證', 'prices': '未能查證', 'seating': '音樂節戶外場地', 'guests': '音樂節演出', 'ticket': '', 'source': '明報 2026-03-31〈湯令山6月悉尼開騷〉（3月28日墨爾本 oddshapes 音樂節，唱《用背脊唱情歌》、首唱《早到的u》）', 'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20260331/1774934311786/%E6%B9%AF%E4%BB%A4%E5%B1%B16%E6%9C%88%E6%82%89%E5%B0%BC%E9%96%8B%E9%A8%B7-%E7%8D%B2%E4%B8%BB%E8%BE%A6%E8%B4%88%E9%9B%A8%E8%81%B2%E6%A3%92-%E5%AF%93%E6%84%8F%E4%BB%A5%E9%9F%B3%E6%A8%82%E6%B4%97%E6%BB%8C%E5%BF%83%E9%9D%88', 'setlist': ['用背脊唱情歌', '早到的u（首唱）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 台北站（巡演首站）', 'date_sort': '2026-05-01', 'dates': '2026-05-01（星期五）', 'city': '台北', 'venue': 'Zepp New Taipei（新北市新莊區新北大道四段3號8樓）', 'time': '19:30 開演', 'prices': 'NT$4,200（一樓站席）/ NT$3,600（二樓座席）/ NT$2,100（身心障礙者優惠席）', 'seating': '一樓站席（依票面序號整隊入場）/ 二樓座席（對號入座）', 'guests': '個人專場；演出遇地震插曲', 'ticket': 'https://tixcraft.com/activity/detail/26_garetht', 'source': 'PlayMusic / KKBOX / WeKenGo 台北站資訊；am730 台北站報道（唱《玻璃》、翻唱陶喆《流沙》、encore《陀飛輪》）', 'source_link': 'https://www.playmusic.tw/column_info.php?id=26984&type=news', 'setlist': ['玻璃', '流沙（陶喆翻唱）', '用背脊唱情歌', '跟悲傷結了帳', '陀飛輪（encore）', '用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 馬來西亞雲頂站', 'date_sort': '2026-06-13', 'dates': '2026-06-13（星期六）', 'city': '雲頂', 'venue': 'Arena Of Stars 雲頂世界雲星劇場, Resorts World Genting', 'time': '18:00 開演', 'prices': 'RM 788（VIP）/ 688（PS1）/ 388（PS2）/ 288（PS3）', 'seating': 'VIP / PS1 / PS2 / PS3 分區', 'guests': '結他手 Teddy Fan 每站代觀眾提問環節', 'ticket': 'https://www.ticket2u.com.my/event/49345', 'source': 'ticket2u 馬來西亞站頁面；中國報 2026-03-24（票價）；hk01 / Bastillepost 馬來西亞站報道（唱《會呼吸的痛》《我只懂》《刻在我心底的名字》）', 'source_link': 'https://www.ticket2u.com.my/event/49345', 'setlist': ['玻璃', '會呼吸的痛（梁靜茹翻唱）', '我只懂（首唱）', '刻在我心底的名字（盧廣仲翻唱）', '用背脊唱情歌', '跟悲傷結了帳（encore）', '用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 悉尼站', 'date_sort': '2026-06-27', 'dates': '2026-06-27（星期六）', 'city': '悉尼', 'venue': 'Sydney Event Centre, 2 Crofts Ave, Hurstville NSW', 'time': '20:00 開演', 'prices': 'AUD VIP $329（含合照）/ A $259 / B $219 / C $179 / D $129', 'seating': 'VIP / A / B / C / D 分區', 'guests': '未能查證', 'ticket': 'https://www.ticketmaster.com.au/gareth-t-tickets/artist/4382304', 'source': 'Chinatown Cinema 宣傳帖（2026-04-22，票價）；Concert Archives（Sydney Event Centre）', 'source_link': 'https://www.threads.com/@chinatown_cinema/post/DXa0dN2E8mi', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（終極加場）', 'date_sort': '2026-07-03', 'dates': '2026-07-03（星期五）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '菲道爾 Firdhaus（合唱《能遇見，就很不錯了》《去北極忘記你》）— 據原基準資料，未經網上核實', 'ticket': '', 'source': '香港01 澳門加場攻略；星島頭條（7月3日終極加場，6月16日發售）', 'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60350324/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站', 'date_sort': '2026-07-04', 'dates': '2026-07-04（星期六）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'timable 澳門站（7月4日至5日）；香港01 澳門加場攻略', 'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（最終場）', 'date_sort': '2026-07-05', 'dates': '2026-07-05（星期日）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '18:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'timable 澳門站（7月5日 18:00）；星島頭條（7月5日最終場）', 'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 1 場', 'date_sort': '2027-01-20', 'dates': '2027-01-20（星期三）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣：2027年1月20至23日，恒生優先 11/3–11/5，Trip.com 11/9–11/11）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 2 場', 'date_sort': '2027-01-21', 'dates': '2027-01-21（星期四）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 3 場', 'date_sort': '2027-01-22', 'dates': '2027-01-22（星期五）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 4 場', 'date_sort': '2027-01-23', 'dates': '2027-01-23（星期六）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）；註：MoreTickets 列表曾顯示 2027-02-05 至 02-07，與華納官宣 1月20–23日衝突，以官宣為準，待核實', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}]
+    """26 場已核實演出（2022–2027，按日期升序，逐場拆分）。
+    注意：這是 2026-11-27 人工核實版（嘉賓已核實、場地已更正、紅館
+    歌單標「暫未公開」），與 data/site_data.json 內的一致。嘉賓欄只寫
+    名字，絕不寫合唱曲目（用戶規則）。main() 只有在檔案完全沒有演
+    唱會時才會用它；檔案內已有清單時絕不覆寫。
+    曼徹斯特 2025-10-28 未經核實，已刪除；倫敦為心傷王子巡演首站。"""
+    return [{'city': '香港',
+  'date_sort': '2022-11-18',
+  'dates': '2022-11-18（星期五）',
+  'guests': 'Tyson Yoshi、Moon Tang 鄧凱文',
+  'prices': 'HK$880 / $680 / $480',
+  'seating': '票價 HK$880 / $680 / $480；分區未能查證',
+  'setlist': ['勁浪漫 超溫馨',
+              '笑住喊',
+              '緊急聯絡人',
+              'boyfriend material',
+              'speed limit',
+              'honest',
+              'dinner in bed',
+              "mom I'm famous",
+              'confidence',
+              'buzzcut'],
+  'setlist_label': '實際歌單',
+  'source': '原基準資料（2022 首個個人演唱會）',
+  'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/838398/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%83-day-collar%E6%80%A7%E6%84%9F%E7%8F%BE%E8%BA%AB-%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1-%E7%AC%91%E4%BD%8F%E5%96%8A-%E8%B6%85%E9%A9%9A%E5%96%9C?utm_source=01articlecopy&utm_medium=referra',
+  'ticket': '',
+  'time': '20:15 開演（約 2.5 小時）',
+  'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（首場）',
+  'venue': '九龍灣國際展貿中心 Star Hall'},
+ {'city': '香港',
+  'date_sort': '2022-11-19',
+  'dates': '2022-11-19（星期六）',
+  'guests': 'Day @ COLLAR、衛蘭 Janice、衛詩 Jill、Moon Tang 鄧凱文',
+  'prices': 'HK$880 / $680 / $480',
+  'seating': '票價 HK$880 / $680 / $480；分區未能查證',
+  'setlist': ['勁浪漫 超溫馨',
+              '笑住喊',
+              '緊急聯絡人',
+              'boyfriend material',
+              'speed limit',
+              'honest',
+              'dinner in bed',
+              "mom I'm famous",
+              'confidence',
+              'buzzcut'],
+  'setlist_label': '實際歌單',
+  'source': '原基準資料',
+  'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/838398/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%83-day-collar%E6%80%A7%E6%84%9F%E7%8F%BE%E8%BA%AB-%E5%90%8C%E5%8F%B0%E5%90%88%E5%94%B1-%E7%AC%91%E4%BD%8F%E5%96%8A-%E8%B6%85%E9%A9%9A%E5%96%9C?utm_source=01articlecopy&utm_medium=referra',
+  'ticket': '',
+  'time': '20:15 開演（約 2.5 小時）',
+  'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（第二場）',
+  'venue': '九龍灣國際展貿中心 Star Hall'},
+ {'city': '香港',
+  'date_sort': '2022-11-20',
+  'dates': '2022-11-20（星期日）',
+  'guests': 'Tyson Yoshi、Moon Tang 鄧凱文（原定嘉賓姜濤因傷缺席，僅電話連線）',
+  'prices': 'HK$880 / $680 / $480',
+  'seating': '票價 HK$880 / $680 / $480；分區未能查證',
+  'setlist': ['勁浪漫 超溫馨',
+              '笑住喊',
+              '緊急聯絡人',
+              'boyfriend material',
+              'speed limit',
+              'honest',
+              'dinner in bed',
+              "mom I'm famous",
+              'confidence',
+              'buzzcut'],
+  'setlist_label': '實際歌單',
+  'source': '原基準資料',
+  'source_link': 'https://ol.mingpao.com/ldy/showbiz/news/20221122/1669056832081/%E5%A7%9C%E6%BF%A4%E9%9A%94%E7%A9%BA%E6%89%93%E6%B0%A3-%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%89%BF%E8%AB%BE%E5%AF%AB%E6%AD%8C%E5%9B%9E%E7%A6%AE',
+  'ticket': '',
+  'time': '20:15 開演（約 2.5 小時）',
+  'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（尾場）',
+  'venue': '九龍灣國際展貿中心 Star Hall'},
+ {'city': '香港',
+  'date_sort': '2023-10-01',
+  'dates': '2023-10-01（星期日）',
+  'guests': '無表演嘉賓',
+  'prices': '未能查證',
+  'seating': '音樂節場地',
+  'setlist': ['鏡中鏡', '孤單（加入林子祥《邁步向前》重新編曲）'],
+  'setlist_label': '部分核實',
+  'source': '現場 Fan Cam 標題：[4K Fan Cam] 231001 Gareth.T - 鏡中鏡 (Spiege im Spiegel) @ Tone Music 2023',
+  'source_link': 'https://topick.hket.com/article/3625799/周國賢雲浩影20個單位傾力演出\u3000'
+                 '絵麗奈任嘉賓直言緊張?mtc=40001&srkw=%E6%AD%8C%E6%89%8B',
+  'ticket': '',
+  'time': '音樂節時段，未能查證',
+  'tour': 'Tone Music Festival 2023（音樂節演出）',
+  'venue': '亞洲國際博覽館 Arena（AsiaWorld-Arena Hall 1）'},
+ {'city': '台北',
+  'date_sort': '2024-09-20',
+  'dates': '2024-09-20（星期五）',
+  'guests': '未能查證',
+  'prices': '未能查證',
+  'seating': '未能查證',
+  'setlist': [],
+  'setlist_label': '未能查證',
+  'source': 'KKTIX 活動頁（更換場地公告 2024-09-18）',
+  'source_link': 'https://spaceport.kktix.cc/events/5b26fa2a?locale=zh-TW',
+  'ticket': '',
+  'time': '20:00 開演（原訂 19:00）',
+  'tour': '2024 Gareth.T 湯令山 “T-Time” 台北站（首次台北專場）',
+  'venue': 'NUZONE 展演空間（台北市大安區市民大道三段198號2樓；原訂 Zepp New Taipei，9月18日公告改場地）'},
+ {'city': '溫哥華',
+  'date_sort': '2025-04-10',
+  'dates': '2025-04-10（星期四）',
+  'guests': '無表演嘉賓',
+  'prices': '巡演票價 US$58–$138（分站票價未能查證）',
+  'seating': '未能查證',
+  'setlist': ['你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              '孤單',
+              'Buzzcut',
+              '自信心爆棚',
+              '去北極忘記你',
+              '顏色（溫哥華站現場 fan video 證實有唱）'],
+  'setlist_label': '巡演歌單',
+  'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）',
+  'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/',
+  'ticket': '',
+  'time': '約 2 小時',
+  'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 溫哥華站',
+  'venue': 'ENSŌ, Vancouver BC'},
+ {'city': '多倫多',
+  'date_sort': '2025-04-12',
+  'dates': '2025-04-12（星期六）',
+  'guests': '無表演嘉賓',
+  'prices': '巡演票價 US$58–$138（分站票價未能查證）',
+  'seating': '未能查證',
+  'setlist': ['你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              '孤單',
+              'Buzzcut',
+              '自信心爆棚',
+              '去北極忘記你'],
+  'setlist_label': '巡演歌單',
+  'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）；註：有樂迷帖文稱演出為 4月13日，與海報 4月12日有出入，待核實',
+  'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/',
+  'ticket': '',
+  'time': '約 2 小時',
+  'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 多倫多站',
+  'venue': 'The Parkdale Hall, Toronto ON'},
+ {'city': '紐約',
+  'date_sort': '2025-04-16',
+  'dates': '2025-04-16（星期三）',
+  'guests': '無表演嘉賓',
+  'prices': '巡演票價 US$58–$138（分站票價未能查證）',
+  'seating': '未能查證',
+  'setlist': ['你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              '孤單',
+              'Buzzcut',
+              '自信心爆棚',
+              '去北極忘記你'],
+  'setlist_label': '巡演歌單',
+  'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）',
+  'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/',
+  'ticket': '',
+  'time': '約 2 小時',
+  'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 紐約站',
+  'venue': 'Racket NYC, New York City NY'},
+ {'city': '三藩市',
+  'date_sort': '2025-04-18',
+  'dates': '2025-04-18（星期五）',
+  'guests': '無表演嘉賓',
+  'prices': '巡演票價 US$58–$138（分站票價未能查證）',
+  'seating': '未能查證',
+  'setlist': ['你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              '孤單',
+              'Buzzcut',
+              '自信心爆棚',
+              '去北極忘記你'],
+  'setlist_label': '巡演歌單',
+  'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）',
+  'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/',
+  'ticket': '',
+  'time': '約 2 小時',
+  'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 三藩市站',
+  'venue': 'The Chapel, San Francisco CA'},
+ {'city': '洛杉磯',
+  'date_sort': '2025-04-20',
+  'dates': '2025-04-20（星期日）',
+  'guests': '無表演嘉賓',
+  'prices': '巡演票價 US$58–$138（分站票價未能查證）',
+  'seating': '未能查證',
+  'setlist': ['你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              '孤單',
+              'Buzzcut',
+              '自信心爆棚',
+              '去北極忘記你'],
+  'setlist_label': '巡演歌單',
+  'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）',
+  'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/',
+  'ticket': '',
+  'time': '約 2 小時',
+  'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 洛杉磯站',
+  'venue': 'The Vermont Hollywood, Los Angeles CA'},
+ {'city': '澳門',
+  'date_sort': '2025-08-02',
+  'dates': '2025-08-02（星期六）',
+  'guests': 'MC 張天賦、Lewsz、moon tang（群星演唱會）',
+  'prices': '未能查證',
+  'seating': '未能查證',
+  'setlist': ['孤單（與 MC、Lewsz 合唱）', 'Honest（與 moon tang 合唱）', '886（男團合唱跳，薛凱琪原唱）'],
+  'setlist_label': '部分核實',
+  'source': '明報 2025-08-03〈湯令山宣布10月英國開騷 陳康堤初登舞台展大將之風〉',
+  'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20250803/1754213952176/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%AE%A3%E5%B8%8310%E6%9C%88%E8%8B%B1%E5%9C%8B%E9%96%8B%E9%A8%B7-%E9%99%B3%E5%BA%B7%E5%A0%A4%E5%88%9D%E7%99%BB%E8%88%9E%E5%8F%B0%E5%B1%95%E5%A4%A7%E5%B0%87%E4%B9%8B%E9%A2%A2',
+  'ticket': '',
+  'time': '未能查證',
+  'tour': '華納家族演唱會《WM!GO!》澳門站（群星演唱會，非個人專場）',
+  'venue': '澳門威尼斯人綜藝館（The Venetian Macao Cotai Arena），四面台，約 12,000 觀眾'},
+ {'city': '倫敦',
+  'date_sort': '2025-10-30',
+  'dates': '2025-10-30（星期四）',
+  'guests': '無表演嘉賓',
+  'prices': '£68 / £78 / £88 / £98 / £118',
+  'seating': '地下站區 + 一至三樓座位（現場一至三樓座無虛席，連地下站區亦擠得水泄不通）',
+  'setlist': ['花樣年華（開場，小提琴）',
+              '偶像已死',
+              '去北極忘記你',
+              '遇上你之前的我',
+              '蜚蜚（陳僖儀翻唱，英國站限定）',
+              '孤單（林子祥翻唱，英國站限定）',
+              '國際孤獨等級',
+              '緊急聯絡人',
+              '用背脊唱情歌（全場三唱）',
+              '你都不知道自己有多好',
+              '勁浪漫 超溫馨'],
+  'setlist_label': '部分核實',
+  'source': 'Bastillepost / 明周 / topick 倫敦站報道；票價見 Bastillepost',
+  'source_link': 'https://www.bastillepost.com/hongkong/article/15231977-%e3%80%8agareth-t-prince-of-sadness%e3%80%8b%e7%86%b1%e6%bd%ae%e6%8c%81%e7%ba%8c%e5%bb%b6%e7%87%92%e5%80%ab%e6%95%a6%e6%88%90%e9%a6%96%e7%ab%99-%e3%80%8c%e5%bf%83%e5%82%b7%e7%8e%8b%e5%ad%90',
+  'ticket': 'https://www.ticketmaster.co.uk',
+  'time': '19:30 開演（當地時間）',
+  'tour': '2025 秋季英國巡演《Prince of Sadness》（心傷王子）— 倫敦站（歐洲首演）',
+  'venue': "O2 Shepherd's Bush Empire, London"},
+ {'city': '澳門',
+  'date_sort': '2025-12-05',
+  'dates': '2025-12-05（星期五）',
+  'guests': '未能查證',
+  'prices': 'MOP/HKD 1,288 / 988 / 688',
+  'seating': '百老匯舞台劇場座位；分區未能查證',
+  'setlist': ['用背脊唱情歌',
+              '國際孤獨等級',
+              '你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              '去北極忘記你',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              'always',
+              '跟悲傷結了帳',
+              '早到的U',
+              '我很小朋友',
+              "mom I'm famous"],
+  'setlist_label': '巡演歌單',
+  'source': 'LINE TODAY 閱評流（澳門站 5–7/12/2025，三場）；Trip.com（2025-12-05 至 12-07）',
+  'source_link': 'https://today.line.me/hk/v3/article/j7gLOza',
+  'ticket': '',
+  'time': '20:00 開演',
+  'tour': '2025《湯令山 – 心傷王子》澳門站（第一場）',
+  'venue': '「澳門百老匯™」— 百老匯舞台'},
+ {'city': '澳門',
+  'date_sort': '2025-12-06',
+  'dates': '2025-12-06（星期六）',
+  'guests': '未能查證',
+  'prices': 'MOP/HKD 1,288 / 988 / 688',
+  'seating': '百老匯舞台劇場座位；分區未能查證',
+  'setlist': ['用背脊唱情歌',
+              '國際孤獨等級',
+              '你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              '去北極忘記你',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              'always',
+              '跟悲傷結了帳',
+              '早到的U',
+              '我很小朋友',
+              "mom I'm famous"],
+  'setlist_label': '巡演歌單',
+  'source': '香港01 澳門站攻略；Bastillepost（12月6日首度登陸百老匯舞台）',
+  'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60273256/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832025%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90',
+  'ticket': '',
+  'time': '20:00 開演',
+  'tour': '2025《湯令山 – 心傷王子》澳門站（第二場）',
+  'venue': '「澳門百老匯™」— 百老匯舞台'},
+ {'city': '澳門',
+  'date_sort': '2025-12-07',
+  'dates': '2025-12-07（星期日）',
+  'guests': '未能查證',
+  'prices': 'MOP/HKD 1,288 / 988 / 688',
+  'seating': '百老匯舞台劇場座位；分區未能查證',
+  'setlist': ['用背脊唱情歌',
+              '國際孤獨等級',
+              '你都不知道自己有多好',
+              '緊急聯絡人',
+              '勁浪漫 超溫馨',
+              '笑住喊',
+              '去北極忘記你',
+              'boyfriend material',
+              'speed limit',
+              'Hallelujah',
+              'always',
+              '跟悲傷結了帳',
+              '早到的U',
+              '我很小朋友',
+              "mom I'm famous"],
+  'setlist_label': '巡演歌單',
+  'source': 'LINE TODAY 閱評流（7/12 18:00）；Trip.com（2025-12-05 至 12-07）',
+  'source_link': 'https://today.line.me/hk/v3/article/j7gLOza',
+  'ticket': '',
+  'time': '18:00 開演',
+  'tour': '2025《湯令山 – 心傷王子》澳門站（第三場）',
+  'venue': '「澳門百老匯™」— 百老匯舞台'},
+ {'city': '墨爾本',
+  'date_sort': '2026-03-28',
+  'dates': '2026-03-28（星期六）',
+  'guests': '無表演嘉賓',
+  'prices': '未能查證',
+  'seating': '音樂節戶外場地',
+  'setlist': ['用背脊唱情歌', '早到的u（首唱）'],
+  'setlist_label': '部分核實',
+  'source': '明報 2026-03-31〈湯令山6月悉尼開騷〉（3月28日墨爾本 oddshapes 音樂節，唱《用背脊唱情歌》、首唱《早到的u》）',
+  'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20260331/1774934311786/%E6%B9%AF%E4%BB%A4%E5%B1%B16%E6%9C%88%E6%82%89%E5%B0%BC%E9%96%8B%E9%A8%B7-%E7%8D%B2%E4%B8%BB%E8%BE%A6%E8%B4%88%E9%9B%A8%E8%81%B2%E6%A3%92-%E5%AF%93%E6%84%8F%E4%BB%A5%E9%9F%B3%E6%A8%82%E6%B4%97%E6%BB%8C%E5%BF%83%E9%9D%88',
+  'ticket': '',
+  'time': '音樂節時段，未能查證',
+  'tour': 'oddshapes 音樂節（墨爾本站演出）',
+  'venue': '墨爾本 oddshapes 音樂節（場地未能查證）'},
+ {'city': '台北',
+  'date_sort': '2026-05-01',
+  'dates': '2026-05-01（星期五）',
+  'guests': '無表演嘉賓',
+  'prices': 'NT$4,200（一樓站席）/ NT$3,600（二樓座席）/ NT$2,100（身心障礙者優惠席）',
+  'seating': '一樓站席（依票面序號整隊入場）/ 二樓座席（對號入座）',
+  'setlist': ['遇上你之前的我',
+              '跟悲傷結了帳',
+              '流沙（陶喆翻唱，台北限定）',
+              '玻璃',
+              'honest（演唱中遇 6.1 級地震，暫停演出確認安全後繼續）',
+              'boyfriend material',
+              '勁浪漫 超溫馨',
+              'speed limit',
+              "mom I'm famous",
+              '陀飛輪（陳奕迅翻唱，encore 再唱一次）'],
+  'setlist_label': '部分核實',
+  'source': 'PlayMusic / KKBOX / WeKenGo 台北站資訊；am730 台北站報道（唱《玻璃》、翻唱陶喆《流沙》、encore《陀飛輪》）',
+  'source_link': 'https://www.playmusic.tw/column_info.php?id=26984&type=news',
+  'ticket': 'https://tixcraft.com/activity/detail/26_garetht',
+  'time': '19:30 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 台北站（巡演首站）',
+  'venue': 'Zepp New Taipei（新北市新莊區新北大道四段3號8樓）'},
+ {'city': '雲頂',
+  'date_sort': '2026-06-13',
+  'dates': '2026-06-13（星期六）',
+  'guests': '無表演嘉賓',
+  'prices': 'RM 788（VIP）/ 688（PS1）/ 388（PS2）/ 288（PS3）',
+  'seating': 'VIP / PS1 / PS2 / PS3 分區',
+  'setlist': ['玻璃',
+              '會呼吸的痛（梁靜茹翻唱）',
+              '我只懂（首唱，全新國語作品，錄好兩天）',
+              '刻在我心底的名字（盧廣仲翻唱）',
+              '用背脊唱情歌（全場大合唱）',
+              '跟悲傷結了帳（encore，由觀眾席步出）'],
+  'setlist_label': '部分核實',
+  'source': 'ticket2u 馬來西亞站頁面；中國報 2026-03-24（票價）；hk01 / Bastillepost 馬來西亞站報道（唱《會呼吸的痛》《我只懂》《刻在我心底的名字》）',
+  'source_link': 'https://www.ticket2u.com.my/event/49345',
+  'ticket': 'https://www.ticket2u.com.my/event/49345',
+  'time': '18:00 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 馬來西亞雲頂站',
+  'venue': 'Arena Of Stars 雲頂世界雲星劇場, Resorts World Genting'},
+ {'city': '悉尼',
+  'date_sort': '2026-06-27',
+  'dates': '2026-06-27（星期六）',
+  'guests': '未能查證',
+  'prices': 'AUD VIP $329（含合照）/ A $259 / B $219 / C $179 / D $129',
+  'seating': 'VIP / A / B / C / D 分區',
+  'setlist': ['緊急聯絡人', '用背脊唱情歌', '去北極忘記你', 'always（首唱，全新英文歌）'],
+  'setlist_label': '部分核實',
+  'source': 'Chinatown Cinema 宣傳帖（2026-04-22，票價）；Concert Archives（Sydney Event Centre）',
+  'source_link': 'https://www.threads.com/@chinatown_cinema/post/DXa0dN2E8mi',
+  'ticket': 'https://www.ticketmaster.com.au/gareth-t-tickets/artist/4382304',
+  'time': '20:00 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 悉尼站',
+  'venue': 'Sydney Event Centre, 2 Crofts Ave, Hurstville NSW'},
+ {'city': '澳門',
+  'date_sort': '2026-07-03',
+  'dates': '2026-07-03（星期五）',
+  'guests': '菲道爾 Firdhaus',
+  'prices': 'MOP/HKD 1,288 / 988 / 788 / 588',
+  'seating': '銀河綜藝館；分區未能查證',
+  'setlist': ['Hallelujah',
+              '你的背包',
+              '早到的U',
+              '跟悲傷結了帳（前奏時提示「今晚無攬佬」）',
+              'boyfriend material',
+              'speed limit',
+              'always',
+              '玻璃 demo',
+              '能遇見，就很不錯了（與菲道爾合唱）',
+              '去北極忘記你（與菲道爾合唱）',
+              '落葉歸根（王力宏翻唱，澳門限定）',
+              '國際孤獨等級',
+              '我很小朋友',
+              '你都不知道自己有多好',
+              '顏色',
+              "mom I'm famous"],
+  'setlist_label': '部分核實',
+  'source': '香港01 澳門加場攻略；星島頭條（7月3日終極加場，6月16日發售）',
+  'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60350324/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90',
+  'ticket': '',
+  'time': '20:00 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（終極加場）',
+  'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）'},
+ {'city': '澳門',
+  'date_sort': '2026-07-04',
+  'dates': '2026-07-04（星期六）',
+  'guests': '文社長',
+  'prices': 'MOP/HKD 1,288 / 988 / 788 / 588',
+  'seating': '銀河綜藝館；分區未能查證',
+  'setlist': ['Hallelujah',
+              '你的背包',
+              '早到的U',
+              '跟悲傷結了帳',
+              'boyfriend material',
+              'speed limit',
+              'always',
+              '玻璃 demo',
+              'Thinkin Bout You（與文W社長合唱，Frank Ocean 原唱）',
+              '去北極忘記你（與文W社長合唱）',
+              '落葉歸根（王力宏翻唱，與文W社長合唱，澳門限定）',
+              '國際孤獨等級',
+              '我很小朋友',
+              '你都不知道自己有多好',
+              '顏色',
+              "mom I'm famous"],
+  'setlist_label': '部分核實',
+  'source': 'timable 澳門站（7月4日至5日）；香港01 澳門加場攻略',
+  'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429',
+  'ticket': '',
+  'time': '20:00 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站',
+  'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）'},
+ {'city': '澳門',
+  'date_sort': '2026-07-05',
+  'dates': '2026-07-05（星期日）',
+  'guests': '攬佬 SKAI ISYOURGOD',
+  'prices': 'MOP/HKD 1,288 / 988 / 788 / 588',
+  'seating': '銀河綜藝館；分區未能查證',
+  'setlist': ['Hallelujah',
+              '你的背包',
+              '早到的U',
+              '跟悲傷結了帳（與攬佬合唱，encore）',
+              'boyfriend material',
+              'speed limit',
+              'always',
+              '玻璃 demo',
+              '大展鴻圖（與攬佬合唱，encore）',
+              '落葉歸根（王力宏翻唱，澳門限定）',
+              '國際孤獨等級',
+              '我很小朋友',
+              '你都不知道自己有多好',
+              '顏色',
+              "mom I'm famous"],
+  'setlist_label': '部分核實',
+  'source': 'timable 澳門站（7月5日 18:00）；星島頭條（7月5日最終場）',
+  'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429',
+  'ticket': '',
+  'time': '18:00 開演',
+  'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（最終場）',
+  'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）'},
+ {'city': '香港',
+  'date_sort': '2027-01-20',
+  'dates': '2027-01-20（星期三）',
+  'guests': '待官方揭曉',
+  'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）',
+  'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位',
+  'setlist': ['暫未公開，待更新'],
+  'setlist_label': '暫未公開',
+  'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣：2027年1月20至23日，恒生優先 11/3–11/5，Trip.com 11/9–11/11）',
+  'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/',
+  'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027',
+  'time': '20:15 開演（約 2.5–3 小時）',
+  'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 1 場',
+  'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）'},
+ {'city': '香港',
+  'date_sort': '2027-01-21',
+  'dates': '2027-01-21（星期四）',
+  'guests': '待官方揭曉',
+  'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）',
+  'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位',
+  'setlist': ['暫未公開，待更新'],
+  'setlist_label': '暫未公開',
+  'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）',
+  'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/',
+  'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027',
+  'time': '20:15 開演（約 2.5–3 小時）',
+  'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 2 場',
+  'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）'},
+ {'city': '香港',
+  'date_sort': '2027-01-22',
+  'dates': '2027-01-22（星期五）',
+  'guests': '待官方揭曉',
+  'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）',
+  'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位',
+  'setlist': ['暫未公開，待更新'],
+  'setlist_label': '暫未公開',
+  'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）',
+  'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/',
+  'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027',
+  'time': '20:15 開演（約 2.5–3 小時）',
+  'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 3 場',
+  'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）'},
+ {'city': '香港',
+  'date_sort': '2027-01-23',
+  'dates': '2027-01-23（星期六）',
+  'guests': '待官方揭曉',
+  'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）',
+  'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位',
+  'setlist': ['暫未公開，待更新'],
+  'setlist_label': '暫未公開',
+  'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）；註：MoreTickets 列表曾顯示 2027-02-05 至 02-07，與華納官宣 '
+            '1月20–23日衝突，以官宣為準，待核實',
+  'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/',
+  'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027',
+  'time': '20:15 開演（約 2.5–3 小時）',
+  'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 4 場',
+  'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）'}]
+
+
 def get_verified_backfill():
     """经已连接的 Instagram / Threads 账号核实的 Gareth.T 本人内容
     （2026-11-27 用 instagram-cli / threads-cli 检索 walkencheung95
@@ -534,17 +1187,24 @@ def main():
         db["lives"] = split["lives"]
         db["fancams"] = split["fancams"]
     db["releases"] = sync_music_and_real_covers(db.get("releases", []))
+    # 新發行門檻：只有上載日晚於檔案內最新發行日的影片才可新增。
+    newest_release_date = max((r.get("date") or "" for r in db.get("releases", [])), default="")
     videos = sync_videos({
         "interviews": db.get("interviews", []),
         "mvs": db.get("mvs", []),
         "lives": db.get("lives", []),
         "fancams": db.get("fancams", []),
-    })
+    }, newest_release_date=newest_release_date)
     db["interviews"] = videos["interviews"]
     db["mvs"] = videos["mvs"]
     db["lives"] = videos["lives"]
     db["fancams"] = videos["fancams"]
-    db["concerts"] = get_base_concerts()
+    # 演唱會清單：檔案內的核實版是唯一權威，絕不以 get_base_concerts()
+    # 覆寫（run #5 就是這一行把 26 場嘉賓/歌單打回舊版）。嘉賓欄只寫名字，
+    # 絕不寫合唱曲目（用戶規則）。只有檔案完全沒有演唱會時才用 base
+    # （而 base 本身現已是核實版，見下）。
+    if not db.get("concerts"):
+        db["concerts"] = get_base_concerts()
     db["news"] = sync_news(db.get("news", []))
     photos_ig, photos_th, db["comments"], db["posts"] = sync_social_photos_and_posts(
         photos_ig, photos_th, db.get("comments", []), db.get("posts", []))
@@ -566,7 +1226,9 @@ def main():
         if item["id"] not in have_p:
             db["posts"].append(item)
             have_p.add(item["id"])
-    db["artist_interactions"] = ARTIST_INTERACTIONS
+    # 藝人互動同理：檔案內已有即保留；只有檔案缺失時才用檔案內建常數。
+    if not db.get("artist_interactions"):
+        db["artist_interactions"] = ARTIST_INTERACTIONS
     # 按正文去重（爬虫版与核实版同一条只留一条），保留首次出现的条目。
     for key_name in ("comments", "posts"):
         seen_texts = set()
