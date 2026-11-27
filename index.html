@@ -50,6 +50,7 @@
     <button class="tab" onclick="switchTab('concerts', this)">2022-2027 演唱會全巡演</button>
     <button class="tab" onclick="switchTab('interviews', this)">專訪與綜藝影音館</button>
     <button class="tab" onclick="switchTab('comments', this)">雙平台回覆與動態</button>
+    <button class="tab" onclick="switchTab('news', this)">最新资讯</button>
   </div>
 
   <main id="app"></main>
@@ -60,7 +61,7 @@
   </div>
 
   <script>
-    let siteData = { releases: [], photos: [], concerts: [], interviews: [], comments: [] };
+    let siteData = { releases: [], photos: [], concerts: [], interviews: [], comments: [], news: [] };
     let currentTab = 'releases';
 
     function esc(s) {
@@ -155,7 +156,10 @@
             <div class="info-row"><strong>場館地點：</strong>${esc(c.venue)}</div>
             <div class="info-row"><strong>開演與時長：</strong>${esc(c.time)}</div>
             <div class="info-row"><strong>票價與座位分區：</strong>${esc(c.prices)}</div>
+            ${c.seating ? `<div class="info-row"><strong>座位分區：</strong>${esc(c.seating)}</div>` : ''}
             <div class="info-row"><strong>嘉賓陣容：</strong>${esc(c.guests)}</div>
+            ${c.ticket ? `<div class="info-row"><strong>票務：</strong><a href="${esc(c.ticket)}" target="_blank" style="color:#eab308;">${esc(c.ticket)}</a></div>` : ''}
+            ${c.source ? `<div class="info-row"><strong>資料來源：</strong>${esc(c.source)}</div>` : ''}
             <div class="info-row"><strong>現場歌單曲目：</strong><br>${(c.setlist || []).map(s => `<span class="tag">${esc(s)}</span>`).join('')}</div>
           </div>
         `).join('');
@@ -181,6 +185,15 @@
             <div class="info-row">${esc(c.text)}</div>
           </div>
         `).join('');
+      } else if (currentTab === 'news') {
+        const list = (siteData.news || []).filter(n => (n.title || '').toLowerCase().includes(q) || (n.source || '').toLowerCase().includes(q));
+        app.innerHTML = list.length ? list.map(n => `
+          <div class="block-card">
+            <span class="badge">${esc(n.source || '资讯')} · ${esc(n.date || '')}</span>
+            <div class="card-title" style="font-size:15px;"><a href="${esc(n.link)}" target="_blank" style="color:#fafafa;text-decoration:none;">${esc(n.title)}</a></div>
+            <div class="info-row"><a href="${esc(n.link)}" target="_blank" style="color:#eab308;">閱讀原文 ↗</a></div>
+          </div>
+        `).join('') : `<div class="block-card">暫無最新资讯，下次自動同步時會再抓取 Google News 關於 Gareth.T 湯令山的消息。</div>`;
       }
     }
 
