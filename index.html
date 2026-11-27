@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GARETH.T ARCHIVE // 湯令山全自動情報站</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0a0a0c; color: #f4f4f5; font-family: -apple-system, BlinkMacSystemFont, "PingFang HK", sans-serif; padding: 16px 16px 96px; max-width: 1120px; margin: 0 auto; }
+    header { display: flex; justify-content: space-between; align-items: center; padding: 16px 0; border-bottom: 1px solid #27272a; margin-bottom: 16px; flex-wrap: wrap; gap: 10px; }
+    h1 { font-size: 20px; color: #eab308; letter-spacing: 0.04em; }
+    .status { font-size: 12px; color: #a1a1aa; background: #18181b; padding: 6px 12px; border-radius: 999px; border: 1px solid #27272a; }
+    .search-box { width: 100%; background: #141416; border: 1px solid #27272a; color: #fff; padding: 10px 14px; border-radius: 10px; font-size: 14px; margin-bottom: 16px; outline: none; }
+    .search-box:focus { border-color: #eab308; }
+    .tabs { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 12px; margin-bottom: 20px; }
+    .tab { background: #18181b; color: #d4d4d8; border: 1px solid #27272a; padding: 8px 16px; border-radius: 999px; cursor: pointer; font-size: 14px; white-space: nowrap; }
+    .tab.active { background: #eab308; color: #09090b; font-weight: 700; border-color: #eab308; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; }
+    .card { background: #141416; border: 1px solid #27272a; border-radius: 12px; overflow: hidden; display: flex; flex-direction: column; }
+    .card img { width: 100%; aspect-ratio: 1/1; object-fit: cover; display: block; background: #1c1c20; }
+    .card-body { padding: 12px; flex: 1; display: flex; flex-direction: column; justify-content: space-between; gap: 8px; }
+    .card-title { font-size: 15px; font-weight: 700; color: #fafafa; }
+    .card-meta { font-size: 12px; color: #a1a1aa; }
+    .btn-save { display: block; text-align: center; background: #27272a; color: #eab308; text-decoration: none; padding: 8px; border-radius: 8px; font-size: 13px; font-weight: 600; }
+    .btn-save:hover { background: #eab308; color: #09090b; }
+    .btn-toggle { background: none; border: none; color: #eab308; font-size: 12px; cursor: pointer; padding: 4px 0; text-align: left; }
+    .track { display: block; font-size: 13px; color: #e4e4e7; padding: 3px 0; cursor: pointer; }
+    .track:hover { color: #eab308; }
+    .block-card { background: #141416; border: 1px solid #27272a; border-radius: 12px; padding: 16px; margin-bottom: 14px; }
+    .badge { display: inline-block; font-size: 11px; padding: 2px 8px; border-radius: 4px; background: #27272a; color: #eab308; margin-bottom: 8px; }
+    .tag { display: inline-block; font-size: 12px; background: #1f1f23; border: 1px solid #3f3f46; padding: 3px 8px; border-radius: 6px; margin: 4px 4px 0 0; color: #e4e4e7; }
+    .info-row { font-size: 13px; color: #d4d4d8; margin-top: 6px; line-height: 1.6; }
+    .player-bar { position: fixed; left: 0; right: 0; bottom: 0; background: #141416; border-top: 1px solid #eab308; padding: 10px 16px; display: none; align-items: center; gap: 12px; z-index: 10; }
+    .player-bar.show { display: flex; }
+    .player-bar .now-playing { font-size: 13px; color: #fafafa; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 40%; }
+    .player-bar audio { flex: 1; height: 36px; min-width: 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GARETH.T ARCHIVE // 湯令山全自動情報站</h1>
+    <div class="status" id="sync-status">正在載入最新自動同步數據...</div>
+  </header>
+
+  <input class="search-box" id="search-input" placeholder="全站檢索：歌名、專輯、紅館、心傷王子、心零王子、嘉賓、採訪..." oninput="render()">
+
+  <div class="tabs">
+    <button class="tab active" onclick="switchTab('releases', this)">新歌與專輯真實封面</button>
+    <button class="tab" onclick="switchTab('photos', this)">IG & Threads 本人原圖</button>
+    <button class="tab" onclick="switchTab('concerts', this)">2022-2027 演唱會全巡演</button>
+    <button class="tab" onclick="switchTab('interviews', this)">專訪與綜藝影音館</button>
+    <button class="tab" onclick="switchTab('comments', this)">雙平台回覆與動態</button>
+  </div>
+
+  <main id="app"></main>
+
+  <div class="player-bar" id="player-bar">
+    <span class="now-playing" id="now-playing">正在試聽</span>
+    <audio id="preview-audio" controls preload="none"></audio>
+  </div>
+
+  <script>
+    let siteData = { releases: [], photos: [], concerts: [], interviews: [], comments: [] };
+    let currentTab = 'releases';
+
+    function esc(s) {
+      return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+    }
+
+    function playPreview(url, name) {
+      if (!url) return;
+      const audio = document.getElementById('preview-audio');
+      const bar = document.getElementById('player-bar');
+      document.getElementById('now-playing').textContent = '▶ 試聽 30 秒：' + name;
+      audio.src = url;
+      bar.classList.add('show');
+      audio.play().catch(function () {});
+    }
+
+    function toggleTracks(id) {
+      const el = document.getElementById('tracks-' + id);
+      const btn = document.getElementById('toggle-' + id);
+      if (!el || !btn) return;
+      const open = el.style.display !== 'none';
+      el.style.display = open ? 'none' : 'block';
+      btn.textContent = open ? '展開全部曲目 ▾' : '收起曲目 ▴';
+    }
+
+    async function loadAutoData() {
+      try {
+        const res = await fetch(`./data/site_data.json?t=${Date.now()}`);
+        siteData = await res.json();
+        document.getElementById('sync-status').textContent = `最後自動同步：${siteData.updated_at || '剛剛'}`;
+        render();
+      } catch (e) {
+        document.getElementById('sync-status').textContent = '等待首次自動同步數據...';
+      }
+    }
+
+    function switchTab(tab, btn) {
+      currentTab = tab;
+      document.querySelectorAll('.tab').forEach(el => el.classList.remove('active'));
+      btn.classList.add('active');
+      render();
+    }
+
+    function render() {
+      const q = (document.getElementById('search-input').value || '').toLowerCase();
+      const app = document.getElementById('app');
+
+      if (currentTab === 'releases') {
+        const list = siteData.releases.filter(r => r.title.toLowerCase().includes(q) || (r.tracks || []).some(t => (t.name || '').toLowerCase().includes(q)));
+        app.innerHTML = `<div class="grid">${list.map(r => {
+          const tracks = r.tracks || [];
+          const shown = tracks.slice(0, 4).map(t => `<a class="track" onclick="playPreview('${esc(t.preview || '')}', '${esc(t.name || '')}')">▶ ${esc(t.name || '')}</a>`).join('');
+          const rest = tracks.slice(4).map(t => `<a class="track" onclick="playPreview('${esc(t.preview || '')}', '${esc(t.name || '')}')">▶ ${esc(t.name || '')}</a>`).join('');
+          const toggle = tracks.length > 4
+            ? `<button class="btn-toggle" id="toggle-${esc(r.id)}" onclick="toggleTracks('${esc(r.id)}')">展開全部曲目 ▾</button><div id="tracks-${esc(r.id)}" style="display:none;">${rest}</div>`
+            : '';
+          return `
+          <div class="card">
+            <img src="${esc(r.cover)}" alt="${esc(r.title)}" loading="lazy">
+            <div class="card-body">
+              <div>
+                <div class="card-meta">${esc(r.date)} · ${esc(r.type)} (${tracks.length} 首)</div>
+                <div class="card-title">${esc(r.title)}</div>
+                <div style="margin-top:6px;">${shown}${toggle}</div>
+              </div>
+              <a class="btn-save" href="${esc(r.cover)}" download="${esc(r.filename)}">⬇ 保存官方原版封面 (.JPG)</a>
+            </div>
+          </div>`;
+        }).join('')}</div>`;
+      } else if (currentTab === 'photos') {
+        const list = siteData.photos.filter(p => (p.caption || '').toLowerCase().includes(q) || (p.platform || '').toLowerCase().includes(q));
+        app.innerHTML = list.length ? `<div class="grid">${list.map(p => `
+          <div class="card">
+            <img src="${esc(p.src)}" alt="${esc(p.caption)}" loading="lazy">
+            <div class="card-body">
+              <div>
+                <div class="card-meta">${esc(p.platform)} · ${esc(p.date)}</div>
+                <div class="card-title">${esc((p.caption || '').slice(0, 48))}</div>
+              </div>
+              <a class="btn-save" href="${esc(p.src)}" download="${esc(p.filename)}">⬇ 直接保存原圖到本地 (.JPG)</a>
+            </div>
+          </div>
+        `).join('')}</div>` : `<div class="block-card">目前正等待自動抓取最新 IG / Threads 原圖檔案，或先切換至「新歌與專輯真實封面」保存 1000×1000 官方封面。</div>`;
+      } else if (currentTab === 'concerts') {
+        const list = siteData.concerts.filter(c => JSON.stringify(c).toLowerCase().includes(q));
+        app.innerHTML = list.map(c => `
+          <div class="block-card">
+            <span class="badge">${esc(c.dates)}</span>
+            <div class="card-title" style="font-size:17px;">${esc(c.tour)}</div>
+            <div class="info-row"><strong>場館地點：</strong>${esc(c.venue)}</div>
+            <div class="info-row"><strong>開演與時長：</strong>${esc(c.time)}</div>
+            <div class="info-row"><strong>票價與座位分區：</strong>${esc(c.prices)}</div>
+            <div class="info-row"><strong>嘉賓陣容：</strong>${esc(c.guests)}</div>
+            <div class="info-row"><strong>現場歌單曲目：</strong><br>${(c.setlist || []).map(s => `<span class="tag">${esc(s)}</span>`).join('')}</div>
+          </div>
+        `).join('');
+      } else if (currentTab === 'interviews') {
+        const list = siteData.interviews.filter(v => (v.title || '').toLowerCase().includes(q) || (v.source || '').toLowerCase().includes(q));
+        app.innerHTML = `<div class="grid">${list.map(v => `
+          <div class="card">
+            <img src="${esc(v.thumb)}" alt="${esc(v.title)}" style="aspect-ratio:16/9;">
+            <div class="card-body">
+              <div>
+                <div class="card-meta">${esc(v.category)} · ${esc(v.source)}</div>
+                <div class="card-title">${esc(v.title)}</div>
+              </div>
+              <a class="btn-save" href="https://www.youtube.com/watch?v=${esc(v.id)}" target="_blank">▶ 觀看完整採訪原片</a>
+            </div>
+          </div>
+        `).join('')}</div>`;
+      } else if (currentTab === 'comments') {
+        const list = siteData.comments.filter(c => (c.text || '').toLowerCase().includes(q));
+        app.innerHTML = list.map(c => `
+          <div class="block-card">
+            <span class="badge">${esc(c.platform)} · ${esc(c.date)}</span>
+            <div class="info-row">${esc(c.text)}</div>
+          </div>
+        `).join('');
+      }
+    }
+
+    loadAutoData();
+  </script>
+</body>
+</html>
