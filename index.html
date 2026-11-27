@@ -46,7 +46,9 @@
   <input class="search-box" id="search-input" placeholder="全站檢索：歌名、專輯、紅館、心傷王子、心零王子、嘉賓、採訪..." oninput="render()">
 
   <div class="tabs">
-    <button class="tab active" onclick="switchTab('releases', this)">新歌與專輯真實封面</button>
+    <button class="tab active" onclick="switchTab('news', this)">最新资讯</button>
+    <button class="tab" onclick="switchTab('endorsements', this)">代言紀錄</button>
+    <button class="tab" onclick="switchTab('releases', this)">新歌與專輯真實封面</button>
     <button class="tab" onclick="switchTab('photos_ig', this)">IG 本人原圖</button>
     <button class="tab" onclick="switchTab('photos_threads', this)">Threads 本人原圖</button>
     <button class="tab" onclick="switchTab('concerts', this)">演唱會全紀錄</button>
@@ -56,7 +58,6 @@
     <button class="tab" onclick="switchTab('comments', this)">回覆（評論區）</button>
     <button class="tab" onclick="switchTab('posts', this)">帖文動態</button>
     <button class="tab" onclick="switchTab('artists', this)">藝人互動</button>
-    <button class="tab" onclick="switchTab('news', this)">最新资讯</button>
   </div>
 
   <main id="app"></main>
@@ -67,8 +68,8 @@
   </div>
 
   <script>
-    let siteData = { releases: [], photos_ig: [], photos_threads: [], concerts: [], interviews: [], mvs: [], lives: [], fancams: [], comments: [], posts: [], artist_interactions: [], news: [] };
-    let currentTab = 'releases';
+    let siteData = { releases: [], photos_ig: [], photos_threads: [], concerts: [], interviews: [], mvs: [], lives: [], fancams: [], comments: [], posts: [], artist_interactions: [], news: [], endorsements: [] };
+    let currentTab = 'news';
 
     function esc(s) {
       return String(s == null ? '' : s)
@@ -237,6 +238,28 @@
             ${a.post_url ? `<div class="card-meta"><a href="${esc(a.post_url)}" target="_blank" style="color:#eab308;">原帖文 / 原片 ↗</a></div>` : ''}
           </div>
         `).join('');
+      } else if (currentTab === 'endorsements') {
+        // 代言紀錄：數據按日期升序存，頁面最新在前；影片用現有 videoCards 樣式，
+        // 每個品牌自成一個獨立區塊：品牌、產品、照片（本地檔案 ./endorsements/ 或 ./photos/）、影片都在同一區塊內。
+        const list = [...(siteData.endorsements || [])].reverse().filter(e => JSON.stringify(e).toLowerCase().includes(q));
+        app.innerHTML = list.length ? list.map(e => {
+          const vids = (e.videos || []).map(v => ({ category: '代言廣告片', source: e.brand, date: e.date, title: v.title, thumb: v.thumb || '', link: v.link || ('https://www.youtube.com/watch?v=' + v.id), id: v.id }));
+          const phs = (e.photos || []).filter(f => f);
+          return `
+          <div class="block-card">
+            <span class="badge">${esc(e.brand)} · ${esc(e.date || '')} · ${esc(e.role || '')}</span>
+            <div class="card-title" style="font-size:17px;">${esc(e.product)}</div>
+            <div class="info-row">${esc(e.description || '')}</div>
+            ${e.source ? `<div class="info-row"><strong>資料來源：</strong>${esc(e.source)}${e.source_link ? ` <a href="${esc(e.source_link)}" target="_blank" style="color:#eab308;">原文 ↗</a>` : ''}</div>` : ''}
+            ${phs.length ? `<div class="grid" style="margin-top:10px;">${phs.map(f => `
+              <div class="card">
+                <img src="${esc('./' + f)}" alt="${esc(e.brand)}" loading="lazy">
+                <div class="card-body"><div class="card-meta">${esc(e.photo_note || '代言相關照片（本地保存）')}</div>
+                <a class="btn-save" href="${esc('./' + f)}" download="${esc(f.split('/').pop())}">⬇ 直接保存原圖到本地 (.JPG)</a></div>
+              </div>`).join('')}</div>` : `<div class="card-meta" style="margin-top:8px;">暫無已核實照片：本站只收錄 Gareth.T 本人發佈或品牌官方的原圖檔案，核實到的照片會在之後補上。</div>`}
+            ${vids.length ? `<div class="section-head">代言影片</div>` + videoCards(vids, '暫無代言影片。') : `<div class="card-meta" style="margin:8px 0 16px;">暫無已核實代言影片。</div>`}
+          </div>`;
+        }).join('') : `<div class="block-card">暫無代言紀錄。</div>`;
       } else if (currentTab === 'news') {
         const list = (siteData.news || []).filter(n => (n.title || '').toLowerCase().includes(q) || (n.source || '').toLowerCase().includes(q));
         app.innerHTML = list.length ? list.map(n => `
