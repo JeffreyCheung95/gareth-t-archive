@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:40 UTC",
+  "updated_at": "2026-11-27 14:14 UTC",
   "releases": [
     {
       "id": "6836248204",
@@ -1713,16 +1713,6 @@
   ],
   "posts": [
     {
-      "id": "th_txt_mv_share",
-      "platform": "Threads",
-      "date": "未能查證",
-      "text": "gareth.t - 用背脊唱情歌 (official video)",
-      "kind": "post",
-      "verified": false,
-      "post_url": "",
-      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
-    },
-    {
       "id": "ig_post_18174169852485671",
       "platform": "Instagram",
       "date": "2026-11-27",
@@ -1919,49 +1909,19 @@
       "kind": "post",
       "verified": true,
       "post_url": ""
+    },
+    {
+      "id": "th_txt_mv_share",
+      "platform": "Threads",
+      "date": "未能查證",
+      "text": "gareth.t - 用背脊唱情歌 (official video)",
+      "kind": "post",
+      "verified": false,
+      "post_url": "",
+      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
     }
   ],
   "interviews": [
-    {
-      "id": "text_cool_20260430",
-      "title": "Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個",
-      "category": "文字專訪",
-      "source": "COOL-STYLE 潮流生活網",
-      "thumb": "",
-      "link": "https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C",
-      "date": "2026-04-30",
-      "is_text": true
-    },
-    {
-      "id": "text_60s_202509",
-      "title": "〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！",
-      "category": "文字專訪",
-      "source": "閱評流（LINE TODAY）",
-      "thumb": "",
-      "link": "https://today.line.me/hk/v3/article/j7gLOza",
-      "date": "2025-09",
-      "is_text": true
-    },
-    {
-      "id": "text_hbx_202206",
-      "title": "HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》",
-      "category": "文字專訪",
-      "source": "Hypebeast",
-      "thumb": "",
-      "link": "https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest",
-      "date": "2022-06",
-      "is_text": true
-    },
-    {
-      "id": "text_ubeat_202203",
-      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
-      "category": "文字專訪",
-      "source": "大學線月刊 UBeat（香港中文大學）",
-      "thumb": "",
-      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
-      "date": "2022-03",
-      "is_text": true
-    },
     {
       "id": "cCIMriBkzpU",
       "title": "湯令山之誠實小測驗/ Gareth.T's Honesty Test",
@@ -2305,6 +2265,46 @@
       "source": "Uncore安歌頻道",
       "thumb": "https://i.ytimg.com/vi/YC7DOLEllR4/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=YC7DOLEllR4"
+    },
+    {
+      "id": "text_cool_20260430",
+      "title": "Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個",
+      "category": "文字專訪",
+      "source": "COOL-STYLE 潮流生活網",
+      "thumb": "",
+      "link": "https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C",
+      "date": "2026-04-30",
+      "is_text": true
+    },
+    {
+      "id": "text_60s_202509",
+      "title": "〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！",
+      "category": "文字專訪",
+      "source": "閱評流（LINE TODAY）",
+      "thumb": "",
+      "link": "https://today.line.me/hk/v3/article/j7gLOza",
+      "date": "2025-09",
+      "is_text": true
+    },
+    {
+      "id": "text_hbx_202206",
+      "title": "HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》",
+      "category": "文字專訪",
+      "source": "Hypebeast",
+      "thumb": "",
+      "link": "https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest",
+      "date": "2022-06",
+      "is_text": true
+    },
+    {
+      "id": "text_ubeat_202203",
+      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
+      "category": "文字專訪",
+      "source": "大學線月刊 UBeat（香港中文大學）",
+      "thumb": "",
+      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
+      "date": "2022-03",
+      "is_text": true
     }
   ],
   "mvs": [
@@ -2647,18 +2647,6 @@
   ],
   "lives": [
     {
-      "id": "8zNy4Q6jaZc",
-      "title": "gareth.t - 玻璃 demo (live studio video)",
-      "date": "2026-06-22",
-      "category": "現場演出",
-      "source": "Gareth.T",
-      "songs": [
-        "玻璃"
-      ],
-      "thumb": "https://i.ytimg.com/vi/8zNy4Q6jaZc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=8zNy4Q6jaZc"
-    },
-    {
       "id": "XIf9Nc-b9tk",
       "title": "2022-11-23 湯令山 Gareth. T - Master Class + 鏡中鏡 @ November Rain 2022",
       "date": "2022-11-23",
@@ -2670,32 +2658,6 @@
       ],
       "thumb": "https://i.ytimg.com/vi/XIf9Nc-b9tk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=XIf9Nc-b9tk"
-    },
-    {
-      "id": "xPdNKcngYU8",
-      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
-      "date": "2022-07-10",
-      "category": "現場演出",
-      "source": "Warner Music Hong Kong（官方）",
-      "songs": [
-        "心亂如麻",
-        "Boyfriend Material"
-      ],
-      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
-    },
-    {
-      "id": "owRghq0jMVk",
-      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
-      "date": "2022-05-18",
-      "category": "現場演出",
-      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
-      "songs": [
-        "懷舊情人",
-        "勁浪漫 超溫馨"
-      ],
-      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
     },
     {
       "id": "Dp4BZr41hHc",
@@ -3084,6 +3046,32 @@
       ],
       "thumb": "https://i.ytimg.com/vi/sRE_YbVibMU/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
+    },
+    {
+      "id": "owRghq0jMVk",
+      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
+      "date": "2022-05-18",
+      "category": "現場演出",
+      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "songs": [
+        "懷舊情人",
+        "勁浪漫 超溫馨"
+      ],
+      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
+    },
+    {
+      "id": "xPdNKcngYU8",
+      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
+      "date": "2022-07-10",
+      "category": "現場演出",
+      "source": "Warner Music Hong Kong（官方）",
+      "songs": [
+        "心亂如麻",
+        "Boyfriend Material"
+      ],
+      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
     }
   ],
   "fancams": [
