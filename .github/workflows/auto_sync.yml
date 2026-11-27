@@ -2,7 +2,7 @@ name: Auto Update Gareth.T Archive
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/15 * * * *'
   workflow_dispatch:
 
 permissions:
