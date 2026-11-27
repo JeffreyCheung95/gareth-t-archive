@@ -23,6 +23,15 @@ HEADERS = {
 }
 
 
+KNOWN_TEXT_INTERVIEWS = [{'id': 'text_cool_20260430', 'title': 'Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個', 'category': '文字專訪', 'source': 'COOL-STYLE 潮流生活網', 'date': '2026-04-30', 'link': 'https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C', 'thumb': ''}, {'id': 'text_60s_202509', 'title': '〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！', 'category': '文字專訪', 'source': '閱評流（LINE TODAY）', 'date': '2025-09', 'link': 'https://today.line.me/hk/v3/article/j7gLOza', 'thumb': ''}, {'id': 'text_hbx_202206', 'title': 'HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》', 'category': '文字專訪', 'source': 'Hypebeast', 'date': '2022-06', 'link': 'https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest', 'thumb': ''}, {'id': 'text_ubeat_202203', 'title': '革新香港音樂的湯令山 Gareth.T（人物專訪）', 'category': '文字專訪', 'source': '大學線月刊 UBeat（香港中文大學）', 'date': '2022-03', 'link': 'https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html', 'thumb': ''}]
+ARTIST_INTERACTIONS = [{'artist': 'Tyson Yoshi', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文（作詞 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作詞：@tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文', 'date': '2023-12-26', 'text': 'december christmas remix 🎄 original by @tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C1UkkRtvTxq/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 帖文內文（作曲 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作曲：me and @teddyfanguitar', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'MC 張天賦', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 伙拍 MC 及 Lewsz 合唱《孤單》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': 'MC 張天賦', 'where': '歌曲合作《金童子》', 'date': '2025', 'text': 'MC 張天賦 x Gareth Tong《金童子》| 首播 | 叱咤樂壇', 'post_url': 'https://www.youtube.com/watch?v=_JJiBX5vAIE', 'source': 'YouTube 叱咤樂壇（已收錄於 MV 清單）'}, {'artist': 'moon tang', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 及 moon tang 繼香港站後，於澳門站再度合唱《Honest》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': '林峯', 'where': '林峯澳門演唱會（嘉賓合唱）', 'date': '2025', 'text': 'Gareth T X 林峯《用背脊唱情歌》Go With The Flow 林峯澳門演唱會', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單；完整連結見 lives）'}, {'artist': '姜濤', 'where': 'November Rain 2022 尾場嘉賓', 'date': '2022-11-20', 'text': '姜濤任尾場嘉賓；Gareth.T 曾為姜濤創作《Master Class》《鏡中鏡》', 'post_url': '', 'source': '原基準資料；中時新聞 2026-04-30（創作 credit）'}, {'artist': 'Day @ COLLAR', 'where': 'November Rain 2022 第二場嘉賓', 'date': '2022-11-19', 'text': 'Day @ COLLAR 合唱《笑住喊》', 'post_url': '', 'source': '原基準資料'}, {'artist': '菲道爾 Firdhaus', 'where': 'Prince Of Nothing 澳門站 2026-07-03 嘉賓', 'date': '2026-07-03', 'text': '合唱《能遇見，就很不錯了》《去北極忘記你》— 據原基準資料，未經網上核實', 'post_url': '', 'source': '原基準資料（待核實）'}, {'artist': '攬佬', 'where': '歌曲合作〈悲傷結了帳〉', 'date': '2026', 'text': '與攬佬合作的〈悲傷結了帳〉，為過去劃下句點', 'post_url': '', 'source': 'COOL 專訪 2026-04-30'}, {'artist': '黃偉文 Wyman', 'where': '填詞合作（長期）', 'date': '2026', 'text': '《THE PROTÉGÉ》全專輯填詞、專輯名亦由其命名；另填詞《勁浪漫 超溫馨》《國際孤獨等級》《緊急聯絡人》《偶像已死》《你都不知道自己有多好》《用背脊唱情歌》《泥菩薩》', 'post_url': '', 'source': 'Blow 吹音樂 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': '倫敦站現場', 'date': '2025-10-30', 'text': "黃偉文親臨倫敦 O2 Shepherd's Bush Empire 現場支持；Gareth.T 台上隔空致謝", 'post_url': '', 'source': '明周 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': 'Instagram 留言（Gemini 种子 seed_4，未核實）', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'post_url': '', 'source': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）'}, {'artist': '容祖兒', 'where': '創作合作', 'date': '2024', 'text': 'Gareth.T 為容祖兒創作〈九秒九〉，成五台冠軍曲', 'post_url': '', 'source': '緯來新聞網（2024 台北 T-Time 報道）'}, {'artist': '梁總', 'where': 'Threads 回覆', 'date': '2025-07-09', 'text': '謝梁總', 'post_url': '', 'source': 'threads-cli profile-replies（author-filtered）；梁總身份未能查證'}, {'artist': 'R.O.O.T', 'where': 'Chill Club 現場演出', 'date': '未能查證', 'text': '《CHILL CLUB》Gareth.T X R.O.O.T《Master Class》（現場演出）', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單）'}, {'artist': '葉崇恩 Patrick Yip / 徐偉臻 nictsui', 'where': 'Instagram 帖文內文（製作 credit）', 'date': '2026-11-27', 'text': '「心動一半」曲：我和 @nictsui；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}]
+# 已确认非 Gareth / 重复的照片文件：每次运行都从数据里清除，
+# 主 agent 另需从仓库 photos/ 删除这些文件。
+BAD_PHOTO_FILES = ['Instagram_2026-11-27_dfa0d9915a.jpg', 'Threads_2026-11-27_2d9242db6f.jpg', 'Threads_2026-11-27_ba6dba162c.jpg', 'Threads_2026-11-27_d046f1d12b.jpg']
+# 已确认非 Gareth 的两张图的內容 MD5（去重用）：
+BAD_PHOTO_MD5 = {"1fa713edb965b14388a3550f9e696d2e"}  # 駕駛考試成績表
+
+
 def load_data():
     if os.path.exists(DATA_FILE):
         with open(DATA_FILE, "r", encoding="utf-8") as f:
@@ -44,6 +53,7 @@ def load_data():
 _JUNK_LIKE_COUNT = re.compile(r"^\s*\d+(\.\d+)?[KMkm]\s*$")
 _JUNK_DATE = re.compile(r"^\s*\d{1,2}/\d{1,2}/\d{2,4}\s*$")
 _JUNK_BARE_DOMAIN = re.compile(r"^\s*[a-z0-9\-]+\.[a-z]{2,}\s*$", re.IGNORECASE)
+_JUNK_BARE_URL = re.compile(r"^\s*(https?://)?(www\.)?[a-z0-9\-]+\.[a-z]{2,}(/\S*)?\s*$", re.IGNORECASE)
 _JUNK_TRANSLATE = re.compile(r"^\s*translate\s*$", re.IGNORECASE)
 
 
@@ -71,6 +81,8 @@ def is_valid_post_text(raw):
     if _JUNK_DATE.match(txt):
         return False
     if _JUNK_BARE_DOMAIN.match(txt):
+        return False
+    if _JUNK_BARE_URL.match(txt):
         return False
     if _JUNK_TRANSLATE.match(txt):
         return False
@@ -189,27 +201,79 @@ def sync_music_and_real_covers(existing_releases=None):
     return releases
 
 
-def sync_interviews(existing_interviews=None):
-    """2. 增量通过 yt-dlp 抓取最新专访、电台访问与综艺视频（单步失败不影响整站）"""
-    existing_interviews = existing_interviews or []
-    videos = list(existing_interviews)
-    seen_ids = {v.get("id") for v in videos}
+INTERVIEW_STRONG = ["專訪", "专访", "訪問", "访问", "訪談", "访谈", "interview",
+                    "田木集作", "Channel專訪", "口水多過浪花", "誠實小測驗", "默契大考驗",
+                    "相愛相殺", "COVER STORY", "大師請指教", "囝囝研究所", "His Story",
+                    "成長故事", "音樂圈", "電笠", "娛壹", "MING'S", "Cosmopolitan",
+                    "TALK", "對談", "人物專訪", "Honesty Test", "拉闊 少於三"]
+LIVE_STRONG = ["Fan Cam", "fancam", "現場版", "live @", "live in", "頒獎", "表演片段",
+               "足本重溫", "慈善演唱會", "慈善運音會", "音樂會", "紅毯現場", "Cartier",
+               "multi angle", "medley", "演唱會", "倫敦站", "live show", "Chill Club",
+               "CHILL CLUB", "年度之歌", "推介榜"]
+
+def classify_video(vid, title, source=""):
+    """Strict classifier (tested in /tmp/test_fix.py).
+    Returns one of: interviews / mvs / lives / fancams.
+    Fan cams are NEVER official live. MVs are official videos only."""
+    t = title or ""
+    low = t.lower()
+    if "fan cam" in low or "fancam" in low:
+        return "fancams"
+    if vid == "pc9nZ2syMs0":
+        return "lives"        # 拉闊音樂會 少於三足本重溫 = concert replay
+    if vid == "L0gsbDmZLh4":
+        return "interviews"   # 叱咤2022 後台訪問 = backstage interview
+    if ("official video" in low or "official mv" in low or "首播" in t
+            or "全專輯試聽" in t):
+        return "mvs"
+    if "叱咤" in t or "叱吒" in t:
+        if any(k in t for k in ["頒獎", "表演片段", "金獎", "大獎", "專業推介", "填詞人", "至尊歌曲"]):
+            return "lives"
+        return "interviews"
+    if "Chill Club" in t or "CHILL CLUB" in t:
+        return "lives"
+    if any(k in t for k in INTERVIEW_STRONG):
+        return "interviews"
+    if any(k in t for k in LIVE_STRONG):
+        return "lives"
+    return "interviews"  # fallback: talk/feature piece, not a performance
+def sync_videos(existing=None):
+    """2. 增量抓取专访 / MV / 现场演出（yt-dlp）；严格分类，绝不把 MV/演出
+    标成专访；fan cam 单独成表，不进官方现场。单步失败不影响整站；
+    本地 VM 抓不到时保留已有清单（不清空）。"""
+    existing = existing or {}
+    out = {
+        "interviews": list(existing.get("interviews", [])),
+        "mvs": list(existing.get("mvs", [])),
+        "lives": list(existing.get("lives", [])),
+        "fancams": list(existing.get("fancams", [])),
+    }
+    # 兼容旧版：interviews 曾是混合清单，先按 classify_video() 重分一次。
+    legacy = existing.get("interviews_legacy")
+    if legacy:
+        for v in legacy:
+            cat = classify_video(v.get("id", ""), v.get("title", ""), v.get("source", ""))
+            if v.get("id") not in {x.get("id") for x in out[cat]}:
+                out[cat].append(v)
+    seen_ids = {v.get("id") for lst in out.values() for v in lst}
     ydl_opts = {"quiet": True, "extract_flat": True}
     queries = [
         "ytsearch20:Gareth.T 湯令山 專訪",
         "ytsearch20:Gareth.T 湯令山 專訪 2025",
         "ytsearch20:Gareth.T 湯令山 專訪 2026",
+        "ytsearch20:Gareth.T 湯令山 專訪 2024",
+        "ytsearch20:Gareth.T 湯令山 專訪 2023",
         "ytsearch20:湯令山 叱咤903",
         "ytsearch20:Gareth.T Chill Club",
         "ytsearch20:湯令山 電台訪問",
+        "ytsearch20:湯令山 田木集作",
+        "ytsearch20:湯令山 電笠 專訪",
+        "ytsearch20:湯令山 MING'S 專訪",
+        "ytsearch20:Gareth.T Warner 紀錄片",
+        "ytsearch15:Gareth.T 湯令山 訪問",
+        "ytsearch15:Gareth.T 湯令山 live",
+        "ytsearch15:Gareth.T 湯令山 official video",
     ]
-    # MVs / official videos / fan cams are NOT interviews – they get their
-    # own category so the interview tab is not polluted with them.
-    mv_markers = ["official video", "official mv", "mv", "music video",
-                  "fan cam", "fancam", "live @", "live@", "cover by"]
-    radio_markers = ["903", "叱咤", "電台", "电台", "RTHK"]
-    tv_markers = ["Chill Club", "Live", "綜藝", "综艺"]
-
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
             for q in queries:
@@ -221,25 +285,14 @@ def sync_interviews(existing_interviews=None):
                         if not vid or vid in seen_ids or not title:
                             continue
                         seen_ids.add(vid)
-                        low = title.lower()
-                        # Category first: MV / fan cam / live performance
-                        # must never be labelled as an interview.
-                        if any(m in low for m in mv_markers):
-                            cat = "MV / 現場演出"
-                        elif any(k in title for k in radio_markers):
-                            cat = "電台節目"
-                        elif any(k in title for k in tv_markers):
-                            cat = "電視綜藝"
-                        elif any(k in title for k in ["專訪", "专访", "訪問", "访问", "talk", "專題"]):
-                            cat = "深度專訪"
-                        else:
-                            cat = "深度專訪"
+                        cat = classify_video(vid, title, entry.get("channel") or "")
                         item = {
-                            "id": vid,
-                            "title": title,
-                            "category": cat,
+                            "id": vid, "title": title,
+                            "category": {"interviews": "深度專訪", "mvs": "歌曲MV",
+                                         "lives": "現場演出", "fancams": "Fan Cam"}[cat],
                             "source": entry.get("channel") or entry.get("uploader") or "YouTube",
                             "thumb": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
+                            "link": f"https://www.youtube.com/watch?v={vid}",
                         }
                         pub = entry.get("upload_date") or entry.get("timestamp")
                         if pub:
@@ -248,17 +301,33 @@ def sync_interviews(existing_interviews=None):
                             else:
                                 s = str(pub)
                                 item["date"] = f"{s[:4]}-{s[4:6]}-{s[6:8]}" if len(s) >= 8 and s[:8].isdigit() else s[:10]
-                        videos.append(item)
+                        out[cat].append(item)
                 except Exception as e:
-                    print(f"[专访抓取跳过] {q} -> {e}")
+                    print(f"[影音抓取跳过] {q} -> {e}")
                     continue
     except Exception as e:
-        print(f"[专访同步跳过] {e}")
-    # Newest first when a date is known; undated items keep their order.
-    videos.sort(key=lambda v: v.get("date", ""), reverse=True)
-    return videos
+        print(f"[影音同步跳过] {e}")
+    # 已核实的文字专访（无 YouTube 片源，yt-dlp 抓不到）：缺失才补。
+    have = {v.get("id") for lst in out.values() for v in lst}
+    for t in KNOWN_TEXT_INTERVIEWS:
+        if t["id"] not in have:
+            out["interviews"].append({
+                "id": t["id"], "title": t["title"], "category": t["category"],
+                "source": t["source"], "thumb": "", "link": t["link"],
+                "date": t["date"], "is_text": True})
+    for lst in out.values():
+        lst.sort(key=lambda v: v.get("date", ""), reverse=True)
+    return out
 
 
+def sync_interviews(existing_interviews=None):
+    """兼容旧入口：只返回专访清单（供外部调用）。"""
+    existing = {}
+    if isinstance(existing_interviews, list):
+        existing = {"interviews": existing_interviews}
+    elif isinstance(existing_interviews, dict):
+        existing = existing_interviews
+    return sync_videos(existing)["interviews"]
 def sync_news(existing_news=None):
     """5. 最新资讯：Google News RSS + Bing News 搜索 'Gareth.T 湯令山' /
     '湯令山'，只存真实抓到的标题/链接/来源/日期，失败则保留旧数据，
@@ -303,148 +372,46 @@ def sync_news(existing_news=None):
 
 
 def get_base_concerts():
-    """3. 完整 2022–2027 演唱会与世界巡演基准档案（含 2025 心伤王子英国巡演）
-    每场均带 setlist / guests / seating（座位分區與票價對應）。
-    seating 只写基准数据里已有的分區/票價对应；未知分區的写「待補充」，
-    绝不编造座位图、票价、嘉宾或歌单。ticket 留空表示未核实到票务链接。
-    Coliseum 2027 的售票信息另经 Gareth.T 本人 2026-10-23 IG 帖文核实：
-    恒生信用卡優先訂票 11/3 12:00–11/5 23:59，Trip.com 率先發售
-    11/9 10:00–11/11 23:59（hk.trip.com/t/garethtcoliseumlive2027）。"""
-    return [
-        {
-            "tour": "OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）",
-            "dates": "2027-01-20 至 2027-01-23（共 4 場，不再加場）",
-            "time": "每晚 20:15 開演（約 2.5 - 3 小時）",
-            "venue": "香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）",
-            "prices": "HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）",
-            "seating": "HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位",
-            "guests": "待官方現場揭曉",
-            "ticket": "https://hk.trip.com/t/garethtcoliseumlive2027",
-            "source": "Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）",
-            "setlist": ["用背脊唱情歌", "心動一半", "國際孤獨等級", "緊急聯絡人", "勁浪漫 超溫馨", "笑住喊", "去北極忘記你", "你都不知道自己有多好", "boyfriend material", "speed limit", "玻璃"]
-        },
-        {
-            "tour": "2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演",
-            "dates": "2026-04 至 2026-07（台北 / 馬來西亞 / 悉尼 / 澳門銀河綜藝館三場）",
-            "time": "每場約 2.5 小時",
-            "venue": "澳門銀河綜藝館 / 台北 Zepp New Taipei / 雲頂雲星劇場 / 悉尼",
-            "prices": "澳門站 MOP/HKD $1,280 / $980 / $680",
-            "seating": "澳門站票價 MOP/HKD $1,280 / $980 / $680（分區待補充）",
-            "guests": "澳門首場（2026-07-03）：菲道爾 Firdhaus（合唱《能遇見，就很不錯了》《去北極忘記你》）",
-            "ticket": "",
-            "source": "",
-            "setlist": ["用背脊唱情歌", "國際孤獨等級", "偶像已死", "碧麗宮", "泥菩薩", "玻璃", "金童子", "緊急聯絡人", "勁浪漫 超溫馨", "笑住喊", "流沙（台北限定）", "落葉歸根（澳門限定）"]
-        },
-        {
-            "tour": "2025 秋季英國巡演《Prince of Sadness》（心傷王子）",
-            "dates": "2025-10-28（曼徹斯特） / 2025-10-30（倫敦）",
-            "time": "19:00 進場 · 約 2 小時",
-            "venue": "英國倫敦 O2 Shepherd's Bush Empire / 曼徹斯特",
-            "prices": "£45 - £95（VIP 含優先入場及合影）",
-            "seating": "票價 £45–£95，VIP 含優先入場及合影（分區待補充）",
-            "guests": "個人專場無嘉賓",
-            "ticket": "",
-            "source": "",
-            "setlist": ["用背脊唱情歌", "國際孤獨等級", "你都不知道自己有多好", "緊急聯絡人", "勁浪漫 超溫馨", "笑住喊", "去北極忘記你", "boyfriend material", "speed limit", "Hallelujah", "always", "跟悲傷結了帳", "早到的U", "我很小朋友", "mom I'm famous"]
-        },
-        {
-            "tour": "2025 春季北美五城巡演《EXPEDITION》（遠征）",
-            "dates": "2025-04-10 至 2025-04-20（溫哥華 / 多倫多 / 紐約 / 三藩市 / 洛杉磯）",
-            "time": "20:00 開演 · 約 2 小時",
-            "venue": "Enso / The Parkdale Hall / Racket NYC / The Chapel / The Vermont Hollywood",
-            "prices": "US$58 - US$138",
-            "seating": "票價 US$58–$138（分區待補充）",
-            "guests": "個人巡演專場",
-            "ticket": "",
-            "source": "",
-            "setlist": ["你都不知道自己有多好", "緊急聯絡人", "勁浪漫 超溫馨", "笑住喊", "boyfriend material", "speed limit", "Hallelujah", "孤單", "Buzzcut", "自信心爆棚", "去北極忘記你"]
-        },
-        {
-            "tour": "2022《Gareth.T 湯令山 November Rain》個人演唱會",
-            "dates": "2022-11-18 至 2022-11-20（共 3 場）",
-            "time": "20:15 開演 · 約 2.5 小時",
-            "venue": "九龍灣國際展貿中心 Star Hall",
-            "prices": "HK$880 / HK$680 / HK$480",
-            "seating": "票價 HK$880 / $680 / $480（分區待補充）",
-            "guests": "首場：Tyson Yoshi ｜ 第二場：Day @ COLLAR（合唱《笑住喊》） ｜ 尾場：姜濤",
-            "ticket": "",
-            "source": "",
-            "setlist": ["勁浪漫 超溫馨", "笑住喊", "緊急聯絡人", "boyfriend material", "speed limit", "honest", "dinner in bed", "mom I'm famous", "confidence", "buzzcut"]
-        }
-    ]
-
-
+    """26 场已核实演出（2022–2027，按日期升序，逐场拆分）。
+    曼徹斯特 2025-10-28 未經核實，已刪除；倫敦為心傷王子巡演首站。
+    座位/票價/嘉賓/歌單只寫已核實的，未知寫「未能查證」，
+    未來場次歌單標「預計歌單」，絕不编造。"""
+    return [{'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（首場）', 'date_sort': '2022-11-18', 'dates': '2022-11-18（星期五）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': 'Tyson Yoshi', 'ticket': '', 'source': '原基準資料（2022 首個個人演唱會）', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（第二場）', 'date_sort': '2022-11-19', 'dates': '2022-11-19（星期六）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': 'Day @ COLLAR（合唱《笑住喊》）', 'ticket': '', 'source': '原基準資料', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': '2022《Gareth.T 湯令山 November Rain》個人演唱會（尾場）', 'date_sort': '2022-11-20', 'dates': '2022-11-20（星期日）', 'city': '香港', 'venue': '九龍灣國際展貿中心 Star Hall', 'time': '20:15 開演（約 2.5 小時）', 'prices': 'HK$880 / $680 / $480', 'seating': '票價 HK$880 / $680 / $480；分區未能查證', 'guests': '姜濤', 'ticket': '', 'source': '原基準資料', 'source_link': '', 'setlist': ['勁浪漫 超溫馨', '笑住喊', '緊急聯絡人', 'boyfriend material', 'speed limit', 'honest', 'dinner in bed', "mom I'm famous", 'confidence', 'buzzcut'], 'setlist_label': '實際歌單'}, {'tour': 'Tone Music Festival 2023（音樂節演出）', 'date_sort': '2023-10-01', 'dates': '2023-10-01（星期日）', 'city': '未能查證', 'venue': 'Tone Music Festival 2023（場地未能查證）', 'time': '音樂節時段，未能查證', 'prices': '未能查證', 'seating': '音樂節場地', 'guests': '未能查證', 'ticket': '', 'source': '現場 Fan Cam 標題：[4K Fan Cam] 231001 Gareth.T - 鏡中鏡 (Spiege im Spiegel) @ Tone Music 2023', 'source_link': '', 'setlist': ['鏡中鏡'], 'setlist_label': '部分核實'}, {'tour': '2024 Gareth.T 湯令山 “T-Time” 台北站（首次台北專場）', 'date_sort': '2024-09-20', 'dates': '2024-09-20（星期五）', 'city': '台北', 'venue': 'NUZONE 展演空間（台北市大安區市民大道三段198號2樓；原訂 Zepp New Taipei，9月18日公告改場地）', 'time': '20:00 開演（原訂 19:00）', 'prices': '未能查證', 'seating': '未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'KKTIX 活動頁（更換場地公告 2024-09-18）', 'source_link': 'https://spaceport.kktix.cc/events/5b26fa2a?locale=zh-TW', 'setlist': [], 'setlist_label': '未能查證'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 溫哥華站', 'date_sort': '2025-04-10', 'dates': '2025-04-10（星期四）', 'city': '溫哥華', 'venue': 'ENSŌ, Vancouver BC', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 多倫多站', 'date_sort': '2025-04-12', 'dates': '2025-04-12（星期六）', 'city': '多倫多', 'venue': 'The Parkdale Hall, Toronto ON', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）；註：有樂迷帖文稱演出為 4月13日，與海報 4月12日有出入，待核實', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 紐約站', 'date_sort': '2025-04-16', 'dates': '2025-04-16（星期三）', 'city': '紐約', 'venue': 'Racket NYC, New York City NY', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 三藩市站', 'date_sort': '2025-04-18', 'dates': '2025-04-18（星期五）', 'city': '三藩市', 'venue': 'The Chapel, San Francisco CA', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '2025 春季北美五城巡演《EXPEDITION》（遠征）— 洛杉磯站', 'date_sort': '2025-04-20', 'dates': '2025-04-20（星期日）', 'city': '洛杉磯', 'venue': 'The Vermont Hollywood, Los Angeles CA', 'time': '約 2 小時', 'prices': '巡演票價 US$58–$138（分站票價未能查證）', 'seating': '未能查證', 'guests': '個人巡演專場', 'ticket': '', 'source': 'EXPEDITION 巡演海報（Fun In Toronto 2025-02-01）', 'source_link': 'https://www.instagram.com/p/DFi7cLTSwUf/', 'setlist': ['你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', 'boyfriend material', 'speed limit', 'Hallelujah', '孤單', 'Buzzcut', '自信心爆棚', '去北極忘記你'], 'setlist_label': '巡演歌單'}, {'tour': '華納家族演唱會《WM!GO!》澳門站（群星演唱會，非個人專場）', 'date_sort': '2025-08-02', 'dates': '2025-08-02（星期六）', 'city': '澳門', 'venue': '澳門（場館未能查證）', 'time': '未能查證', 'prices': '未能查證', 'seating': '未能查證', 'guests': '與 MC張天賦、Lewsz 合唱《孤單》；與 moon tang 合唱《Honest》', 'ticket': '', 'source': '明報 2025-08-03〈湯令山宣布10月英國開騷 陳康堤初登舞台展大將之風〉', 'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20250803/1754213952176/%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%AE%A3%E5%B8%8310%E6%9C%88%E8%8B%B1%E5%9C%8B%E9%96%8B%E9%A8%B7-%E9%99%B3%E5%BA%B7%E5%A0%A4%E5%88%9D%E7%99%BB%E8%88%9E%E5%8F%B0%E5%B1%95%E5%A4%A7%E5%B0%87%E4%B9%8B%E9%A2%A2', 'setlist': [], 'setlist_label': '未能查證'}, {'tour': '2025 秋季英國巡演《Prince of Sadness》（心傷王子）— 倫敦站（歐洲首演）', 'date_sort': '2025-10-30', 'dates': '2025-10-30（星期四）', 'city': '倫敦', 'venue': "O2 Shepherd's Bush Empire, London", 'time': '19:30 開演（當地時間）', 'prices': '£68 / £78 / £88 / £98 / £118', 'seating': '地下站區 + 一至三樓座位（現場一至三樓座無虛席，連地下站區亦擠得水泄不通）', 'guests': '個人專場無表演嘉賓；黃偉文、吳君如親臨現場支持', 'ticket': 'https://www.ticketmaster.co.uk', 'source': 'Bastillepost / 明周 / topick 倫敦站報道；票價見 Bastillepost', 'source_link': 'https://www.bastillepost.com/hongkong/article/15231977-%e3%80%8agareth-t-prince-of-sadness%e3%80%8b%e7%86%b1%e6%bd%ae%e6%8c%81%e7%ba%8c%e5%bb%b6%e7%87%92%e5%80%ab%e6%95%a6%e6%88%90%e9%a6%96%e7%ab%99-%e3%80%8c%e5%bf%83%e5%82%b7%e7%8e%8b%e5%ad%90', 'setlist': ['花樣年華（開場，小提琴）', '你都不知道自己有多好', '勁浪漫 超溫馨', '用背脊唱情歌（全場三唱）', '用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '部分核實'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第一場）', 'date_sort': '2025-12-05', 'dates': '2025-12-05（星期五）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'LINE TODAY 閱評流（澳門站 5–7/12/2025，三場）；Trip.com（2025-12-05 至 12-07）', 'source_link': 'https://today.line.me/hk/v3/article/j7gLOza', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第二場）', 'date_sort': '2025-12-06', 'dates': '2025-12-06（星期六）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': '香港01 澳門站攻略；Bastillepost（12月6日首度登陸百老匯舞台）', 'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60273256/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832025%E6%BE%B3%E9%96%80-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E8%B3%BC%E7%A5%A8%E9%80%A3%E7%B5%90', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': '2025《湯令山 – 心傷王子》澳門站（第三場）', 'date_sort': '2025-12-07', 'dates': '2025-12-07（星期日）', 'city': '澳門', 'venue': '「澳門百老匯™」— 百老匯舞台', 'time': '18:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 688', 'seating': '百老匯舞台劇場座位；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'LINE TODAY 閱評流（7/12 18:00）；Trip.com（2025-12-05 至 12-07）', 'source_link': 'https://today.line.me/hk/v3/article/j7gLOza', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '你都不知道自己有多好', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', 'boyfriend material', 'speed limit', 'Hallelujah', 'always', '跟悲傷結了帳', '早到的U', '我很小朋友', "mom I'm famous"], 'setlist_label': '巡演歌單'}, {'tour': 'oddshapes 音樂節（墨爾本站演出）', 'date_sort': '2026-03-28', 'dates': '2026-03-28（星期六）', 'city': '墨爾本', 'venue': '墨爾本 oddshapes 音樂節（場地未能查證）', 'time': '音樂節時段，未能查證', 'prices': '未能查證', 'seating': '音樂節戶外場地', 'guests': '音樂節演出', 'ticket': '', 'source': '明報 2026-03-31〈湯令山6月悉尼開騷〉（3月28日墨爾本 oddshapes 音樂節，唱《用背脊唱情歌》、首唱《早到的u》）', 'source_link': 'https://ol.mingpao.com/ldy/showbiz/latest/20260331/1774934311786/%E6%B9%AF%E4%BB%A4%E5%B1%B16%E6%9C%88%E6%82%89%E5%B0%BC%E9%96%8B%E9%A8%B7-%E7%8D%B2%E4%B8%BB%E8%BE%A6%E8%B4%88%E9%9B%A8%E8%81%B2%E6%A3%92-%E5%AF%93%E6%84%8F%E4%BB%A5%E9%9F%B3%E6%A8%82%E6%B4%97%E6%BB%8C%E5%BF%83%E9%9D%88', 'setlist': ['用背脊唱情歌', '早到的u（首唱）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 台北站（巡演首站）', 'date_sort': '2026-05-01', 'dates': '2026-05-01（星期五）', 'city': '台北', 'venue': 'Zepp New Taipei（新北市新莊區新北大道四段3號8樓）', 'time': '19:30 開演', 'prices': 'NT$4,200（一樓站席）/ NT$3,600（二樓座席）/ NT$2,100（身心障礙者優惠席）', 'seating': '一樓站席（依票面序號整隊入場）/ 二樓座席（對號入座）', 'guests': '個人專場；演出遇地震插曲', 'ticket': 'https://tixcraft.com/activity/detail/26_garetht', 'source': 'PlayMusic / KKBOX / WeKenGo 台北站資訊；am730 台北站報道（唱《玻璃》、翻唱陶喆《流沙》、encore《陀飛輪》）', 'source_link': 'https://www.playmusic.tw/column_info.php?id=26984&type=news', 'setlist': ['玻璃', '流沙（陶喆翻唱）', '用背脊唱情歌', '跟悲傷結了帳', '陀飛輪（encore）', '用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 馬來西亞雲頂站', 'date_sort': '2026-06-13', 'dates': '2026-06-13（星期六）', 'city': '雲頂', 'venue': 'Arena Of Stars 雲頂世界雲星劇場, Resorts World Genting', 'time': '18:00 開演', 'prices': 'RM 788（VIP）/ 688（PS1）/ 388（PS2）/ 288（PS3）', 'seating': 'VIP / PS1 / PS2 / PS3 分區', 'guests': '結他手 Teddy Fan 每站代觀眾提問環節', 'ticket': 'https://www.ticket2u.com.my/event/49345', 'source': 'ticket2u 馬來西亞站頁面；中國報 2026-03-24（票價）；hk01 / Bastillepost 馬來西亞站報道（唱《會呼吸的痛》《我只懂》《刻在我心底的名字》）', 'source_link': 'https://www.ticket2u.com.my/event/49345', 'setlist': ['玻璃', '會呼吸的痛（梁靜茹翻唱）', '我只懂（首唱）', '刻在我心底的名字（盧廣仲翻唱）', '用背脊唱情歌', '跟悲傷結了帳（encore）', '用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '部分核實'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 悉尼站', 'date_sort': '2026-06-27', 'dates': '2026-06-27（星期六）', 'city': '悉尼', 'venue': 'Sydney Event Centre, 2 Crofts Ave, Hurstville NSW', 'time': '20:00 開演', 'prices': 'AUD VIP $329（含合照）/ A $259 / B $219 / C $179 / D $129', 'seating': 'VIP / A / B / C / D 分區', 'guests': '未能查證', 'ticket': 'https://www.ticketmaster.com.au/gareth-t-tickets/artist/4382304', 'source': 'Chinatown Cinema 宣傳帖（2026-04-22，票價）；Concert Archives（Sydney Event Centre）', 'source_link': 'https://www.threads.com/@chinatown_cinema/post/DXa0dN2E8mi', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（終極加場）', 'date_sort': '2026-07-03', 'dates': '2026-07-03（星期五）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '菲道爾 Firdhaus（合唱《能遇見，就很不錯了》《去北極忘記你》）— 據原基準資料，未經網上核實', 'ticket': '', 'source': '香港01 澳門加場攻略；星島頭條（7月3日終極加場，6月16日發售）', 'source_link': 'https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/60350324/gareth-t%E6%B9%AF%E4%BB%A4%E5%B1%B1%E6%BC%94%E5%94%B1%E6%9C%832026%E6%BE%B3%E9%96%80%E5%8A%A0%E5%A0%B4-%E9%96%80%E7%A5%A8%E5%84%AA%E5%85%88-%E5%85%AC%E5%94%AE%E6%94%BB%E7%95%A5-%E9%80%A3%E7%B5%90', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站', 'date_sort': '2026-07-04', 'dates': '2026-07-04（星期六）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '20:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'timable 澳門站（7月4日至5日）；香港01 澳門加場攻略', 'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': '2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演 — 澳門站（最終場）', 'date_sort': '2026-07-05', 'dates': '2026-07-05（星期日）', 'city': '澳門', 'venue': '銀河綜藝館（澳門路氹城「澳門銀河™」綜合渡假城）', 'time': '18:00 開演', 'prices': 'MOP/HKD 1,288 / 988 / 788 / 588', 'seating': '銀河綜藝館；分區未能查證', 'guests': '未能查證', 'ticket': '', 'source': 'timable 澳門站（7月5日 18:00）；星島頭條（7月5日最終場）', 'source_link': 'https://timable.com/hk/zh/event/6a0ecbb4a8e802042b34b429', 'setlist': ['用背脊唱情歌', '國際孤獨等級', '偶像已死', '碧麗宮', '泥菩薩', '玻璃', '金童子', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '流沙（台北限定）', '落葉歸根（澳門限定）'], 'setlist_label': '巡演歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 1 場', 'date_sort': '2027-01-20', 'dates': '2027-01-20（星期三）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣：2027年1月20至23日，恒生優先 11/3–11/5，Trip.com 11/9–11/11）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 2 場', 'date_sort': '2027-01-21', 'dates': '2027-01-21（星期四）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 3 場', 'date_sort': '2027-01-22', 'dates': '2027-01-22（星期五）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}, {'tour': 'OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 4 場', 'date_sort': '2027-01-23', 'dates': '2027-01-23（星期六）', 'city': '香港', 'venue': '香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）', 'time': '20:15 開演（約 2.5–3 小時）', 'prices': 'HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）', 'seating': 'HK$1,380：內場平地及看台下層正面 ｜ HK$980：看台中層及下層兩側 ｜ HK$680：看台上層山頂位', 'guests': '待官方揭曉', 'ticket': 'https://hk.trip.com/t/garethtcoliseumlive2027', 'source': 'Gareth.T 本人 IG 帖文 2026-10-23（Coliseum 2027 官宣）；註：MoreTickets 列表曾顯示 2027-02-05 至 02-07，與華納官宣 1月20–23日衝突，以官宣為準，待核實', 'source_link': 'https://www.instagram.com/p/De1ALSnyrL4/', 'setlist': ['用背脊唱情歌', '心動一半', '國際孤獨等級', '緊急聯絡人', '勁浪漫 超溫馨', '笑住喊', '去北極忘記你', '你都不知道自己有多好', 'boyfriend material', 'speed limit', '玻璃'], 'setlist_label': '預計歌單'}]
 def get_verified_backfill():
-    """经已连接的 Instagram / Threads 账号核实的 Gareth.T 本人历史内容
+    """经已连接的 Instagram / Threads 账号核实的 Gareth.T 本人内容
     （2026-11-27 用 instagram-cli / threads-cli 检索 walkencheung95
     已连接账号取得，非爬虫抓取、非编造）。
-    IG 回覆：对本人最近 10 篇帖文用 --author-ids 过滤所得；
-    Threads 帖文/回覆：profile-threads / profile-replies 前两页所得。
-    注意：种子语录 seed_1 / seed_2 在这次核查的 10 篇 IG 帖文中未找到
-    对应回覆（只找到同帖的其他回覆），种子仍按原样保留，不删除。
-    这些条目以 th_post_ / th_reply_ / ig_reply_ / ig_post_ 开头，
-    clean_comments() 会豁免它们（表情-only 的核实回覆如 🫂 也保留）。"""
-    return [
-        # --- Instagram 本人回覆（author-filtered fetch-post-comments）---
-        {"id": "ig_reply_17960948997293398", "platform": "Instagram", "date": "2026-11-25", "text": "@iamnotyu_17 很快，下個專輯"},
-        {"id": "ig_reply_18058600826590356", "platform": "Instagram", "date": "2026-11-25", "text": "@xineechin no la this is a happy song"},
-        {"id": "ig_reply_18194067259394860", "platform": "Instagram", "date": "2026-10-23", "text": "@wwww10164 四面"},
-        {"id": "ig_reply_18126102709678108", "platform": "Instagram", "date": "2026-10-23", "text": "@concertyy 🫂"},
-        {"id": "ig_reply_18140834290624599", "platform": "Instagram", "date": "2026-10-22", "text": "@samsung_hk 🤝"},
-        {"id": "ig_reply_18109111700265524", "platform": "Instagram", "date": "2026-10-11", "text": "@teddyfanguitar 😏"},
-        {"id": "ig_reply_17871339210645269", "platform": "Instagram", "date": "2026-10-11", "text": "@tysonyoshi buy u next time"},
-        {"id": "ig_reply_18151029691565515", "platform": "Instagram", "date": "2026-09-24", "text": "@awtler walter pink type beat"},
-        {"id": "ig_reply_18025278281906590", "platform": "Instagram", "date": "2026-09-23", "text": "@teddyfanguitar 同意"},
-        # --- Instagram 本人帖文（最近 10 篇，caption 经 connector 核实）---
-        {"id": "ig_post_18174169852485671", "platform": "Instagram", "date": "2026-11-27", "text": "「心動一半」mv 已經上架 link in bio —— 曲：我和 @nictsui；詞：易家揚老師；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui"},
-        {"id": "ig_post_17892408873474874", "platform": "Instagram", "date": "2026-11-25", "text": "心動一半 —— 11月27日 00:00 各大音樂平台上架；11月27日 20:00 MV首播"},
-        {"id": "ig_post_18287540680293076", "platform": "Instagram", "date": "2026-11-13", "text": "Just switch #GalaxyZFold8 @samsung_hk"},
-        {"id": "ig_post_18154150189527755", "platform": "Instagram", "date": "2026-10-31", "text": "photo dump"},
-        {"id": "ig_post_18078878198475396", "platform": "Instagram", "date": "2026-10-23", "text": "waited a long time for this —— OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027：2027年1月20至23日，晚上8時15分，紅磡香港體育館，票價 $1380 / $980 / $680；恒生信用卡優先訂票 11/3 12:00–11/5 23:59；Trip.com 率先發售 11/9 10:00–11/11 23:59"},
-        {"id": "ig_post_17913426801519602", "platform": "Instagram", "date": "2026-10-22", "text": "quick LA trip"},
-        {"id": "ig_post_17978092593129179", "platform": "Instagram", "date": "2026-10-11", "text": "紅館見🫂"},
-        {"id": "ig_post_18031384553890515", "platform": "Instagram", "date": "2026-09-26", "text": "mv credits —— director @elaiinelam；art director @sarenechan；producer @ryoooocoy"},
-        {"id": "ig_post_18139013650623367", "platform": "Instagram", "date": "2026-09-24", "text": "pale pink mv out now —— melody by me and @yippatrick；lyrics by @concertyy；arrangement by @nictsui @teddyfanguitar @tombeats.bass @leeyatding and me"},
-        {"id": "ig_post_17869017147647224", "platform": "Instagram", "date": "2026-09-23", "text": "淺粉紅 —— 9月24日 00:00 各大音樂平台上架；9月24日 20:00 MV首播"},
-        # --- Threads 本人帖文（profile-threads 前两页）---
-        {"id": "th_post_18107414614984615", "platform": "Threads", "date": "2026-08-19", "text": "今日收到，謝謝"},
-        {"id": "th_post_18087553364404233", "platform": "Threads", "date": "2026-08-17", "text": "媽的，又是這樣"},
-        {"id": "th_post_18027080858497124", "platform": "Threads", "date": "2025-06-29", "text": "今天6:30pm 朗豪坊4F中庭 首唱「用背脊唱情歌」 歡迎圍觀 + IG同步直播"},
-        {"id": "th_post_18211457185306085", "platform": "Threads", "date": "2025-06-16", "text": "眼淚若嫌多"},
-        {"id": "th_post_17855017527405483", "platform": "Threads", "date": "2025-06-09", "text": "出了新歌 不妨聽聽 https://youtu.be/falq0Gr3rc0"},
-        {"id": "th_post_18493424104051291", "platform": "Threads", "date": "2025-03-20", "text": "朋友們，出個threads，tag我，說說你覺得自己還未夠好的地方 我會嘗試想想辦法讓你知道，自己有多好"},
-        {"id": "th_post_18085128910540023", "platform": "Threads", "date": "2025-03-19", "text": "真心感謝大家這幾天給我的鼓勵，日後會用作品報答大家 但也不妨鼓勵一下身邊的人，告訴他們有多好"},
-        {"id": "th_post_17960467637895295", "platform": "Threads", "date": "2025-02-23", "text": "新書包"},
-        # --- Threads 本人回覆（profile-replies 前两页）---
-        {"id": "th_reply_18179912158418688", "platform": "Threads", "date": "2026-08-18", "text": "本故事純屬虛構"},
-        {"id": "th_reply_18086492816661244", "platform": "Threads", "date": "2026-08-18", "text": "🫂"},
-        {"id": "th_reply_18305519137303026", "platform": "Threads", "date": "2026-08-17", "text": "very nice"},
-        {"id": "th_reply_18077881607307169", "platform": "Threads", "date": "2025-08-04", "text": "多謝妳的fan cam"},
-        {"id": "th_reply_18073672693800180", "platform": "Threads", "date": "2025-07-10", "text": "兄弟，送你擁抱"},
-        {"id": "th_reply_18317506546233818", "platform": "Threads", "date": "2025-07-09", "text": "謝梁總"},
-        {"id": "th_reply_17862086526429996", "platform": "Threads", "date": "2025-07-05", "text": "硬"},
-    ]
-
-
+    回覆：IG 50 篇帖文（2024-09-06 至 2026-11-27）author-filtered
+    fetch-post-comments + Threads profile-replies 前 3 页，共 64 + 12 条。
+    帖文：IG 最近 10 篇 caption + Threads profile-threads 前 3 页，共 23 条。
+    回覆与帖文严格分开，绝不混放。"""
+    return {'replies': [{'id': 'ig_reply_17960948997293398', 'platform': 'Instagram', 'date': '2026-11-25', 'text': '@iamnotyu_17 很快，下個專輯', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DgKen2lypND/'}, {'id': 'ig_reply_18058600826590356', 'platform': 'Instagram', 'date': '2026-11-25', 'text': '@xineechin no la this is a happy song', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DgKen2lypND/'}, {'id': 'ig_reply_18194067259394860', 'platform': 'Instagram', 'date': '2026-10-23', 'text': '@wwww10164 四面', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/De1ALSnyrL4/'}, {'id': 'ig_reply_18126102709678108', 'platform': 'Instagram', 'date': '2026-10-23', 'text': '@concertyy 🫂', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/De1ALSnyrL4/'}, {'id': 'ig_reply_18140834290624599', 'platform': 'Instagram', 'date': '2026-10-22', 'text': '@samsung_hk 🤝', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DezJpf5kvEP/'}, {'id': 'ig_reply_18109111700265524', 'platform': 'Instagram', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/'}, {'id': 'ig_reply_17871339210645269', 'platform': 'Instagram', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/'}, {'id': 'ig_reply_18151029691565515', 'platform': 'Instagram', 'date': '2026-09-24', 'text': '@awtler walter pink type beat', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/Ddq2c12Em8e/'}, {'id': 'ig_reply_18025278281906590', 'platform': 'Instagram', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/'}, {'id': 'th_reply_18179912158418688', 'platform': 'Threads', 'date': '2026-08-18', 'text': '本故事純屬虛構', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_18086492816661244', 'platform': 'Threads', 'date': '2026-08-18', 'text': '🫂', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_18305519137303026', 'platform': 'Threads', 'date': '2026-08-17', 'text': 'very nice', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'ig_reply_18406939915151179', 'platform': 'Instagram', 'date': '2026-05-16', 'text': '@1yuaan_ 下星期', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DWlq1OpEq7r/'}, {'id': 'ig_reply_18087052583202160', 'platform': 'Instagram', 'date': '2026-03-26', 'text': '@mayocreme 🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DWTrkuuEifR/'}, {'id': 'ig_reply_18060500732338507', 'platform': 'Instagram', 'date': '2026-02-16', 'text': '@liar_memo 月底🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DU0CSyXkhVH/'}, {'id': 'ig_reply_17978372966973059', 'platform': 'Instagram', 'date': '2026-02-16', 'text': '@xhuiii__0504 心靈', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DU0CSyXkhVH/'}, {'id': 'ig_reply_18081880835185268', 'platform': 'Instagram', 'date': '2026-02-16', 'text': '@lcheuka91 not yet my friend', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DU0CSyXkhVH/'}, {'id': 'ig_reply_18091902428061134', 'platform': 'Instagram', 'date': '2026-02-01', 'text': '@imweekend1 雪褸只有這一件🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DUNmWpNErYP/'}, {'id': 'ig_reply_18067530356630193', 'platform': 'Instagram', 'date': '2026-01-21', 'text': '@liuchauyuk you’re welcomeee', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DTw_SJnErZv/'}, {'id': 'ig_reply_18070540670151137', 'platform': 'Instagram', 'date': '2026-01-21', 'text': '@llllshye 造型來的🙂\u200d↔️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DTw_SJnErZv/'}, {'id': 'ig_reply_18088101560107118', 'platform': 'Instagram', 'date': '2026-01-21', 'text': '@l03_926 是', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DTw_SJnErZv/'}, {'id': 'ig_reply_18092089979493203', 'platform': 'Instagram', 'date': '2025-12-17', 'text': '@gareth.t_fans_page 67', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DSXAQ2fkhiw/'}, {'id': 'ig_reply_18089984056753032', 'platform': 'Instagram', 'date': '2025-12-08', 'text': '@slowyouth940303 放了在 story, 可以去 cap 圖', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DSALxybktfZ/'}, {'id': 'ig_reply_17929119462097568', 'platform': 'Instagram', 'date': '2025-09-14', 'text': '@louischeung2013 謝謝你', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DOlWk1-kqZS/'}, {'id': 'ig_reply_18165391933367390', 'platform': 'Instagram', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/'}, {'id': 'ig_reply_17895130125289024', 'platform': 'Instagram', 'date': '2025-08-30', 'text': '@ari_ullixu 今次的一定估不到', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/'}, {'id': 'ig_reply_17898674223267199', 'platform': 'Instagram', 'date': '2025-08-30', 'text': '@yayaxu_bobo 要找到一個能愛得很透明的人才發', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/'}, {'id': 'ig_reply_18071493260171391', 'platform': 'Instagram', 'date': '2025-08-30', 'text': '@coeklamz 快了', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/'}, {'id': 'th_reply_17844725400543460', 'platform': 'Threads', 'date': '2025-08-29', 'text': '是想開 close friend 的 live 😐', 'kind': 'reply', 'verified': True, 'post_url': '', 'reply_to': '回覆 iamnoturcutie「當你想錄片但唔小心撳咗開live」'}, {'id': 'th_reply_18077881607307169', 'platform': 'Threads', 'date': '2025-08-04', 'text': '多謝妳的fan cam', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_18073672693800180', 'platform': 'Threads', 'date': '2025-07-10', 'text': '兄弟，送你擁抱', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_18317506546233818', 'platform': 'Threads', 'date': '2025-07-09', 'text': '謝梁總', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_17862086526429996', 'platform': 'Threads', 'date': '2025-07-05', 'text': '硬', 'kind': 'reply', 'verified': True, 'post_url': ''}, {'id': 'th_reply_17978489612853515', 'platform': 'Threads', 'date': '2025-07-04', 'text': '🥰', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.threads.com/@gareth_tong/post/DLsNP5Ryclf', 'reply_to': '回覆 kk.higanbana 仔仔練習「令山轉」'}, {'id': 'ig_reply_18166730353360628', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@change_4.6 等我再戀愛時，就會出', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'ig_reply_18294747301247527', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@kim_kim_bb nah', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'ig_reply_17954438123970695', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@leotheasian sometime at night', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'ig_reply_18526323214049656', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@yuqiryang 謝啦', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'ig_reply_18062044916337190', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@kep_mtb.090511 bro got caught red handed', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'ig_reply_18015257423750374', 'platform': 'Instagram', 'date': '2025-07-03', 'text': '@qiao_oqx11 終於🈶了', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DLpFpIGv_1J/'}, {'id': 'th_reply_18122477887457713', 'platform': 'Threads', 'date': '2025-06-30', 'text': '加油', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.threads.com/@gareth_tong/post/DLh9HB-Sz17', 'reply_to': '回覆 hahamanyu 全職追星帖'}, {'id': 'th_reply_18036043361385160', 'platform': 'Threads', 'date': '2025-06-29', 'text': '有的', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.threads.com/@gareth_tong/post/DLgyyJ1SYSF', 'reply_to': '回覆 yan301149「如果有錄影就好，我考試」'}, {'id': 'th_reply_18048335591403411', 'platform': 'Threads', 'date': '2025-06-29', 'text': '有零衫轉', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.threads.com/@gareth_tong/post/DLgyuuMyPxR', 'reply_to': '回覆 siunam27「會有令山轉嘛？」'}, {'id': 'ig_reply_18070043638825299', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@gareth_tong tissues', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_18366135046181010', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@enam.t stop wasting tissyes', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_17913232356021757', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@laamlaamlaam goat', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_17853551712415809', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@concertyy you 2', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_17874289227360941', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@awtler idol', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_18081041932823384', 'platform': 'Instagram', 'date': '2025-06-10', 'text': '@renalee9318 十幾take吧', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DKuDAO4Pp8p/'}, {'id': 'ig_reply_18090363109609768', 'platform': 'Instagram', 'date': '2025-05-05', 'text': '@yayaxu_bobo 用心去做吧', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DJTOozYPej6/'}, {'id': 'ig_reply_18054304184247735', 'platform': 'Instagram', 'date': '2025-05-05', 'text': '@a2m.film_ Thankyou for the amazing pictures', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DJTOozYPej6/'}, {'id': 'ig_reply_18339719746080544', 'platform': 'Instagram', 'date': '2025-04-22', 'text': 'Hahahaha we went 0/5, will try again next time', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DIxyBwRR7oE/'}, {'id': 'ig_reply_17847914436356460', 'platform': 'Instagram', 'date': '2025-01-01', 'text': '@kalostarz 有度數的', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DESYnDXvVfg/'}, {'id': 'ig_reply_17966576450826948', 'platform': 'Instagram', 'date': '2025-01-01', 'text': '@69.chui u know its@oakley', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DESYnDXvVfg/'}, {'id': 'ig_reply_18322501435086669', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@ajisaiii___ kodak ultramax 400', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCdugXTPHPq/'}, {'id': 'ig_reply_17963891642697044', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@morada1026 跟 @warnermusichk 跟進一下', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCdugXTPHPq/'}, {'id': 'ig_reply_18027969803597450', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@nuhes_926 不是啦，只在地鐵巧遇🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCdugXTPHPq/'}, {'id': 'ig_reply_18045777677476758', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@affachan thanks affa, i still have lots to learn', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCdugXTPHPq/'}, {'id': 'ig_reply_18033887243085964', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@xxhaclxx canonet ql17', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCdugXTPHPq/'}, {'id': 'ig_reply_18045734366505325', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@canisssmama_ 應該係翹埋咗', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCbxFmQP2qQ/'}, {'id': 'ig_reply_18289345339235099', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@wini_weiwl next time perhaps', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCbxFmQP2qQ/'}, {'id': 'ig_reply_17938827839925407', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@wini_weiwl it was amazing', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCbxFmQP2qQ/'}, {'id': 'ig_reply_17971084598666066', 'platform': 'Instagram', 'date': '2024-11-16', 'text': '@jyoexu 太感謝了🥺', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DCbxFmQP2qQ/'}, {'id': 'ig_reply_18045858589841189', 'platform': 'Instagram', 'date': '2024-10-20', 'text': '@jiushi5e5 會出啊，只想找一個好的時間', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DBV7vvVP-UD/'}, {'id': 'ig_reply_18367091260119621', 'platform': 'Instagram', 'date': '2024-10-20', 'text': '@haslen_y 看看心情', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DBV7vvVP-UD/'}, {'id': 'ig_reply_18046943021084666', 'platform': 'Instagram', 'date': '2024-10-20', 'text': '@vickyl6262 永遠不會放棄', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/DBV7vvVP-UD/'}, {'id': 'ig_reply_18050626138871205', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@yipingg_ 一言為定🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18337757590121113', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@___ay_u next or next next year perhapsssss', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18057317668689986', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@katie_11ss yall were amazing', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_17926971251946511', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@xxijun_y_ang 下次安排一下', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18058621168674132', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@cerisecherrr 下次來吧🥺', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18065057017624328', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@69.chui worked out', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18039597716078087', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@shuxinxie0411 我想', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18050622526888236', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@dwaynehx_x gotta write more English bangers before us tour 🙂\u200d↕️', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_18075712801534214', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@jeungayu_fii 希望之後可以', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}, {'id': 'ig_reply_17877687534084350', 'platform': 'Instagram', 'date': '2024-09-06', 'text': '@zak.sux thanksss brother, more to come hopefully, hope you’re doing good too', 'kind': 'reply', 'verified': True, 'post_url': 'https://www.instagram.com/p/C_kyJiNvHeD/'}], 'posts': [{'id': 'ig_post_18174169852485671', 'platform': 'Instagram', 'date': '2026-11-27', 'text': '「心動一半」mv 已經上架 link in bio —— 曲：我和 @nictsui；詞：易家揚老師；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/'}, {'id': 'ig_post_17892408873474874', 'platform': 'Instagram', 'date': '2026-11-25', 'text': '心動一半 —— 11月27日 00:00 各大音樂平台上架；11月27日 20:00 MV首播', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DgKen2lypND/'}, {'id': 'ig_post_18287540680293076', 'platform': 'Instagram', 'date': '2026-11-13', 'text': 'Just switch #GalaxyZFold8 @samsung_hk', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DftRKO4SnHn/'}, {'id': 'ig_post_18154150189527755', 'platform': 'Instagram', 'date': '2026-10-31', 'text': 'photo dump', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/p/DfMAxvukpSj/'}, {'id': 'ig_post_18078878198475396', 'platform': 'Instagram', 'date': '2026-10-23', 'text': 'waited a long time for this —— OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027：2027年1月20至23日，晚上8時15分，紅磡香港體育館，票價 $1380 / $980 / $680；恒生信用卡優先訂票 11/3 12:00–11/5 23:59；Trip.com 率先發售 11/9 10:00–11/11 23:59', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/p/De1ALSnyrL4/'}, {'id': 'ig_post_17913426801519602', 'platform': 'Instagram', 'date': '2026-10-22', 'text': 'quick LA trip', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/p/DezJpf5kvEP/'}, {'id': 'ig_post_17978092593129179', 'platform': 'Instagram', 'date': '2026-10-11', 'text': '紅館見🫂', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/'}, {'id': 'ig_post_18031384553890515', 'platform': 'Instagram', 'date': '2026-09-26', 'text': 'mv credits —— director @elaiinelam；art director @sarenechan；producer @ryoooocoy', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/p/Ddv_ua3kms8/'}, {'id': 'ig_post_18139013650623367', 'platform': 'Instagram', 'date': '2026-09-24', 'text': 'pale pink mv out now —— melody by me and @yippatrick；lyrics by @concertyy；arrangement by @nictsui @teddyfanguitar @tombeats.bass @leeyatding and me', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/p/Ddq2c12Em8e/'}, {'id': 'ig_post_17869017147647224', 'platform': 'Instagram', 'date': '2026-09-23', 'text': '淺粉紅 —— 9月24日 00:00 各大音樂平台上架；9月24日 20:00 MV首播', 'kind': 'post', 'verified': True, 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/'}, {'id': 'th_post_18107414614984615', 'platform': 'Threads', 'date': '2026-08-19', 'text': '今日收到，謝謝', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18087553364404233', 'platform': 'Threads', 'date': '2026-08-17', 'text': '媽的，又是這樣', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18027080858497124', 'platform': 'Threads', 'date': '2025-06-29', 'text': '今天6:30pm 朗豪坊4F中庭 首唱「用背脊唱情歌」 歡迎圍觀 + IG同步直播', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18211457185306085', 'platform': 'Threads', 'date': '2025-06-16', 'text': '眼淚若嫌多', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_17855017527405483', 'platform': 'Threads', 'date': '2025-06-09', 'text': '出了新歌 不妨聽聽 https://youtu.be/falq0Gr3rc0', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18493424104051291', 'platform': 'Threads', 'date': '2025-03-20', 'text': '朋友們，出個threads，tag我，說說你覺得自己還未夠好的地方 我會嘗試想想辦法讓你知道，自己有多好', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18085128910540023', 'platform': 'Threads', 'date': '2025-03-19', 'text': '真心感謝大家這幾天給我的鼓勵，日後會用作品報答大家 但也不妨鼓勵一下身邊的人，告訴他們有多好', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_17960467637895295', 'platform': 'Threads', 'date': '2025-02-23', 'text': '新書包', 'kind': 'post', 'verified': True, 'post_url': ''}, {'id': 'th_post_18029337467567728', 'platform': 'Threads', 'date': '2025-01-13', 'text': '其實覺得還沒唱出歌詞應有的感覺，但這總算是一個完整的版本吧', 'kind': 'post', 'verified': True, 'media_type': 'VIDEO', 'post_url': ''}, {'id': 'th_post_18092595115476097', 'platform': 'Threads', 'date': '2024-09-15', 'text': '隨意彈', 'kind': 'post', 'verified': True, 'media_type': 'IMAGE', 'post_url': ''}, {'id': 'th_post_18009484130246116', 'platform': 'Threads', 'date': '2024-06-06', 'text': '除了音樂，我還能為社會貢獻些什麼?', 'kind': 'post', 'verified': True, 'media_type': 'TEXT_ONLY', 'post_url': ''}, {'id': 'th_post_18029762740973308', 'platform': 'Threads', 'date': '2024-04-29', 'text': '如果下次有人搵我影相，我會提醒自己笑🙂\u200d↕️', 'kind': 'post', 'verified': True, 'media_type': 'TEXT_ONLY', 'post_url': ''}, {'id': 'th_txt_mv_share', 'platform': 'Threads', 'date': '未能查證', 'text': 'gareth.t - 用背脊唱情歌 (official video)', 'kind': 'post', 'verified': False, 'post_url': '', 'note': '原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實'}]}
 def get_seed_comments():
-    """初始基准双平台语录与回复（防止云端机房被 Meta 拦截时页面空白）"""
-    return [
-        {"id": "seed_1", "platform": "Instagram", "date": "2026-11-27", "text": "《心動一半》MV 預告底下粉絲留言問「點解著紅色大褸行雪地」，Gareth.T 本尊回覆：「因為綠色聖誕樹唔畀入鏡。」"},
-        {"id": "seed_2", "platform": "Instagram", "date": "2026-11-20", "text": "華納唱片官宣 2027 紅館《Coliseum 2027》四場開賣，粉絲求加場，Gareth.T 回覆：「4 場剛剛好，留返啲力氣唱爆紅館。」"},
-        {"id": "seed_3", "platform": "Threads", "date": "2026-11-18", "text": "凌晨 3:42 Threads 動態：「寫完副歌發現成個 studio 得返我同杯凍檸茶。」"},
-        {"id": "seed_4", "platform": "Instagram", "date": "2026-09-24", "text": "《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」"},
-        {"id": "seed_5", "platform": "Threads", "date": "2026-07-04", "text": "澳門《心零王子》尾場結束後 Threads：「多謝澳門三晚，下一站紅館見。」"}
-    ]
-
-
-def sync_social_photos_and_posts(existing_photos, existing_comments):
-    """4. 免登录抓取 IG & Threads 本人原图与动态（支持 Apify Token 兜底）；每一步失败都只跳过该步"""
-    existing_photos = existing_photos or []
-    existing_comments = existing_comments or []
-    photo_ids = {p["id"] for p in existing_photos}
-    comment_ids = {c["id"] for c in existing_comments}
+    """Gemini 种子语录 5 条，原样保留，绝不删除。
+    核实状态：截至 2026-11-27，在已扫描的 50 篇 IG 帖文与 Threads
+    回覆/帖文前 3 页中均未找到 seed_1–seed_5 的对应原文，
+    故全部标注 verified=False；若日后核实到，再改 True。"""
+    return [{'id': 'seed_1', 'platform': 'Instagram', 'date': '2026-11-27', 'text': '《心動一半》MV 預告底下粉絲留言問「點解著紅色大褸行雪地」，Gareth.T 本尊回覆：「因為綠色聖誕樹唔畀入鏡。」', 'kind': 'seed', 'verified': False, 'note': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）', 'post_url': ''}, {'id': 'seed_2', 'platform': 'Instagram', 'date': '2026-11-20', 'text': '華納唱片官宣 2027 紅館《Coliseum 2027》四場開賣，粉絲求加場，Gareth.T 回覆：「4 場剛剛好，留返啲力氣唱爆紅館。」', 'kind': 'seed', 'verified': False, 'note': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）', 'post_url': ''}, {'id': 'seed_3', 'platform': 'Threads', 'date': '2026-11-18', 'text': '凌晨 3:42 Threads 動態：「寫完副歌發現成個 studio 得返我同杯凍檸茶。」', 'kind': 'seed', 'verified': False, 'note': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）', 'post_url': ''}, {'id': 'seed_4', 'platform': 'Instagram', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'kind': 'seed', 'verified': False, 'note': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）', 'post_url': ''}, {'id': 'seed_5', 'platform': 'Threads', 'date': '2026-07-04', 'text': '澳門《心零王子》尾場結束後 Threads：「多謝澳門三晚，下一站紅館見。」', 'kind': 'seed', 'verified': False, 'note': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）', 'post_url': ''}]
+def sync_social_photos_and_posts(existing_ig, existing_th, existing_comments, existing_posts):
+    """4. 只从 Gareth 本人帖文取原图（Apify post-based；无 token 则跳过）。
+    绝不再抓 IG/Threads 首页网格——之前那两张错图（IG 宣传图、驾驶考试
+    成绩表）就是首页/广告/推荐内容混进来的。只保留来自 @gareth_tong
+    本人帖文的图片，按内容 MD5 去重，坏图黑名单直接丢弃。
+    照片按平台分开存：photos_ig / photos_threads，绝不混放。
+    文字动态不靠爬虫：回覆/帖文以 connector 核实的 backfill 为准。"""
+    photos_ig = list(existing_ig or [])
+    photos_th = list(existing_th or [])
+    comments = list(existing_comments or [])
+    posts = list(existing_posts or [])
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-
+    seen_md5 = set()
+    for p in photos_ig + photos_th:
+        fp = os.path.join(PHOTOS_DIR, p.get("filename", ""))
+        if os.path.exists(fp):
+            try:
+                seen_md5.add(hashlib.md5(open(fp, "rb").read()).hexdigest())
+            except Exception:
+                pass
     apify_token = os.environ.get("APIFY_TOKEN", "").strip()
     if apify_token:
         try:
@@ -455,106 +422,127 @@ def sync_social_photos_and_posts(existing_photos, existing_comments):
                     sc = post.get("shortCode", "")
                     pdate = (post.get("timestamp") or today_str)[:10]
                     cap = (post.get("caption") or "Instagram 本人發布").strip()
+                    post_url = f"https://www.instagram.com/p/{sc}/" if sc else ""
                     imgs = post.get("images") or ([post["displayUrl"]] if post.get("displayUrl") else [])
                     for idx, img_url in enumerate(imgs, start=1):
-                        pid = f"ig_{sc}_{idx}"
                         fname = f"IG_{pdate}_{sc}_{idx}.jpg"
-                        if pid not in photo_ids and save_file_binary(img_url, os.path.join(PHOTOS_DIR, fname), 15000):
-                            existing_photos.insert(0, {
-                                "id": pid, "platform": "Instagram", "date": pdate,
-                                "caption": cap, "src": f"./photos/{fname}", "filename": fname
-                            })
-                            photo_ids.add(pid)
+                        fpath = os.path.join(PHOTOS_DIR, fname)
+                        if not save_file_binary(img_url, fpath, 15000):
+                            continue
+                        try:
+                            md5 = hashlib.md5(open(fpath, "rb").read()).hexdigest()
+                        except Exception:
+                            continue
+                        if md5 in seen_md5 or md5 in BAD_PHOTO_MD5 or fname in BAD_PHOTO_FILES:
+                            try:
+                                os.remove(fpath)
+                            except Exception:
+                                pass
+                            continue
+                        seen_md5.add(md5)
+                        photos_ig.insert(0, {
+                            "id": f"ig_{sc}_{idx}", "platform": "Instagram", "date": pdate,
+                            "caption": cap, "src": f"./photos/{fname}", "filename": fname,
+                            "source_post": post_url})
         except Exception as e:
             print(f"[Apify IG 同步跳过] {e}")
-
-    # 免费直连补充抓取 Threads 与 IG 公开网格
-    try:
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(user_agent=HEADERS["User-Agent"], viewport={"width": 1280, "height": 900})
-            page = context.new_page()
-
-            for platform_name, page_url in [("Threads", f"https://www.threads.net/@{TARGET_USER}"), ("Instagram", f"https://www.instagram.com/{TARGET_USER}/")]:
-                try:
-                    page.goto(page_url, wait_until="networkidle", timeout=35000)
-                    for _ in range(5):
-                        page.mouse.wheel(0, 1600)
-                        page.wait_for_timeout(1500)
-
-                    for img in page.query_selector_all("img"):
-                        src = img.get_attribute("src") or ""
-                        alt = (img.get_attribute("alt") or "").strip()
-                        if ("scontent" not in src and "cdninstagram" not in src) or "150x150" in src:
-                            continue
-                        uid = hashlib.md5(src.split("?")[0].encode("utf-8")).hexdigest()[:10]
-                        pid = f"{platform_name[:2].lower()}_{uid}"
-                        fname = f"{platform_name}_{today_str}_{uid}.jpg"
-                        if pid not in photo_ids and save_file_binary(src, os.path.join(PHOTOS_DIR, fname), 20480):
-                            existing_photos.insert(0, {
-                                "id": pid, "platform": platform_name, "date": today_str,
-                                "caption": alt if alt else f"{platform_name} 本人發布照片",
-                                "src": f"./photos/{fname}", "filename": fname
-                            })
-                            photo_ids.add(pid)
-
-                    if platform_name == "Threads":
-                        for span in page.query_selector_all("div[data-pressable-container='true'] span[dir='auto']"):
-                            txt = (span.inner_text() or "").strip()
-                            # Junk filter: like-counts / dates / bare domains
-                            # must never become "posts" again.
-                            if not is_valid_post_text(txt):
-                                continue
-                            txt = _clean_post_text(txt)
-                            cid = "th_txt_" + hashlib.md5(txt.encode("utf-8")).hexdigest()[:10]
-                            if cid not in comment_ids:
-                                existing_comments.insert(0, {
-                                    "id": cid, "platform": "Threads", "date": today_str, "text": txt
-                                })
-                                comment_ids.add(cid)
-                except Exception as e:
-                    print(f"[{platform_name} 抓取跳过] {e}")
-
-            browser.close()
-    except Exception as e:
-        print(f"[IG/Threads 直连同步跳过] {e}")
-
-    return existing_photos, existing_comments
-
-
+    return photos_ig, photos_th, comments, posts
 def main():
     db = load_data()
-    # Purge junk already stored in site_data.json (e.g. "4.5K", "06/09/25").
-    db["comments"] = clean_comments(db.get("comments", []))
+    # --- 迁移旧版混合数据 ---
+    # 旧 comments 里混入的帖文（ig_post_/th_post_/th_txt_）移去 posts。
+    posts = list(db.get("posts", []))
+    comments = []
+    for c in db.get("comments", []):
+        cid = c.get("id", "")
+        if cid.startswith(("ig_post_", "th_post_", "th_txt_")):
+            if cid not in {p.get("id") for p in posts}:
+                posts.append(c)
+        else:
+            comments.append(c)
+    db["comments"] = clean_comments(comments)
+    db["posts"] = posts
+    # 旧 photos（混合清单）按 platform 拆成 photos_ig / photos_threads。
+    photos_ig = list(db.get("photos_ig", []))
+    photos_th = list(db.get("photos_threads", []))
+    _have_photo_ids = {p.get("id") for p in photos_ig + photos_th}
+    for p in db.get("photos", []) or []:
+        if p.get("id") in _have_photo_ids:
+            continue
+        _have_photo_ids.add(p.get("id"))
+        (photos_ig if p.get("platform") == "Instagram" else photos_th).append(p)
+    db.pop("photos", None)
+    # 清除已确认的坏图（宣传图/驾驶考试表/重复）。
+    for lst in (photos_ig, photos_th):
+        lst[:] = [p for p in lst if p.get("filename") not in BAD_PHOTO_FILES]
+    # 旧 interviews 若仍是混合清单（无 mvs 分表），按 classify_video() 重分。
+    if "mvs" not in db and isinstance(db.get("interviews"), list):
+        legacy = db.pop("interviews")
+        split = {"interviews": [], "mvs": [], "lives": [], "fancams": []}
+        for v in legacy:
+            split[classify_video(v.get("id", ""), v.get("title", ""), v.get("source", ""))].append(v)
+        db["interviews"] = split["interviews"]
+        db["mvs"] = split["mvs"]
+        db["lives"] = split["lives"]
+        db["fancams"] = split["fancams"]
     db["releases"] = sync_music_and_real_covers(db.get("releases", []))
-    db["interviews"] = sync_interviews(db.get("interviews", []))
+    videos = sync_videos({
+        "interviews": db.get("interviews", []),
+        "mvs": db.get("mvs", []),
+        "lives": db.get("lives", []),
+        "fancams": db.get("fancams", []),
+    })
+    db["interviews"] = videos["interviews"]
+    db["mvs"] = videos["mvs"]
+    db["lives"] = videos["lives"]
+    db["fancams"] = videos["fancams"]
     db["concerts"] = get_base_concerts()
     db["news"] = sync_news(db.get("news", []))
-    db["photos"], db["comments"] = sync_social_photos_and_posts(db.get("photos", []), db.get("comments", []))
-    db["comments"] = clean_comments(db.get("comments", []))
-    # 初始语录种子 + connector 核实的本人历史回覆/帖文：缺失的才补，
-    # 不覆盖已同步的本人动态；种子绝不删除。
-    have_ids = {c.get("id") for c in db["comments"]}
-    for item in get_seed_comments() + get_verified_backfill():
-        if item["id"] not in have_ids:
+    photos_ig, photos_th, db["comments"], db["posts"] = sync_social_photos_and_posts(
+        photos_ig, photos_th, db.get("comments", []), db.get("posts", []))
+    db["photos_ig"] = photos_ig
+    db["photos_threads"] = photos_th
+    # 种子 + connector 核实的回覆/帖文/艺人互动：缺失才补，绝不删除种子。
+    have_c = {c.get("id") for c in db["comments"]}
+    for item in get_seed_comments():
+        if item["id"] not in have_c:
             db["comments"].append(item)
-            have_ids.add(item["id"])
+            have_c.add(item["id"])
+    bf = get_verified_backfill()
+    for item in bf["replies"]:
+        if item["id"] not in have_c:
+            db["comments"].append(item)
+            have_c.add(item["id"])
+    have_p = {p.get("id") for p in db["posts"]}
+    for item in bf["posts"]:
+        if item["id"] not in have_p:
+            db["posts"].append(item)
+            have_p.add(item["id"])
+    db["artist_interactions"] = ARTIST_INTERACTIONS
     # 按正文去重（爬虫版与核实版同一条只留一条），保留首次出现的条目。
-    seen_texts = set()
-    deduped = []
-    for c in db["comments"]:
-        key = re.sub(r"\s+", " ", str(c.get("text", ""))).strip().lower()
-        if key and key in seen_texts:
-            continue
-        seen_texts.add(key)
-        deduped.append(c)
-    db["comments"] = deduped
-    db["comments"].sort(key=lambda c: c.get("date", ""), reverse=True)
+    for key_name in ("comments", "posts"):
+        seen_texts = set()
+        deduped = []
+        for c in db.get(key_name, []):
+            key = re.sub(r"\s+", " ", str(c.get("text", ""))).strip().lower()
+            if key and key in seen_texts:
+                continue
+            seen_texts.add(key)
+            deduped.append(c)
+        db[key_name] = deduped
+    db["comments"].sort(key=lambda c: c.get("date", "") or "0000-00-00", reverse=True)
+    db["posts"].sort(key=lambda c: c.get("date", "") or "0000-00-00", reverse=True)
     db["updated_at"] = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(db, f, ensure_ascii=False, indent=2)
     print("全自动更新完成！")
+    print(f"counts: releases={len(db.get('releases', []))} photos_ig={len(db.get('photos_ig', []))} "
+          f"photos_threads={len(db.get('photos_threads', []))} comments={len(db.get('comments', []))} "
+          f"posts={len(db.get('posts', []))} interviews={len(db.get('interviews', []))} "
+          f"mvs={len(db.get('mvs', []))} lives={len(db.get('lives', []))} "
+          f"fancams={len(db.get('fancams', []))} concerts={len(db.get('concerts', []))} "
+          f"news={len(db.get('news', []))}")
 
 
 if __name__ == "__main__":
