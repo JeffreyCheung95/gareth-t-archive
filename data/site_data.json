@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:15 UTC",
+  "updated_at": "2026-11-27 15:00 UTC",
   "releases": [
     {
       "id": "6836248204",
@@ -1713,16 +1713,6 @@
   ],
   "posts": [
     {
-      "id": "th_txt_mv_share",
-      "platform": "Threads",
-      "date": "未能查證",
-      "text": "gareth.t - 用背脊唱情歌 (official video)",
-      "kind": "post",
-      "verified": false,
-      "post_url": "",
-      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
-    },
-    {
       "id": "ig_post_18174169852485671",
       "platform": "Instagram",
       "date": "2026-11-27",
@@ -1919,6 +1909,16 @@
       "kind": "post",
       "verified": true,
       "post_url": ""
+    },
+    {
+      "id": "th_txt_mv_share",
+      "platform": "Threads",
+      "date": "未能查證",
+      "text": "gareth.t - 用背脊唱情歌 (official video)",
+      "kind": "post",
+      "verified": false,
+      "post_url": "",
+      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
     }
   ],
   "interviews": [
@@ -2913,42 +2913,6 @@
   ],
   "lives": [
     {
-      "id": "zvr6HFoWu5E",
-      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
-      "date": "2026-04-24",
-      "category": "現場演出",
-      "source": "RTHK 香港電台（官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
-    },
-    {
-      "id": "MnCf7bMVork",
-      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
-      "date": "2025-12-27",
-      "category": "現場演出",
-      "source": "STARS（YouTube，非官方上載）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
-    },
-    {
-      "id": "XmWu9jcnNHc",
-      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
-      "date": "2025-06-30",
-      "category": "現場演出",
-      "source": "Music Life（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
-    },
-    {
       "id": "XIf9Nc-b9tk",
       "title": "2022-11-23 湯令山 Gareth. T - Master Class + 鏡中鏡 @ November Rain 2022",
       "date": "2022-11-23",
@@ -2960,6 +2924,406 @@
       ],
       "thumb": "https://i.ytimg.com/vi/XIf9Nc-b9tk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=XIf9Nc-b9tk"
+    },
+    {
+      "id": "Dp4BZr41hHc",
+      "title": "《CHILL CLUB》你未聽過嘅私藏英文版! Gareth. T X R.O.O.T 《Master Class》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/Dp4BZr41hHc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Dp4BZr41hHc",
+      "songs": [
+        "Master Class"
+      ],
+      "date": "2021-08-19"
+    },
+    {
+      "id": "w_Lg2gecd_0",
+      "title": "【孭背包唱情歌】湯令山 Gareth.T ·《用背脊唱情歌》加冕“CHILL CLUB年度之歌” 2026/05/03",
+      "category": "現場演出",
+      "source": "MoreForms Media魔方全媒",
+      "thumb": "https://i.ytimg.com/vi/w_Lg2gecd_0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=w_Lg2gecd_0",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "date": "2026-05-03"
+    },
+    {
+      "id": "E1PPcbI20PA",
+      "title": "Gareth.T《緊急聯絡人》@ 【24.04.21 Chill Club】",
+      "category": "現場演出",
+      "source": "孔報音樂",
+      "thumb": "https://i.ytimg.com/vi/E1PPcbI20PA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=E1PPcbI20PA",
+      "songs": [
+        "緊急聯絡人"
+      ],
+      "date": "2024-04-21"
+    },
+    {
+      "id": "cSE6Sn7K770",
+      "title": "Gareth. T 湯令山【Chill Club Medley】Growing Up、勁浪漫 超溫馨、Something、Best Me I Can、Modern Loneliness",
+      "category": "現場演出",
+      "source": "sneezeey",
+      "thumb": "https://i.ytimg.com/vi/cSE6Sn7K770/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cSE6Sn7K770",
+      "songs": [
+        "Growing Up",
+        "勁浪漫 超溫馨",
+        "Something",
+        "Best Me I Can",
+        "Modern Loneliness"
+      ],
+      "date": "2022-01-16"
+    },
+    {
+      "id": "Hm_7KtR9pDk",
+      "title": "gareth.t X MC 張天賦 - 緊急聯絡人【KATCH OUR LIFE: WARNER! GO!音樂會】",
+      "category": "現場演出",
+      "source": "Gareth.T",
+      "thumb": "https://i.ytimg.com/vi/Hm_7KtR9pDk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Hm_7KtR9pDk",
+      "songs": [
+        "緊急聯絡人"
+      ],
+      "date": "2025-03-03"
+    },
+    {
+      "id": "pc9nZ2syMs0",
+      "title": "【拉闊 少於三】Gareth.T同觀眾一齊感動大合唱《用背脊唱情歌》｜拉闊音樂會 少於三足本重溫",
+      "category": "現場演出",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/pc9nZ2syMs0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=pc9nZ2syMs0",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "date": "2026-06-08"
+    },
+    {
+      "id": "bJoTQmdx3-k",
+      "title": "姜濤 Keung To x Gareth T.《鏡中鏡》[Spiegel im Spiegel] at Chill Club Chart Awards 2021/22 (Eng subtitles)",
+      "category": "現場演出",
+      "source": "Keung To English Fan Page ",
+      "thumb": "https://i.ytimg.com/vi/bJoTQmdx3-k/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=bJoTQmdx3-k",
+      "songs": [
+        "鏡中鏡"
+      ],
+      "date": "2022-04-26"
+    },
+    {
+      "id": "cH_gMjvLUME",
+      "title": "Gareth T 湯令山 X 林峯 用背脊唱情歌 Go With The Flow 林峯澳門演唱會",
+      "category": "現場演出",
+      "source": "The Show Must Go On",
+      "thumb": "https://i.ytimg.com/vi/cH_gMjvLUME/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cH_gMjvLUME",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "date": "2026-01-18"
+    },
+    {
+      "id": "kpdRXGcM6Ec",
+      "title": "【4K】 Gareth.T 湯令山 - Boyfriend Materials [Cartier “Love Is All” Music 20211219]",
+      "category": "現場演出",
+      "source": "JustMeeeeee",
+      "thumb": "https://i.ytimg.com/vi/kpdRXGcM6Ec/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=kpdRXGcM6Ec",
+      "songs": [
+        "boyfriend material"
+      ],
+      "date": "2021-12-19"
+    },
+    {
+      "id": "RuZwg17ADvk",
+      "title": "緊急聯絡人 Emergency Contact - 湯令山 Gareth. T  現場版 (Live)",
+      "category": "現場演出",
+      "source": "Le Yong",
+      "thumb": "https://i.ytimg.com/vi/RuZwg17ADvk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=RuZwg17ADvk",
+      "songs": [
+        "緊急聯絡人"
+      ],
+      "date": "2024-02-24"
+    },
+    {
+      "id": "XbWaG9ITyj8",
+      "title": "2025.08.10 湯令山 Gareth T - 用背脊唱情歌【樂動新城．慈善運音會】",
+      "category": "現場演出",
+      "source": "Merveilles Record",
+      "thumb": "https://i.ytimg.com/vi/XbWaG9ITyj8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XbWaG9ITyj8",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "date": "2025-08-10"
+    },
+    {
+      "id": "UaQ90ciirQs",
+      "title": "Gareth T 湯令山 - 用背脊唱情歌 (Live) | Prince of Sadness 倫敦站 ｜30 Oct 2025",
+      "category": "現場演出",
+      "source": "英倫爸爸",
+      "thumb": "https://i.ytimg.com/vi/UaQ90ciirQs/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=UaQ90ciirQs",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "date": "2025-10-30"
+    },
+    {
+      "id": "r8_jm-_nHS4",
+      "title": "湯令山 Gareth.T 《用背脊唱情歌》《緊急聯絡人》｜14/8/2026 《SHINE ON! 保良慈善演唱會》｜保良局慈善演唱會｜保良局",
+      "category": "現場演出",
+      "source": "Brighter",
+      "thumb": "https://i.ytimg.com/vi/r8_jm-_nHS4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=r8_jm-_nHS4",
+      "songs": [
+        "用背脊唱情歌",
+        "緊急聯絡人"
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "aVsEQRptqNY",
+      "title": "《Katch優惠平台熱切呈獻【2021年度叱咤樂壇流行榜頒獎典禮】亞洲國際博覽館 亞博15年 音樂再起飛》 | 表演片段",
+      "category": "現場演出",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/aVsEQRptqNY/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=aVsEQRptqNY",
+      "songs": [
+        "群星表演（Gareth.T 參與）"
+      ],
+      "date": "2022-01-02"
+    },
+    {
+      "id": "cUQzh-B9e_g",
+      "title": "《CHILL CLUB》💙 Gareth.T🎤 G（for grounded）《你都不知道自己有多好》《顏色》《耿耿於懷》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/cUQzh-B9e_g/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cUQzh-B9e_g",
+      "songs": [
+        "你都不知道自己有多好",
+        "顏色",
+        "耿耿於懷"
+      ],
+      "date": "2025-11-04"
+    },
+    {
+      "id": "lTvC-dJS7qo",
+      "title": "《CHILL CLUB》💙 Gareth.T🎤 T（for Timeless）《偶像已死》《Yesterday》《蜚蜚》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/lTvC-dJS7qo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=lTvC-dJS7qo",
+      "songs": [
+        "偶像已死",
+        "Yesterday",
+        "蜚蜚"
+      ],
+      "date": "2025-11-05"
+    },
+    {
+      "id": "tAiHAXLRJH0",
+      "title": "《CHILL CLUB》💙 Gareth.T🎤 This is GT《泥菩薩》《Skinny love》《用背脊唱情歌》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/tAiHAXLRJH0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=tAiHAXLRJH0",
+      "songs": [
+        "泥菩薩",
+        "Skinny Love",
+        "用背脊唱情歌"
+      ],
+      "date": "2025-11-07"
+    },
+    {
+      "id": "by5wY_Ylp3E",
+      "title": "《CHILL CLUB》一起做個愛情大誠實家！Gareth.T X Moon Tang《Honest》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/by5wY_Ylp3E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=by5wY_Ylp3E",
+      "songs": [
+        "Honest"
+      ],
+      "date": "2023-02-10"
+    },
+    {
+      "id": "BO0YHfqr1Jk",
+      "title": "D GERRARD x Gareth.T 湯令山《CHILL CLUB》情歌宇宙🇹🇭 《緊急聯絡人 x Galaxy Express x Boyfriend Material x Scientist》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/BO0YHfqr1Jk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=BO0YHfqr1Jk",
+      "songs": [
+        "緊急聯絡人",
+        "Boyfriend Material"
+      ],
+      "date": "2024-11-19"
+    },
+    {
+      "id": "pbupXdeeR0c",
+      "title": "《CHILL CLUB》要好好的過🫶🏻 Gareth T.《遇上你之前的我》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/pbupXdeeR0c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=pbupXdeeR0c",
+      "songs": [
+        "遇上你之前的我"
+      ],
+      "date": "2024-05-08"
+    },
+    {
+      "id": "vFv8xdJ646o",
+      "title": "《CHILL CLUB》首次現埸！狂LOOP取暖！Gareth.T《勁浪漫 超溫馨》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/vFv8xdJ646o/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=vFv8xdJ646o",
+      "songs": [
+        "勁浪漫 超溫馨"
+      ],
+      "date": "2022-01-20"
+    },
+    {
+      "id": "1pBesAC7Bzo",
+      "title": "《Chill Club》 EP 285 - Gareth.T湯令山、雲浩影",
+      "category": "現場演出",
+      "source": "ViuTV World by MakerVille",
+      "thumb": "https://i.ytimg.com/vi/1pBesAC7Bzo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=1pBesAC7Bzo",
+      "songs": [
+        "多首歌曲（全集）"
+      ],
+      "date": "2025-11-08"
+    },
+    {
+      "id": "IGXgbeE3zaE",
+      "title": "《CHILL CLUB推介榜》2022年第52周冠軍歌 Gareth.T 《笑住喊》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/IGXgbeE3zaE/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=IGXgbeE3zaE",
+      "songs": [
+        "笑住喊"
+      ],
+      "date": "2022-12-26"
+    },
+    {
+      "id": "Sgnq9daKBMg",
+      "title": "《CHILL CLUB》新力軍 +1！新鮮感+1 ！草蜢 + Gareth.T《一加一加一的愛》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/Sgnq9daKBMg/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Sgnq9daKBMg",
+      "songs": [
+        "一加一加一的愛"
+      ],
+      "date": "2022-09-06"
+    },
+    {
+      "id": "cYJJAoW0N1s",
+      "title": "《CHILL CLUB》滿滿的愛情回憶！甜甜的失落感！Gareth.T《Let me know》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/cYJJAoW0N1s/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cYJJAoW0N1s",
+      "songs": [
+        "let me know"
+      ],
+      "date": "2023-11-04"
+    },
+    {
+      "id": "WZ48iYBo1yE",
+      "title": "《CHILL CLUB》浪漫的氛圍！迷人的演繹！Gareth.T X Serrini《煙霧瀰漫》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/WZ48iYBo1yE/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=WZ48iYBo1yE",
+      "songs": [
+        "煙霧瀰漫"
+      ],
+      "date": "2023-02-09"
+    },
+    {
+      "id": "xBe78Dj1XFo",
+      "title": "《CHILL CLUB》慢慢來! 別讓人生快播! Gareth.T《Speed Limit》",
+      "category": "現場演出",
+      "source": "ViuTV",
+      "thumb": "https://i.ytimg.com/vi/xBe78Dj1XFo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=xBe78Dj1XFo",
+      "songs": [
+        "Speed Limit"
+      ],
+      "date": "2021-11-24"
+    },
+    {
+      "id": "GcX7KtwPq6Q",
+      "title": "Gareth.T 湯令山 - 蜚蜚 （原唱 陳僖儀）",
+      "date": "2025-11-07",
+      "category": "現場演出",
+      "source": "Gareth.T",
+      "songs": [
+        "蜚蜚"
+      ],
+      "thumb": "https://i.ytimg.com/vi/GcX7KtwPq6Q/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=GcX7KtwPq6Q"
+    },
+    {
+      "id": "hLoCMW1eP4E",
+      "title": "耿耿於懷 - Cover by Gareth.T 湯令山（原唱 麥浚龍）",
+      "date": "2025-12-09",
+      "category": "現場演出",
+      "source": "Gareth.T",
+      "songs": [
+        "耿耿於懷"
+      ],
+      "thumb": "https://i.ytimg.com/vi/hLoCMW1eP4E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=hLoCMW1eP4E"
+    },
+    {
+      "id": "CSf511CFkYc",
+      "title": "湯令山 Gareth.T Live at HYPEBEAST SOUNDS (boyfriend material, dinner in bed, shining)",
+      "date": "2022-07-25",
+      "category": "現場演出",
+      "source": "HYPEBEAST",
+      "songs": [
+        "boyfriend material",
+        "dinner in bed",
+        "shining",
+        "I Keep Scrolling Wishing You Would Comment...."
+      ],
+      "thumb": "https://i.ytimg.com/vi/CSf511CFkYc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=CSf511CFkYc"
+    },
+    {
+      "id": "sRE_YbVibMU",
+      "title": "Gareth.T 湯令山｜ Best Kept Secret & 湯令山 (live session)",
+      "date": "2022-06-29",
+      "category": "現場演出",
+      "source": "Concrete Woods",
+      "songs": [
+        "Best Kept Secret"
+      ],
+      "thumb": "https://i.ytimg.com/vi/sRE_YbVibMU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
+    },
+    {
+      "id": "owRghq0jMVk",
+      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
+      "date": "2022-05-18",
+      "category": "現場演出",
+      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "songs": [
+        "懷舊情人",
+        "勁浪漫 超溫馨"
+      ],
+      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
     },
     {
       "id": "xPdNKcngYU8",
@@ -2975,17 +3339,28 @@
       "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
     },
     {
-      "id": "owRghq0jMVk",
-      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
-      "date": "2022-05-18",
+      "id": "glC4c918Wf8",
+      "title": "《CHILL CLUB》注入全新感覺！男女合唱的浪漫！Julia Wu 吳卓源 & Gareth.T《那些年》",
+      "date": "2023-10-31",
       "category": "現場演出",
-      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "source": "ViuTV（官方）",
       "songs": [
-        "懷舊情人",
-        "勁浪漫 超溫馨"
+        "那些年"
       ],
-      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
+      "thumb": "https://i.ytimg.com/vi/glC4c918Wf8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=glC4c918Wf8"
+    },
+    {
+      "id": "zvr6HFoWu5E",
+      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
+      "date": "2026-04-24",
+      "category": "現場演出",
+      "source": "RTHK 香港電台（官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
     },
     {
       "id": "NASap-eBRjU",
@@ -3006,407 +3381,49 @@
       "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
     },
     {
-      "id": "Dp4BZr41hHc",
-      "title": "《CHILL CLUB》你未聽過嘅私藏英文版! Gareth. T X R.O.O.T 《Master Class》",
+      "id": "XmWu9jcnNHc",
+      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
+      "date": "2025-06-30",
       "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/Dp4BZr41hHc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Dp4BZr41hHc",
-      "songs": [
-        "Master Class"
-      ],
-      "date": null
-    },
-    {
-      "id": "w_Lg2gecd_0",
-      "title": "【孭背包唱情歌】湯令山 Gareth.T ·《用背脊唱情歌》加冕“CHILL CLUB年度之歌” 2026/05/03",
-      "category": "現場演出",
-      "source": "MoreForms Media魔方全媒",
-      "thumb": "https://i.ytimg.com/vi/w_Lg2gecd_0/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=w_Lg2gecd_0",
+      "source": "Music Life（YouTube，非官方）",
       "songs": [
         "用背脊唱情歌"
       ],
-      "date": null
+      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
     },
     {
-      "id": "E1PPcbI20PA",
-      "title": "Gareth.T《緊急聯絡人》@ 【24.04.21 Chill Club】",
+      "id": "MnCf7bMVork",
+      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
+      "date": "2025-12-27",
       "category": "現場演出",
-      "source": "孔報音樂",
-      "thumb": "https://i.ytimg.com/vi/E1PPcbI20PA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=E1PPcbI20PA",
-      "songs": [
-        "緊急聯絡人"
-      ],
-      "date": null
-    },
-    {
-      "id": "cSE6Sn7K770",
-      "title": "Gareth. T 湯令山【Chill Club Medley】Growing Up、勁浪漫 超溫馨、Something、Best Me I Can、Modern Loneliness",
-      "category": "現場演出",
-      "source": "sneezeey",
-      "thumb": "https://i.ytimg.com/vi/cSE6Sn7K770/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cSE6Sn7K770",
-      "songs": [
-        "Growing Up",
-        "勁浪漫 超溫馨",
-        "Something",
-        "Best Me I Can",
-        "Modern Loneliness"
-      ],
-      "date": null
-    },
-    {
-      "id": "Hm_7KtR9pDk",
-      "title": "gareth.t X MC 張天賦 - 緊急聯絡人【KATCH OUR LIFE: WARNER! GO!音樂會】",
-      "category": "現場演出",
-      "source": "Gareth.T",
-      "thumb": "https://i.ytimg.com/vi/Hm_7KtR9pDk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Hm_7KtR9pDk",
-      "songs": [
-        "緊急聯絡人"
-      ],
-      "date": null
-    },
-    {
-      "id": "pc9nZ2syMs0",
-      "title": "【拉闊 少於三】Gareth.T同觀眾一齊感動大合唱《用背脊唱情歌》｜拉闊音樂會 少於三足本重溫",
-      "category": "現場演出",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/pc9nZ2syMs0/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=pc9nZ2syMs0",
+      "source": "STARS（YouTube，非官方上載）",
       "songs": [
         "用背脊唱情歌"
       ],
-      "date": null
-    },
-    {
-      "id": "bJoTQmdx3-k",
-      "title": "姜濤 Keung To x Gareth T.《鏡中鏡》[Spiegel im Spiegel] at Chill Club Chart Awards 2021/22 (Eng subtitles)",
-      "category": "現場演出",
-      "source": "Keung To English Fan Page ",
-      "thumb": "https://i.ytimg.com/vi/bJoTQmdx3-k/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=bJoTQmdx3-k",
-      "songs": [
-        "鏡中鏡"
-      ],
-      "date": null
-    },
-    {
-      "id": "cH_gMjvLUME",
-      "title": "Gareth T 湯令山 X 林峯 用背脊唱情歌 Go With The Flow 林峯澳門演唱會",
-      "category": "現場演出",
-      "source": "The Show Must Go On",
-      "thumb": "https://i.ytimg.com/vi/cH_gMjvLUME/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cH_gMjvLUME",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "date": null
-    },
-    {
-      "id": "kpdRXGcM6Ec",
-      "title": "【4K】 Gareth.T 湯令山 - Boyfriend Materials [Cartier “Love Is All” Music 20211219]",
-      "category": "現場演出",
-      "source": "JustMeeeeee",
-      "thumb": "https://i.ytimg.com/vi/kpdRXGcM6Ec/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=kpdRXGcM6Ec",
-      "songs": [
-        "boyfriend material"
-      ],
-      "date": null
-    },
-    {
-      "id": "RuZwg17ADvk",
-      "title": "緊急聯絡人 Emergency Contact - 湯令山 Gareth. T  現場版 (Live)",
-      "category": "現場演出",
-      "source": "Le Yong",
-      "thumb": "https://i.ytimg.com/vi/RuZwg17ADvk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=RuZwg17ADvk",
-      "songs": [
-        "緊急聯絡人"
-      ],
-      "date": null
-    },
-    {
-      "id": "XbWaG9ITyj8",
-      "title": "2025.08.10 湯令山 Gareth T - 用背脊唱情歌【樂動新城．慈善運音會】",
-      "category": "現場演出",
-      "source": "Merveilles Record",
-      "thumb": "https://i.ytimg.com/vi/XbWaG9ITyj8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XbWaG9ITyj8",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "date": null
-    },
-    {
-      "id": "UaQ90ciirQs",
-      "title": "Gareth T 湯令山 - 用背脊唱情歌 (Live) | Prince of Sadness 倫敦站 ｜30 Oct 2025",
-      "category": "現場演出",
-      "source": "英倫爸爸",
-      "thumb": "https://i.ytimg.com/vi/UaQ90ciirQs/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=UaQ90ciirQs",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "date": null
-    },
-    {
-      "id": "r8_jm-_nHS4",
-      "title": "湯令山 Gareth.T 《用背脊唱情歌》《緊急聯絡人》｜14/8/2026 《SHINE ON! 保良慈善演唱會》｜保良局慈善演唱會｜保良局",
-      "category": "現場演出",
-      "source": "Brighter",
-      "thumb": "https://i.ytimg.com/vi/r8_jm-_nHS4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=r8_jm-_nHS4",
-      "songs": [
-        "用背脊唱情歌",
-        "緊急聯絡人"
-      ],
-      "date": null
-    },
-    {
-      "id": "aVsEQRptqNY",
-      "title": "《Katch優惠平台熱切呈獻【2021年度叱咤樂壇流行榜頒獎典禮】亞洲國際博覽館 亞博15年 音樂再起飛》 | 表演片段",
-      "category": "現場演出",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/aVsEQRptqNY/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=aVsEQRptqNY",
-      "songs": [
-        "群星表演（Gareth.T 參與）"
-      ],
-      "date": null
-    },
-    {
-      "id": "cUQzh-B9e_g",
-      "title": "《CHILL CLUB》💙 Gareth.T🎤 G（for grounded）《你都不知道自己有多好》《顏色》《耿耿於懷》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/cUQzh-B9e_g/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cUQzh-B9e_g",
-      "songs": [
-        "你都不知道自己有多好",
-        "顏色",
-        "耿耿於懷"
-      ],
-      "date": null
-    },
-    {
-      "id": "lTvC-dJS7qo",
-      "title": "《CHILL CLUB》💙 Gareth.T🎤 T（for Timeless）《偶像已死》《Yesterday》《蜚蜚》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/lTvC-dJS7qo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=lTvC-dJS7qo",
-      "songs": [
-        "偶像已死",
-        "Yesterday",
-        "蜚蜚"
-      ],
-      "date": null
-    },
-    {
-      "id": "tAiHAXLRJH0",
-      "title": "《CHILL CLUB》💙 Gareth.T🎤 This is GT《泥菩薩》《Skinny love》《用背脊唱情歌》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/tAiHAXLRJH0/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=tAiHAXLRJH0",
-      "songs": [
-        "泥菩薩",
-        "Skinny Love",
-        "用背脊唱情歌"
-      ],
-      "date": null
-    },
-    {
-      "id": "by5wY_Ylp3E",
-      "title": "《CHILL CLUB》一起做個愛情大誠實家！Gareth.T X Moon Tang《Honest》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/by5wY_Ylp3E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=by5wY_Ylp3E",
-      "songs": [
-        "Honest"
-      ],
-      "date": null
-    },
-    {
-      "id": "BO0YHfqr1Jk",
-      "title": "D GERRARD x Gareth.T 湯令山《CHILL CLUB》情歌宇宙🇹🇭 《緊急聯絡人 x Galaxy Express x Boyfriend Material x Scientist》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/BO0YHfqr1Jk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=BO0YHfqr1Jk",
-      "songs": [
-        "緊急聯絡人",
-        "Boyfriend Material"
-      ],
-      "date": null
-    },
-    {
-      "id": "pbupXdeeR0c",
-      "title": "《CHILL CLUB》要好好的過🫶🏻 Gareth T.《遇上你之前的我》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/pbupXdeeR0c/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=pbupXdeeR0c",
-      "songs": [
-        "遇上你之前的我"
-      ],
-      "date": null
-    },
-    {
-      "id": "vFv8xdJ646o",
-      "title": "《CHILL CLUB》首次現埸！狂LOOP取暖！Gareth.T《勁浪漫 超溫馨》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/vFv8xdJ646o/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=vFv8xdJ646o",
-      "songs": [
-        "勁浪漫 超溫馨"
-      ],
-      "date": null
-    },
-    {
-      "id": "1pBesAC7Bzo",
-      "title": "《Chill Club》 EP 285 - Gareth.T湯令山、雲浩影",
-      "category": "現場演出",
-      "source": "ViuTV World by MakerVille",
-      "thumb": "https://i.ytimg.com/vi/1pBesAC7Bzo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=1pBesAC7Bzo",
-      "songs": [
-        "多首歌曲（全集）"
-      ],
-      "date": null
-    },
-    {
-      "id": "IGXgbeE3zaE",
-      "title": "《CHILL CLUB推介榜》2022年第52周冠軍歌 Gareth.T 《笑住喊》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/IGXgbeE3zaE/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=IGXgbeE3zaE",
-      "songs": [
-        "笑住喊"
-      ],
-      "date": null
-    },
-    {
-      "id": "Sgnq9daKBMg",
-      "title": "《CHILL CLUB》新力軍 +1！新鮮感+1 ！草蜢 + Gareth.T《一加一加一的愛》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/Sgnq9daKBMg/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Sgnq9daKBMg",
-      "songs": [
-        "一加一加一的愛"
-      ],
-      "date": null
-    },
-    {
-      "id": "cYJJAoW0N1s",
-      "title": "《CHILL CLUB》滿滿的愛情回憶！甜甜的失落感！Gareth.T《Let me know》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/cYJJAoW0N1s/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cYJJAoW0N1s",
-      "songs": [
-        "let me know"
-      ],
-      "date": null
-    },
-    {
-      "id": "WZ48iYBo1yE",
-      "title": "《CHILL CLUB》浪漫的氛圍！迷人的演繹！Gareth.T X Serrini《煙霧瀰漫》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/WZ48iYBo1yE/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=WZ48iYBo1yE",
-      "songs": [
-        "煙霧瀰漫"
-      ],
-      "date": null
-    },
-    {
-      "id": "xBe78Dj1XFo",
-      "title": "《CHILL CLUB》慢慢來! 別讓人生快播! Gareth.T《Speed Limit》",
-      "category": "現場演出",
-      "source": "ViuTV",
-      "thumb": "https://i.ytimg.com/vi/xBe78Dj1XFo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=xBe78Dj1XFo",
-      "songs": [
-        "Speed Limit"
-      ],
-      "date": null
-    },
-    {
-      "id": "GcX7KtwPq6Q",
-      "title": "Gareth.T 湯令山 - 蜚蜚 （原唱 陳僖儀）",
-      "date": null,
-      "category": "現場演出",
-      "source": "Gareth.T",
-      "songs": [
-        "蜚蜚"
-      ],
-      "thumb": "https://i.ytimg.com/vi/GcX7KtwPq6Q/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=GcX7KtwPq6Q"
-    },
-    {
-      "id": "hLoCMW1eP4E",
-      "title": "耿耿於懷 - Cover by Gareth.T 湯令山（原唱 麥浚龍）",
-      "date": null,
-      "category": "現場演出",
-      "source": "Gareth.T",
-      "songs": [
-        "耿耿於懷"
-      ],
-      "thumb": "https://i.ytimg.com/vi/hLoCMW1eP4E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=hLoCMW1eP4E"
-    },
-    {
-      "id": "CSf511CFkYc",
-      "title": "湯令山 Gareth.T Live at HYPEBEAST SOUNDS (boyfriend material, dinner in bed, shining)",
-      "date": null,
-      "category": "現場演出",
-      "source": "HYPEBEAST",
-      "songs": [
-        "boyfriend material",
-        "dinner in bed",
-        "shining",
-        "I Keep Scrolling Wishing You Would Comment...."
-      ],
-      "thumb": "https://i.ytimg.com/vi/CSf511CFkYc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=CSf511CFkYc"
-    },
-    {
-      "id": "sRE_YbVibMU",
-      "title": "Gareth.T 湯令山｜ Best Kept Secret & 湯令山 (live session)",
-      "date": null,
-      "category": "現場演出",
-      "source": "Concrete Woods",
-      "songs": [
-        "Best Kept Secret",
-        "湯令山"
-      ],
-      "thumb": "https://i.ytimg.com/vi/sRE_YbVibMU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
-    },
-    {
-      "id": "glC4c918Wf8",
-      "title": "《CHILL CLUB》注入全新感覺！男女合唱的浪漫！Julia Wu 吳卓源 & Gareth.T《那些年》",
-      "date": null,
-      "category": "現場演出",
-      "source": "ViuTV（官方）",
-      "songs": [
-        "那些年"
-      ],
-      "thumb": "https://i.ytimg.com/vi/glC4c918Wf8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=glC4c918Wf8"
+      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
     }
   ],
   "fancams": [
+    {
+      "id": "V2CjuEOvxHA",
+      "title": "《用背脊唱情歌》Gareth Tong 湯令山【Chill Club 推介榜年度推介 25/26】Fan Cam (2026.05.03)",
+      "category": "Fan Cam",
+      "source": "Ginger_Peach_KT",
+      "thumb": "https://i.ytimg.com/vi/V2CjuEOvxHA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=V2CjuEOvxHA",
+      "date": "2026-05-03"
+    },
+    {
+      "id": "ryGPAlrfpzM",
+      "title": "[4K Fan Cam] 231001 Gareth.T - 鏡中鏡(Spiege im Spiegel) @ Tone Music 2023",
+      "category": "Fan Cam",
+      "source": "Lunpard",
+      "thumb": "https://i.ytimg.com/vi/ryGPAlrfpzM/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ryGPAlrfpzM",
+      "date": "2023-10-01"
+    },
     {
       "id": "PSr-oBXNnx4",
       "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
@@ -3419,18 +3436,6 @@
       ],
       "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
-    },
-    {
-      "id": "eXSMe0Qyj6c",
-      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
-      "date": "2026-03-28",
-      "category": "Fan Cam",
-      "source": "Karius Wong（YouTube，非官方）",
-      "songs": [
-        "早到的U"
-      ],
-      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
     },
     {
       "id": "Wo5BVn9cm0w",
@@ -3446,6 +3451,18 @@
       "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
     },
     {
+      "id": "UK3abwDoNXo",
+      "title": "《洋蔥》 live by Gareth T. 2025 Concert Tour",
+      "date": "2025-04-12",
+      "category": "Fan Cam",
+      "source": "hayleyCcc（YouTube，非官方）",
+      "songs": [
+        "洋蔥"
+      ],
+      "thumb": "https://i.ytimg.com/vi/UK3abwDoNXo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=UK3abwDoNXo"
+    },
+    {
       "id": "o9UlXZx_2og",
       "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
       "date": "2025-11-03",
@@ -3458,37 +3475,21 @@
       "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
     },
     {
-      "id": "V2CjuEOvxHA",
-      "title": "《用背脊唱情歌》Gareth Tong 湯令山【Chill Club 推介榜年度推介 25/26】Fan Cam (2026.05.03)",
+      "id": "eXSMe0Qyj6c",
+      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
+      "date": "2026-03-28",
       "category": "Fan Cam",
-      "source": "Ginger_Peach_KT",
-      "thumb": "https://i.ytimg.com/vi/V2CjuEOvxHA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=V2CjuEOvxHA"
-    },
-    {
-      "id": "ryGPAlrfpzM",
-      "title": "[4K Fan Cam] 231001 Gareth.T - 鏡中鏡(Spiege im Spiegel) @ Tone Music 2023",
-      "category": "Fan Cam",
-      "source": "Lunpard",
-      "thumb": "https://i.ytimg.com/vi/ryGPAlrfpzM/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=ryGPAlrfpzM"
-    },
-    {
-      "id": "UK3abwDoNXo",
-      "title": "《洋蔥》 live by Gareth T. 2025 Concert Tour",
-      "date": null,
-      "category": "Fan Cam",
-      "source": "hayleyCcc（YouTube，非官方）",
+      "source": "Karius Wong（YouTube，非官方）",
       "songs": [
-        "洋蔥"
+        "早到的U"
       ],
-      "thumb": "https://i.ytimg.com/vi/UK3abwDoNXo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=UK3abwDoNXo"
+      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
     },
     {
       "id": "qhwtIqkM3X8",
       "title": "你的背包 + 早到的U | 汤令山 | 马来西亚",
-      "date": null,
+      "date": "2026-06-21",
       "category": "Fan Cam",
       "source": "zzz（YouTube，非官方）",
       "songs": [
@@ -3501,7 +3502,7 @@
     {
       "id": "RLRidpyQI7Q",
       "title": "《陀飛輪》《Gareth.T－Prince Of nothing 湯令山- 心零王子》",
-      "date": null,
+      "date": "2026-07-07",
       "category": "Fan Cam",
       "source": "Me-Anywhere（YouTube，非官方）",
       "songs": [
@@ -3789,6 +3790,77 @@
         "孤單（加入林子祥《邁步向前》重新編曲）"
       ],
       "setlist_label": "部分核實"
+    },
+    {
+      "tour": "2024 國際邁阿密訪港表演賽開場演出",
+      "date_sort": "2024-02-04",
+      "dates": "2024-02-04（星期日）",
+      "city": "香港",
+      "venue": "香港大球場",
+      "time": "約 14:30 開場前演出",
+      "prices": "未能查證",
+      "seating": "未能查證",
+      "guests": "無表演嘉賓（個人開場演出）",
+      "ticket": "",
+      "source": "HK01／am730（2024-02-04 開場演出報道）",
+      "source_link": "https://www.hk01.com/%E7%9C%BE%E6%A8%82%E8%BF%B7/987866/%E7%BE%8E%E6%96%AF%E8%A8%AA%E6%B8%AF-gareth-t%E7%96%91%E7%B7%8A%E5%BC%B5%E5%A4%B1%E6%BA%96%E8%B5%B0%E9%9F%B3-%E9%9D%9A%E4%BB%94%E7%B5%90%E4%BB%96%E6%89%8B%E5%8B%81%E5%A4%9A%E5%A4%A7%E9%A0%AD%E6%88%90%E7%84%A6%E9%BB%9E",
+      "setlist": [
+        "勁浪漫 超溫馨",
+        "緊急聯絡人"
+      ],
+      "setlist_label": "實際歌單",
+      "kind": "event"
+    },
+    {
+      "tour": "2024 Gareth.T 湯令山 “T-Time” 馬來西亞站（首次馬來西亞專場）",
+      "date_sort": "2024-09-01",
+      "dates": "2024-09-01（星期日）",
+      "city": "Petaling Jaya（Klang Valley）",
+      "venue": "JioSpace, Petaling Jaya",
+      "time": "未能查證",
+      "prices": "VIP RM390 / 普通門票 RM220",
+      "seating": "未能查證",
+      "guests": "未能查證",
+      "ticket": "",
+      "source": "HYPE Malaysia／LUCID Live Music",
+      "source_link": "https://hype.my/hk-singer-songwriter-gareth-tong-to-perform-in-malaysia-in-september-ticket-details-announced/",
+      "setlist": [],
+      "setlist_label": "未能查證",
+      "kind": "concert"
+    },
+    {
+      "tour": "2024 Gareth.T 湯令山 “T-Time” 墨爾本站",
+      "date_sort": "2024-09-04",
+      "dates": "2024-09-04（星期三）",
+      "city": "墨爾本",
+      "venue": "Corner Hotel, Richmond, Melbourne（57 Swan St, Richmond）",
+      "time": "19:00 開演",
+      "prices": "未能查證",
+      "seating": "未能查證",
+      "guests": "未能查證",
+      "ticket": "",
+      "source": "LUCID Live Music／Bandsintown",
+      "source_link": "https://www.bandsintown.com/e/1032721136-gareth.t-at-corner-hotel",
+      "setlist": [],
+      "setlist_label": "未能查證",
+      "kind": "concert"
+    },
+    {
+      "tour": "2024 Gareth.T 湯令山 “T-Time” 悉尼站",
+      "date_sort": "2024-09-05",
+      "dates": "2024-09-05（星期四）",
+      "city": "悉尼",
+      "venue": "Manning Bar, Level 2, Manning House, Sydney University",
+      "time": "20:00–23:30",
+      "prices": "GA A$91.76 / VIP A$142.73（含見面會）",
+      "seating": "未能查證",
+      "guests": "未能查證",
+      "ticket": "",
+      "source": "Moshtix／LUCID Live Music",
+      "source_link": "https://www.moshtix.com.au/v2/event/gareth-t/168774",
+      "setlist": [],
+      "setlist_label": "未能查證",
+      "kind": "concert"
     },
     {
       "tour": "2024 Gareth.T 湯令山 “T-Time” 台北站（首次台北專場）",
@@ -4092,6 +4164,26 @@
       "setlist_label": "巡演歌單"
     },
     {
+      "tour": "2025 KEUNG TO “LAVA” LIVE 2025 第四場（嘉賓演出）",
+      "date_sort": "2025-12-20",
+      "dates": "2025-12-20（星期六）",
+      "city": "香港",
+      "venue": "亞洲國際博覽館 Arena",
+      "time": "未能查證",
+      "prices": "未能查證",
+      "seating": "未能查證",
+      "guests": "Gareth.T 為姜濤演唱會嘉賓",
+      "ticket": "",
+      "source": "U Lifestyle／星島頭條（嘉賓名單報道）",
+      "source_link": "https://hk.ulifestyle.com.hk/topic/detail/20084915/%E5%A7%9C%E6%BF%A4%E6%BC%94%E5%94%B1%E6%9C%83-%E5%A0%B4%E5%98%89%E8%B3%93%E5%90%8D%E5%96%AE%E6%AF%8F%E5%A0%B4%E4%B8%8D%E6%96%B7%E6%9B%B4%E6%96%B0-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E6%AD%8C%E6%89%8B%E9%99%A3%E5%AE%B9%E5%90%88%E5%94%B1%E6%AD%8C%E6%9B%B2",
+      "setlist": [
+        "用背脊唱情歌",
+        "去北極忘記你"
+      ],
+      "setlist_label": "實際歌單（嘉賓演出）",
+      "kind": "guest"
+    },
+    {
       "tour": "oddshapes 音樂節（墨爾本站演出）",
       "date_sort": "2026-03-28",
       "dates": "2026-03-28（星期六）",
@@ -4280,6 +4372,26 @@
       "setlist_label": "部分核實"
     },
     {
+      "tour": "2026 MC 張天賦《E=MC² 演唱會2026》尾場（嘉賓演出）",
+      "date_sort": "2026-07-11",
+      "dates": "2026-07-11（星期六）",
+      "city": "香港",
+      "venue": "香港體育館（紅館）",
+      "time": "未能查證",
+      "prices": "未能查證",
+      "seating": "未能查證",
+      "guests": "Gareth.T 為 MC 張天賦演唱會嘉賓",
+      "ticket": "",
+      "source": "巴士的報／am730（尾場嘉賓報道）",
+      "source_link": "https://www.bastillepost.com/hongkong/article/16349105-mc%e5%bc%b5%e5%a4%a9%e8%b3%a6%e5%bc%b7%e5%bf%8d%e6%b7%9a%e6%b0%b4%e5%ae%8c%e6%88%90%e7%b4%85%e9%a4%a8%e5%b0%be%e5%a0%b4-%e6%b9%af%e4%bb%a4%e5%b1%b1%e4%bb%bb%e5%98%89%e8%b3%93%e9%a9%9a%e5%96%9c",
+      "setlist": [
+        "泥菩薩",
+        "去北極忘記你"
+      ],
+      "setlist_label": "實際歌單（嘉賓演出）",
+      "kind": "guest"
+    },
+    {
       "tour": "OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）— 第 1 場",
       "date_sort": "2027-01-20",
       "dates": "2027-01-20（星期三）",
@@ -4462,16 +4574,28 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Gareth.T湯令山首度進軍紅館舉辦個唱 強勢宣布連唱四晚絕不加場 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQQWFfcTNDRm1QWDlCaDdicmdaa2tQc2RCRXpFVGlsZ002R0p2VWFpQ25lZDFvMV9xQXU4VmFjdzBXZTh4S0xINEQ4SER5Wkk4enZDVEZ5aEpxbUhaRmE4MUgyOHp0UjVBY2JGSk5IU2FqYzlOUkRrYlgxNlIwSWR0RmphMjVheXB1QlhTanBJYzVnUUUxYzllaFZZTnM1cm5OUkpabVZyWmp1U1ZqTUFocnlDczRveVpLdHpqUjR4amRacFNnQlRRWTJoal9jdlBjZG9sYi1OcmNYZTZjVDRwYjBnM3IzY05FanNmWWo3a09sdHhnSU1xbXN4SHNHNWd2eHZMb3NHNGxJUXJ0aTdUSHNQSU9HVGVTYmpybG9PSGdteGN0c2xYTjE1aDl5TlhOVWZkcTNZRXdERVVpcmRoQktkTmRoeXF2WjlkU1pUNGxyaHVOZkFQd3Ywc3hPcHBONVEzbjI4T0U4ZU96UG52VGMzekJ6Q25uV3VlRkV4MFJTS1ktRzFTb1lLSE4wdU41R0VmRzE0blB0RkdQRHFSRFlR?oc=5",
-      "source": "香港01",
-      "date": "2026-10-24"
-    },
-    {
       "title": "湯令山紅館演唱會2027｜Gareth.T一月紅館連開4場恒生卡優先訂票/Trip.com率先發售/票價/日期 - 加拿大星島日報",
       "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYm8wMkYtZVBMRWtZdE5KVzRNWlV5WWJsdms5Q09qZnFaLU9kWGpLVWhxNlVNYmhSWjBpMy1NQ2VsOF9nYUJzQWE4NVhyak9VMzQ0bjJFZXBhR0VOQUtkbGNFdzA2bngyZVVlMVdzd2RtNDBFRU1TdElqVnJtenNwWGFmZlRPSVNKX1dxcFIzbHlDOEZSbGJZMVFybEwwaF8yXy1uYzVGWlBvaHpQS3JBc1c4TGxQNjlsTTMyRkVEMjVaNW5sQjBfbTB2dk43ODU2Ynk2MFdCOGtsR3B5OXJtaF9hMXBmYnZXb0NMODNYZlltZlFXVU5NcHZ1M0h5LXRvMTVlMjdaWTdRWEJSLURGWmRNTHBOcTNIR21yMDVvY1FVbEtYUnJoOHlVT05pSWo3cFctSW80cktwSE1IcDlfWkliMTVYTTZRNW9QemNFZlJTSU9HaVUzVA?oc=5",
       "source": "加拿大星島日報",
       "date": "2026-10-23"
+    },
+    {
+      "title": "Gareth.T湯令山宣布紅館處男騷 2027年1月連開四場「Coliseum」演唱會 - Singtaousa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWlFVWNYc2VYWS1Wajhwd183azFGRnJwNmtHSElFMV9JQ0dtRm11cFpDeG5qV3ItYW5uSEFNM3h1X2t2WUFWOUZSOFAxTUdaR3JWdlI3NkxkVXJ2NG9sNWxNWGNGUHU2b3ZTQjhhZGhKeUliWlg0RDFBWlVJN0U0S2pKQmxMOGQzbkRDN0RGVWUxdVBEY1ZLTA?oc=5",
+      "source": "Singtaousa",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Is Three Minutes Enough Time to Confess Your Love? Cantopop Star Gareth T Finds Out in Uber Hong Kong's New Campaign via Special",
+      "link": "https://campaignbrief.com/is-three-minutes-enough-time-to-confess-your-love-cantopop-star-gareth-t-finds-out-in-uber-hong-kongs-new-campaign-by-special/",
+      "source": "Campaign Brief",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "湯令山考車牌4次失敗再接再厲 指緋聞女友林熙彤風趣幽默",
+      "link": "https://ol.mingpao.com/ldy/showbiz/latest/20260821/1787330135766",
+      "source": "明報",
+      "date": "2026-08-21"
     }
   ],
   "endorsements": [
