@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 14:57 UTC",
+  "updated_at": "2026-11-27 15:00 UTC",
   "releases": [
     {
       "id": "6836248204",
@@ -1713,16 +1713,6 @@
   ],
   "posts": [
     {
-      "id": "th_txt_mv_share",
-      "platform": "Threads",
-      "date": "未能查證",
-      "text": "gareth.t - 用背脊唱情歌 (official video)",
-      "kind": "post",
-      "verified": false,
-      "post_url": "",
-      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
-    },
-    {
       "id": "ig_post_18174169852485671",
       "platform": "Instagram",
       "date": "2026-11-27",
@@ -1919,9 +1909,177 @@
       "kind": "post",
       "verified": true,
       "post_url": ""
+    },
+    {
+      "id": "th_txt_mv_share",
+      "platform": "Threads",
+      "date": "未能查證",
+      "text": "gareth.t - 用背脊唱情歌 (official video)",
+      "kind": "post",
+      "verified": false,
+      "post_url": "",
+      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
     }
   ],
   "interviews": [
+    {
+      "id": "4l9OE-2P-gA",
+      "title": "✨Gareth. T😎首披露處男紅館騷🎤誓不加場真相🙅操肌💪應付4️⃣場高強度演出💦🏋️爆張天賦放飛機✈️事件❓挑戰極限小遊戲解鎖新技能🔐彩蛋可愛全面睇｜Viu1人物專訪",
+      "category": "深度專訪",
+      "source": "Viu1 HK",
+      "thumb": "https://i.ytimg.com/vi/4l9OE-2P-gA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=4l9OE-2P-gA",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "text_singtao_20261122",
+      "title": "湯令山首踏紅館「戰場」預告「再癲啲」構思三年打造音樂劇式演唱會",
+      "category": "文字專訪",
+      "source": "星島日報",
+      "thumb": "",
+      "link": "https://www.singtao.co.uk/2026-11-22/%e6%b9%af%e4%bb%a4%e5%b1%b1%e9%a6%96%e8%b8%8f%e7%b4%85%e9%a4%a8%e3%80%8c%e6%88%b0%e5%a0%b4%e3%80%8d-%e9%a0%90%e5%91%8a%e3%80%8c%e5%86%8d%e7%99%b2%e5%95%b2%e3%80%8d-%e6%a7%8b%e6%80%9d%e4%b8%89%e5%b9%b4/4767933",
+      "date": "2026-11-22",
+      "is_text": true
+    },
+    {
+      "id": "qYfuRnMu8O8",
+      "title": "【電笠】Gareth.T 湯令山 專訪：紅館．王菲．廣東歌 / 我已經在山裏面了，但一山還比一山高。",
+      "category": "深度專訪",
+      "source": "dl.thevoc",
+      "thumb": "https://i.ytimg.com/vi/qYfuRnMu8O8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=qYfuRnMu8O8",
+      "date": "2026-11-16"
+    },
+    {
+      "id": "text_she_20261109",
+      "title": "〖#sheceleb〗湯令山首闖紅館預告有驚喜！化身「馬路殺手」逆襲挑戰用背脊「聽」情歌大展唱功",
+      "category": "文字專訪",
+      "source": "she.com",
+      "thumb": "",
+      "link": "https://www.she.com/entertainment/%E6%B9%AF%E4%BB%A4%E5%B1%B1-%E6%BC%94%E5%94%B1%E6%9C%83-garetht-%E7%B4%85%E9%A4%A8",
+      "date": "2026-11-09",
+      "is_text": true
+    },
+    {
+      "id": "text_standard_20261107",
+      "title": "Big Macs, beef cubes, and childhood quarrels: Gareth.T explores food as a vessel of memory",
+      "category": "文字專訪",
+      "source": "The Standard / 頭條日報《起筷》",
+      "thumb": "",
+      "link": "https://www.thestandard.com.hk/entertainment/article/347822/Big-Macs-beef-cubes-and-childhood-quarrels-GarethT-explores-food-as-a-vessel-of-memory",
+      "date": "2026-11-07",
+      "is_text": true
+    },
+    {
+      "id": "gBcNv6t3fRk",
+      "title": "專訪丨湯令山 Gareth T 從小自信爆棚 個唱兼任「湯導」稱大事為重會聽取意見丨分享五個歌手生涯轉捩點 踩入紅館叫大家完騷才恭喜他丨田木集作",
+      "category": "深度專訪",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/gBcNv6t3fRk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=gBcNv6t3fRk",
+      "date": "2026-11-01"
+    },
+    {
+      "id": "text_scmp_202611",
+      "title": "‘Basically Gladiator’: Cantopop singer Gareth.T on his Hong Kong Coliseum shows",
+      "category": "文字專訪",
+      "source": "South China Morning Post",
+      "thumb": "",
+      "link": "https://www.scmp.com/lifestyle/entertainment/article/3372677/hong-kong-singer-songwriter-garetht-why-coliseum-shows-will-be-basically-gladiator",
+      "date": "2026-11",
+      "is_text": true
+    },
+    {
+      "id": "gq_video_20261028",
+      "title": "GQ Hong Kong 專訪｜湯令山談首個紅館騷《Coliseum》：鬥獸場概念、操肌蛻變",
+      "category": "深度專訪",
+      "source": "GQ Hong Kong",
+      "thumb": "",
+      "link": "https://www.instagram.com/reel/DfBocvFhOCR/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "eF0YeCF4FJA",
+      "title": "湯令山Gareth.T明年一月首登紅館丨為人生第一張紅館演唱會海報變身羅馬石像 花兩個半小時特效化妝嗌值得丨田木集作",
+      "category": "深度專訪",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/eF0YeCF4FJA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=eF0YeCF4FJA",
+      "date": "2026-10-23"
+    },
+    {
+      "id": "text_mpweekly_20261023",
+      "title": "首闖紅館變做「鬥獸場」湯令山拍海報化身石像 封盤唔再加場",
+      "category": "文字專訪",
+      "source": "明周娛樂",
+      "thumb": "",
+      "link": "https://www.mpweekly.com/entertainment/article/%e9%a6%96%e9%97%96%e7%b4%85%e9%a4%a8%e8%ae%8a%e5%81%9a%e3%80%8c%e9%ac%a5%e7%8d%b8%e5%a0%b4%e3%80%8d-%e6%b9%af%e4%bb%a4%e5%b1%b1%e6%8b%8d%e6%b5%b7%e5%a0%b1%e5%8c%96%e8%ba%ab%e7%9f%b3%e5%83%8f-%e5%b0%81",
+      "date": "2026-10-23",
+      "is_text": true
+    },
+    {
+      "id": "VegwN_sxcx0",
+      "title": "演唱會名稱早於澳門騷披露？Gareth.T：紅館英文名係咩？｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/VegwN_sxcx0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=VegwN_sxcx0",
+      "date": "2026-09-22"
+    },
+    {
+      "id": "YC7DOLEllR4",
+      "title": "【His Story】湯令山 Gareth.T｜大馬演唱會一票難求！人氣急升的香港新世代唱作人，如何征服華語地區樂迷？",
+      "category": "深度專訪",
+      "source": "Uncore安歌頻道",
+      "thumb": "https://i.ytimg.com/vi/YC7DOLEllR4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=YC7DOLEllR4",
+      "date": "2026-09-18"
+    },
+    {
+      "id": "oC0VqlF5U3U",
+      "title": "湯令山公開考車牌「肥」4次 講明會再接再厲丨￼提緋聞女友Hazel甜到漏丨回應抄歌風波￼稱下次會小心丨明年一月殺入紅館 預計搵嘉賓上台打交丨田木集作￼",
+      "category": "深度專訪",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/oC0VqlF5U3U/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=oC0VqlF5U3U",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "nBMB4_mfVW4",
+      "title": "[Gareth.T] Lessons Learned from the Plagiarism Controversy | Failing His Driving Test for Years",
+      "category": "深度專訪",
+      "source": "星娛匯 STARCASA",
+      "thumb": "https://i.ytimg.com/vi/nBMB4_mfVW4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=nBMB4_mfVW4",
+      "date": "2026-08-21"
+    },
+    {
+      "id": "arNz2Bi7_no",
+      "title": "澳洲演唱會前夕！Gareth T 湯令山專訪：2026 演唱會，新專輯與得獎心路歷程",
+      "category": "深度專訪",
+      "source": "Durian Club 榴槤俱樂部 (Radio 4eb)",
+      "thumb": "https://i.ytimg.com/vi/arNz2Bi7_no/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=arNz2Bi7_no",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "vutsUk4Ebg4",
+      "title": "【拉闊 少於三】一律建議👏🏻👏🏻 MC 張天賦、CONSTANCE 康堤、Gareth.T邊個最唔熟自己首歌？",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/vutsUk4Ebg4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=vutsUk4Ebg4",
+      "date": "2026-05-12"
+    },
+    {
+      "id": "3IrIBaugZw8",
+      "title": "Gareth.T 湯令山台北巡唱遇地震暫停演出丨翻唱《流沙》致敬陶喆 滿足樂迷心願清單唱完整版《玻璃》 丨田木集作",
+      "category": "深度專訪",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/3IrIBaugZw8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=3IrIBaugZw8",
+      "date": "2026-05-01"
+    },
     {
       "id": "text_cool_20260430",
       "title": "Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個",
@@ -1933,14 +2091,412 @@
       "is_text": true
     },
     {
+      "id": "6eqt3LAps7Q",
+      "title": "Wyman驚喜越洋call in！聯同Gareth.T詳盡拆解大碟背後故事｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/6eqt3LAps7Q/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=6eqt3LAps7Q",
+      "date": "2026-04-10"
+    },
+    {
+      "id": "dPX1zAsnt_U",
+      "title": "Gareth.T 執導 MV實現極速收工？  MC 張天賦：幸福，真係幸福！｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/dPX1zAsnt_U/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=dPX1zAsnt_U",
+      "date": "2026-03-19"
+    },
+    {
+      "id": "bX5UuF4uvJ0",
+      "title": "【拉闊少於三】愛情研究所之兩性討論｜MC 張天賦、CONSTANCE 康堤、Gareth.T 愛情底線有幾底？",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/bX5UuF4uvJ0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=bX5UuF4uvJ0",
+      "date": "2026-03-09"
+    },
+    {
+      "id": "bi_Rqqjnqvo",
+      "title": "【Gareth.T 】湯令山Gareth.T是誰？從英文歌到〈用背脊唱情歌〉，他如何成長為新一代金曲唱作人 | 成長故事｜廣東歌手｜音樂物語",
+      "category": "深度專訪",
+      "source": "21世紀音樂物語",
+      "thumb": "https://i.ytimg.com/vi/bi_Rqqjnqvo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=bi_Rqqjnqvo",
+      "date": "2026-02-05"
+    },
+    {
+      "id": "mbw7pNH_iHM",
+      "title": "【拉闊 少於三】少於三愛情觀 三大準則 三個人不同觀點｜MC 張天賦 x CONSTANCE x Gareth.T",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/mbw7pNH_iHM/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=mbw7pNH_iHM",
+      "date": "2026-01-29"
+    },
+    {
+      "id": "SlhQIV08vWk",
+      "title": "【拉闊少於三】少於三的拉闊期望(´･ω･`)｜MC 張天賦 x CONSTANCE x Gareth.T",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/SlhQIV08vWk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=SlhQIV08vWk",
+      "date": "2026-01-21"
+    },
+    {
+      "id": "Y_SmD10TkaI",
+      "title": "【COVER STORY】編寫愛與希望新一章｜湯令山 GARETH.T",
+      "category": "深度專訪",
+      "source": "City Magazine 號外",
+      "thumb": "https://i.ytimg.com/vi/Y_SmD10TkaI/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Y_SmD10TkaI",
+      "date": "2026-01-13"
+    },
+    {
+      "id": "0opaICqZZR4",
+      "title": "【拉闊少於三】三字頭以下 三個人以內｜MC 張天賦 x CONSTANCE x Gareth.T",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/0opaICqZZR4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=0opaICqZZR4",
+      "date": "2026-01-06"
+    },
+    {
+      "id": "V3R05zxhP7Y",
+      "title": "✨足本訪問：湯令山讚黃百鳴唱《背脊》都dope🎤叱咤向Moon講感言❓ 康堤笑談向陳奕迅炫耀女新人金：佢都感動❗張天賦壓線唱拉闊自嘲「張三歲」😁 度發達計出記憶棉底褲做model🩲❓｜Viu1現場實況",
+      "category": "深度專訪",
+      "source": "Viu1 HK",
+      "thumb": "https://i.ytimg.com/vi/V3R05zxhP7Y/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=V3R05zxhP7Y",
+      "date": "2026-01-02"
+    },
+    {
+      "id": "cS3C0-dYr-Q",
+      "title": "MC張天賦Gareth.T湯令山帶小師妹開拉闊音樂會 康堤爆陳奕迅唔去叱咤頒獎禮原因",
+      "category": "深度專訪",
+      "source": "am730",
+      "thumb": "https://i.ytimg.com/vi/cS3C0-dYr-Q/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cS3C0-dYr-Q",
+      "date": "2026-01-02"
+    },
+    {
+      "id": "text_am730_20251227",
+      "title": "新城勁爆頒獎禮2025｜華納三寶回應與新城破冰 Gareth. T談《用背脊唱情歌》不入叱咤五強",
+      "category": "文字專訪",
+      "source": "am730",
+      "thumb": "",
+      "link": "https://www.am730.com.hk/娛樂/新城勁爆頒獎禮2025-華納三寶回應與新城破冰-gareth.-t談-用背脊唱情歌-不入叱咤五強/631402",
+      "date": "2025-12-27",
+      "is_text": true
+    },
+    {
+      "id": "text_viewarts_20251031",
+      "title": "Gareth.T on His Journey as the Prince of Sadness – Exclusive Interview",
+      "category": "文字專訪",
+      "source": "View of the Arts",
+      "thumb": "",
+      "link": "https://viewofthearts.com/2025/10/31/gareth-t-on-his-journey-as-the-prince-of-sadness-exclusive-interview/",
+      "date": "2025-10-31",
+      "is_text": true
+    },
+    {
+      "id": "6akJLoxCYq8",
+      "title": "《Channel專訪》Gareth.T《泥菩薩》原來是講自己！為何「自身難保」？",
+      "category": "深度專訪",
+      "source": "hksingerchannel",
+      "thumb": "https://i.ytimg.com/vi/6akJLoxCYq8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=6akJLoxCYq8",
+      "date": "2025-10-28"
+    },
+    {
+      "id": "text_wave_20251025",
+      "title": "Gareth.T - The Artist Who Walked Out of the Bedroom",
+      "category": "文字專訪",
+      "source": "Wave. 流行文化誌 (Instagram)",
+      "thumb": "",
+      "link": "https://www.instagram.com/p/DQOAlaokXoM/",
+      "date": "2025-10-25",
+      "is_text": true
+    },
+    {
+      "id": "text_huashang_20251016",
+      "title": "人物專訪｜湯令山 Gareth.T",
+      "category": "文字專訪",
+      "source": "華商世界 (Instagram)",
+      "thumb": "",
+      "link": "https://www.instagram.com/p/DP3Y7-zkqUP/",
+      "date": "2025-10-16",
+      "is_text": true
+    },
+    {
+      "id": "Pv_ZjTnbjwk",
+      "title": "Gareth.T 湯令山 ｜專訪｜演唱會觀眾為何要洗定手入場？點解著一套衫可以唱哂成個Show？有什麼必殺技？",
+      "category": "深度專訪",
+      "source": "hksingerchannel",
+      "thumb": "https://i.ytimg.com/vi/Pv_ZjTnbjwk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Pv_ZjTnbjwk",
+      "date": "2025-10-02"
+    },
+    {
+      "id": "yONAzGNJ2wc",
+      "title": "新歌超越前作變「難唱No.1」？Gareth.T：今次個唱唔考慮試！",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/yONAzGNJ2wc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=yONAzGNJ2wc",
+      "date": "2025-09-30"
+    },
+    {
+      "id": "text_yuyi_20250924",
+      "title": "湯令山專訪｜從惡魔小孩到學乖",
+      "category": "文字專訪",
+      "source": "娛壹 As One (Instagram)",
+      "thumb": "",
+      "link": "https://www.instagram.com/p/DPAOQe4gaRP/",
+      "date": "2025-09-24",
+      "is_text": true
+    },
+    {
       "id": "text_60s_202509",
       "title": "〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！",
       "category": "文字專訪",
       "source": "閱評流（LINE TODAY）",
       "thumb": "",
       "link": "https://today.line.me/hk/v3/article/j7gLOza",
-      "date": "2025-09",
+      "date": "2025-09-21",
       "is_text": true
+    },
+    {
+      "id": "text_mpweekly_20250919",
+      "title": "音樂才子 有個電影夢 湯令山│湯令山專訪",
+      "category": "文字專訪",
+      "source": "明周娛樂",
+      "thumb": "",
+      "link": "https://www.mpweekly.com/entertainment/article/%e9%9f%b3%e6%a8%82%e6%89%8d%e5%ad%90-%e6%9c%89%e5%80%8b%e9%9b%bb%e5%bd%b1%e5%a4%a2-%e6%b9%af%e4%bb%a4%e5%b1%b1%e2%94%82%e6%b9%af%e4%bb%a4%e5%b1%b1%e5%b0%88%e8%a8%aa",
+      "date": "2025-09-19",
+      "is_text": true
+    },
+    {
+      "id": "DZuUZ1teJ4U",
+      "title": "專訪丨Gareth.T湯令山變「心傷王子」澳門 & 英國開騷 期望明年進軍紅館 丨英國之行最期待與Wyman見面 歡迎樂迷「令山轉」丨想向Tyson Yoshi學習說話技巧應對傳媒丨田木集作",
+      "category": "深度專訪",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/DZuUZ1teJ4U/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=DZuUZ1teJ4U",
+      "date": "2025-09-18"
+    },
+    {
+      "id": "now_20250810",
+      "title": "足本訪問：湯令山受Tyson啟發想孖女伴遊意大利 冇機會翻撻Moon Tang 爆姜濤未瞓醒缺席打拳之約",
+      "category": "深度專訪",
+      "source": "Now 新聞",
+      "thumb": "",
+      "link": "https://news.now.com/home/entertainment/player?newsId=614334",
+      "date": "2025-08-10"
+    },
+    {
+      "id": "nihM0mFZoKI",
+      "title": "初出道被批個性「沙塵」？Gareth.T：當時睇世界唔夠闊｜《口水多過浪花》",
+      "category": "深度專訪",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/nihM0mFZoKI/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=nihM0mFZoKI",
+      "date": "2025-07-29"
+    },
+    {
+      "id": "text_gq_20250708",
+      "title": "專訪香港創作歌手 Gareth. T 湯令山",
+      "category": "文字專訪",
+      "source": "GQ Hong Kong",
+      "thumb": "",
+      "link": "https://gqhongkong.com/culture/music/gareth-t-interview",
+      "date": "2025-07-08",
+      "is_text": true
+    },
+    {
+      "id": "T6WFgsFndFM",
+      "title": "✨足本訪問：湯令山領53位猛男💪🏻齊半裸快閃旺角🏃🏻談未忘舊愛Moon？ 👩🏻唔敢公開求復合🤳🏻 短訊關心姜濤獲回覆 👨🏼‍⚕係對方心理輔導醫生｜Viu1現場實況",
+      "category": "深度專訪",
+      "source": "Viu1 HK",
+      "thumb": "https://i.ytimg.com/vi/T6WFgsFndFM/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=T6WFgsFndFM",
+      "date": "2025-06-30"
+    },
+    {
+      "id": "tqYhRbo7SPA",
+      "title": "虐心流淚畫面靠平日訓練有素？Gareth.T：純粹將日常抽象化！｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/tqYhRbo7SPA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=tqYhRbo7SPA",
+      "date": "2025-06-24"
+    },
+    {
+      "id": "DdqGWqvI7QU",
+      "title": "【電笠】Gareth.T 湯令山 專訪：勇氣 · 坦誠 · 烘爐火",
+      "category": "深度專訪",
+      "source": "dl.thevoc",
+      "thumb": "https://i.ytimg.com/vi/DdqGWqvI7QU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=DdqGWqvI7QU",
+      "date": "2025-05-25"
+    },
+    {
+      "id": "text_youngpost_20250416",
+      "title": "Cantopop and R&B singer-songwriter Gareth.T looks to the future",
+      "category": "文字專訪",
+      "source": "Young Post",
+      "thumb": "",
+      "link": "https://www.youngpostclub.com/yp/discover/entertainment/music/article/3306104/cantopop-and-rb-singer-songwriter-garetht-looks-future",
+      "date": "2025-04-16",
+      "is_text": true
+    },
+    {
+      "id": "tSqq7RzIKgw",
+      "title": "【音樂圈】有一種關係叫做「黃偉文 ＋ 湯令山」，你都不知道  自己有多好",
+      "category": "深度專訪",
+      "source": "acirclemagazine",
+      "thumb": "https://i.ytimg.com/vi/tSqq7RzIKgw/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=tSqq7RzIKgw",
+      "date": "2025-04-15"
+    },
+    {
+      "id": "text_dianli_20250410",
+      "title": "Gareth.T 專訪：你都不知道自己有多好",
+      "category": "文字專訪",
+      "source": "電笠 (Instagram)",
+      "thumb": "",
+      "link": "https://www.instagram.com/p/DIQ-yESqKU3/",
+      "date": "2025-04-10",
+      "is_text": true
+    },
+    {
+      "id": "z18Ac37zGMI",
+      "title": "重整以「拆掉殿堂」歌手姿態回歸？Gareth.T：今年會幾黐線！｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/z18Ac37zGMI/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=z18Ac37zGMI",
+      "date": "2025-04-02"
+    },
+    {
+      "id": "mHZym00Rvfo",
+      "title": "【#大师请指教 】原来对 Gareth.T 来说，孤独和寂寞都是因为有了朋友以后才会有的🤔",
+      "category": "深度專訪",
+      "source": "Eight无限 ",
+      "thumb": "https://i.ytimg.com/vi/mHZym00Rvfo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=mHZym00Rvfo",
+      "date": "2024-09-28"
+    },
+    {
+      "id": "qw4tOf75Pfg",
+      "title": "Gareth T有想过学法律🎓",
+      "category": "深度專訪",
+      "source": "MY FM 好玩",
+      "thumb": "https://i.ytimg.com/vi/qw4tOf75Pfg/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=qw4tOf75Pfg",
+      "date": "2024-09-27"
+    },
+    {
+      "id": "viutv_talker_20240821",
+      "title": "晚吹 - 音樂系｜第29集｜陳蕾、Gareth.T 湯令山、Anson Lo",
+      "category": "深度專訪",
+      "source": "ViuTV",
+      "thumb": "",
+      "link": "https://viu.tv/encore/talker-music-is/talker--music-ise29chan-lui-garetht-tong-ling-saan-anson-lo",
+      "date": "2024-08-21"
+    },
+    {
+      "id": "CmfLC8pSkCA",
+      "title": "赴菲律賓拍MV慘遭曝曬  Gareth.T：太陽係最大難關｜《叱咤樂壇》",
+      "category": "MV / 現場演出",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/CmfLC8pSkCA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=CmfLC8pSkCA",
+      "date": "2024-05-07"
+    },
+    {
+      "id": "VBUhjfeZHAA",
+      "title": "Gareth.T🕵🏻叱咤認「正」會員",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/VBUhjfeZHAA/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=VBUhjfeZHAA",
+      "date": "2023-12-27"
+    },
+    {
+      "id": "text_figaro_20230627",
+      "title": "湯令山 Gareth.T & Moon Tang專訪｜從相親相愛，到相愛相殺",
+      "category": "文字專訪",
+      "source": "Madame Figaro Hong Kong",
+      "thumb": "",
+      "link": "https://www.madamefigaro.hk/fashion/%e6%b9%af%e4%bb%a4%e5%b1%b1-moon-tang-garetht-%e6%84%9b%e6%83%85-%e5%b0%88%e8%a8%aa-142593/",
+      "date": "2023-06-27",
+      "is_text": true
+    },
+    {
+      "id": "text_apn_20230324",
+      "title": "APN's Interview with Gareth. T",
+      "category": "文字專訪",
+      "source": "Asian Pop Nation (podcast)",
+      "thumb": "",
+      "link": "https://omny.fm/shows/asian-pop-nation/apns-interview-with-gareth-t",
+      "date": "2023-03-24",
+      "is_text": true
+    },
+    {
+      "id": "-mMJvb6AsS4",
+      "title": "隔離21日後疑患人群恐懼症？ Gareth.T：人生中最孤獨時刻！｜《叱咤樂壇》",
+      "category": "電台節目",
+      "source": "商業電台 Hong Kong Toolbar",
+      "thumb": "https://i.ytimg.com/vi/-mMJvb6AsS4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=-mMJvb6AsS4",
+      "date": "2023-03-21"
+    },
+    {
+      "id": "_dK9e-DjKWw",
+      "title": "GARETH. T 湯令山：愛是每一日都可以做的；我覺得身體是跑車｜MING'S",
+      "category": "深度專訪",
+      "source": "MING'S",
+      "thumb": "https://i.ytimg.com/vi/_dK9e-DjKWw/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=_dK9e-DjKWw",
+      "date": "2023-02-10"
+    },
+    {
+      "id": "4ydL1P98G4I",
+      "title": "湯令山《笑住喊》奪「叱咤十大」第八位：今年最好的生日禮物丨田木集作",
+      "category": "電台節目",
+      "source": "田木集作",
+      "thumb": "https://i.ytimg.com/vi/4ydL1P98G4I/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=4ydL1P98G4I",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "L0gsbDmZLh4",
+      "title": "叱咤2022｜專業推介叱咤十大第八位《笑住喊》Gareth.T湯令山後台訪問",
+      "category": "電台節目",
+      "source": "am730",
+      "thumb": "https://i.ytimg.com/vi/L0gsbDmZLh4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=L0gsbDmZLh4",
+      "date": "2023-01-01"
+    },
+    {
+      "id": "Fl0iPWi6Lxs",
+      "title": "湯令山Gareth. T專訪丨《勁浪漫超溫馨》《笑住喊》咬字讀音大難題 英文歌兼修廣東話：我兩邊都鍾意（#湯令山 #GarethT #勁浪漫超溫馨 #笑住喊 #娛壹）",
+      "category": "深度專訪",
+      "source": "娛壹 As One",
+      "thumb": "https://i.ytimg.com/vi/Fl0iPWi6Lxs/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Fl0iPWi6Lxs",
+      "date": "2022-11-02"
+    },
+    {
+      "id": "XyMfBW4LfQU",
+      "title": "#GarethT & #MoonTang 👫情侶默契大考驗💞！到底邊個最浪漫、一齊打機嗰陣邊個先係豬隊友？🐷",
+      "category": "深度專訪",
+      "source": "Cosmopolitan HK",
+      "thumb": "https://i.ytimg.com/vi/XyMfBW4LfQU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XyMfBW4LfQU",
+      "date": "2022-09-06"
     },
     {
       "id": "text_hbx_202206",
@@ -1953,38 +2509,13 @@
       "is_text": true
     },
     {
-      "id": "text_ubeat_202203",
-      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
-      "category": "文字專訪",
-      "source": "大學線月刊 UBeat（香港中文大學）",
-      "thumb": "",
-      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
-      "date": "2022-03",
-      "is_text": true
-    },
-    {
-      "id": "cCIMriBkzpU",
-      "title": "湯令山之誠實小測驗/ Gareth.T's Honesty Test",
+      "id": "kiCu40KFoIk",
+      "title": "【囝囝研究所 EP72】湯令山｜Gareth Tong｜最具潛力香港R&B唱作歌手｜勁浪漫 超溫馨｜姜濤",
       "category": "深度專訪",
-      "source": "Gareth.T",
-      "thumb": "https://i.ytimg.com/vi/cCIMriBkzpU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=cCIMriBkzpU"
-    },
-    {
-      "id": "arNz2Bi7_no",
-      "title": "澳洲演唱會前夕！Gareth T 湯令山專訪：2026 演唱會，新專輯與得獎心路歷程",
-      "category": "深度專訪",
-      "source": "Durian Club 榴槤俱樂部 (Radio 4eb)",
-      "thumb": "https://i.ytimg.com/vi/arNz2Bi7_no/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=arNz2Bi7_no"
-    },
-    {
-      "id": "6akJLoxCYq8",
-      "title": "《Channel專訪》Gareth.T《泥菩薩》原來是講自己！為何「自身難保」？",
-      "category": "深度專訪",
-      "source": "hksingerchannel",
-      "thumb": "https://i.ytimg.com/vi/6akJLoxCYq8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=6akJLoxCYq8"
+      "source": "囝囝研究所",
+      "thumb": "https://i.ytimg.com/vi/kiCu40KFoIk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=kiCu40KFoIk",
+      "date": "2022-04-01"
     },
     {
       "id": "KVqgszwxEYg",
@@ -1992,231 +2523,18 @@
       "category": "深度專訪",
       "source": "24HERBS",
       "thumb": "https://i.ytimg.com/vi/KVqgszwxEYg/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=KVqgszwxEYg"
+      "link": "https://www.youtube.com/watch?v=KVqgszwxEYg",
+      "date": "2022-03-11"
     },
     {
-      "id": "Y_SmD10TkaI",
-      "title": "【COVER STORY】編寫愛與希望新一章｜湯令山 GARETH.T",
-      "category": "深度專訪",
-      "source": "City Magazine 號外",
-      "thumb": "https://i.ytimg.com/vi/Y_SmD10TkaI/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Y_SmD10TkaI"
-    },
-    {
-      "id": "nihM0mFZoKI",
-      "title": "初出道被批個性「沙塵」？Gareth.T：當時睇世界唔夠闊｜《口水多過浪花》",
-      "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/nihM0mFZoKI/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=nihM0mFZoKI"
-    },
-    {
-      "id": "tSqq7RzIKgw",
-      "title": "【音樂圈】有一種關係叫做「黃偉文 ＋ 湯令山」，你都不知道  自己有多好",
-      "category": "深度專訪",
-      "source": "acirclemagazine",
-      "thumb": "https://i.ytimg.com/vi/tSqq7RzIKgw/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=tSqq7RzIKgw"
-    },
-    {
-      "id": "_dK9e-DjKWw",
-      "title": "GARETH. T 湯令山：愛是每一日都可以做的；我覺得身體是跑車｜MING'S",
-      "category": "深度專訪",
-      "source": "MING'S",
-      "thumb": "https://i.ytimg.com/vi/_dK9e-DjKWw/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=_dK9e-DjKWw"
-    },
-    {
-      "id": "XyMfBW4LfQU",
-      "title": "#GarethT & #MoonTang 👫情侶默契大考驗💞！到底邊個最浪漫、一齊打機嗰陣邊個先係豬隊友？🐷",
-      "category": "深度專訪",
-      "source": "Cosmopolitan HK",
-      "thumb": "https://i.ytimg.com/vi/XyMfBW4LfQU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XyMfBW4LfQU"
-    },
-    {
-      "id": "bi_Rqqjnqvo",
-      "title": "【Gareth.T 】湯令山Gareth.T是誰？從英文歌到〈用背脊唱情歌〉，他如何成長為新一代金曲唱作人 | 成長故事｜廣東歌手｜音樂物語",
-      "category": "深度專訪",
-      "source": "21世紀音樂物語",
-      "thumb": "https://i.ytimg.com/vi/bi_Rqqjnqvo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=bi_Rqqjnqvo"
-    },
-    {
-      "id": "gBcNv6t3fRk",
-      "title": "專訪丨湯令山 Gareth T 從小自信爆棚 個唱兼任「湯導」稱大事為重會聽取意見丨分享五個歌手生涯轉捩點 踩入紅館叫大家完騷才恭喜他丨田木集作",
-      "category": "深度專訪",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/gBcNv6t3fRk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=gBcNv6t3fRk"
-    },
-    {
-      "id": "mHZym00Rvfo",
-      "title": "【#大师请指教 】原来对 Gareth.T 来说，孤独和寂寞都是因为有了朋友以后才会有的🤔",
-      "category": "深度專訪",
-      "source": "Eight无限 ",
-      "thumb": "https://i.ytimg.com/vi/mHZym00Rvfo/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=mHZym00Rvfo"
-    },
-    {
-      "id": "oC0VqlF5U3U",
-      "title": "湯令山公開考車牌「肥」4次 講明會再接再厲丨￼提緋聞女友Hazel甜到漏丨回應抄歌風波￼稱下次會小心丨明年一月殺入紅館 預計搵嘉賓上台打交丨田木集作￼",
-      "category": "深度專訪",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/oC0VqlF5U3U/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=oC0VqlF5U3U"
-    },
-    {
-      "id": "3IrIBaugZw8",
-      "title": "Gareth.T 湯令山台北巡唱遇地震暫停演出丨翻唱《流沙》致敬陶喆 滿足樂迷心願清單唱完整版《玻璃》 丨田木集作",
-      "category": "深度專訪",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/3IrIBaugZw8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=3IrIBaugZw8"
-    },
-    {
-      "id": "4l9OE-2P-gA",
-      "title": "✨Gareth. T😎首披露處男紅館騷🎤誓不加場真相🙅操肌💪應付4️⃣場高強度演出💦🏋️爆張天賦放飛機✈️事件❓挑戰極限小遊戲解鎖新技能🔐彩蛋可愛全面睇｜Viu1人物專訪",
-      "category": "深度專訪",
-      "source": "Viu1 HK",
-      "thumb": "https://i.ytimg.com/vi/4l9OE-2P-gA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=4l9OE-2P-gA"
-    },
-    {
-      "id": "bZDGbJQoUOc",
-      "title": "湯令山 GARETH.T & MOON TANG・相愛相殺日記 | MINDLY.JOURNAL",
-      "category": "深度專訪",
-      "source": "MINDLY.JOURNAL",
-      "thumb": "https://i.ytimg.com/vi/bZDGbJQoUOc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=bZDGbJQoUOc"
-    },
-    {
-      "id": "yONAzGNJ2wc",
-      "title": "新歌超越前作變「難唱No.1」？Gareth.T：今次個唱唔考慮試！",
-      "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/yONAzGNJ2wc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=yONAzGNJ2wc"
-    },
-    {
-      "id": "DdqGWqvI7QU",
-      "title": "【電笠】Gareth.T 湯令山 專訪：勇氣 · 坦誠 · 烘爐火",
-      "category": "深度專訪",
-      "source": "dl.thevoc",
-      "thumb": "https://i.ytimg.com/vi/DdqGWqvI7QU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=DdqGWqvI7QU"
-    },
-    {
-      "id": "Fl0iPWi6Lxs",
-      "title": "湯令山Gareth. T專訪丨《勁浪漫超溫馨》《笑住喊》咬字讀音大難題 英文歌兼修廣東話：我兩邊都鍾意（#湯令山 #GarethT #勁浪漫超溫馨 #笑住喊 #娛壹）",
-      "category": "深度專訪",
-      "source": "娛壹 As One",
-      "thumb": "https://i.ytimg.com/vi/Fl0iPWi6Lxs/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Fl0iPWi6Lxs"
-    },
-    {
-      "id": "z18Ac37zGMI",
-      "title": "重整以「拆掉殿堂」歌手姿態回歸？Gareth.T：今年會幾黐線！｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/z18Ac37zGMI/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=z18Ac37zGMI"
-    },
-    {
-      "id": "6eqt3LAps7Q",
-      "title": "Wyman驚喜越洋call in！聯同Gareth.T詳盡拆解大碟背後故事｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/6eqt3LAps7Q/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=6eqt3LAps7Q"
-    },
-    {
-      "id": "dPX1zAsnt_U",
-      "title": "Gareth.T 執導 MV實現極速收工？  MC 張天賦：幸福，真係幸福！｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/dPX1zAsnt_U/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=dPX1zAsnt_U"
-    },
-    {
-      "id": "DZuUZ1teJ4U",
-      "title": "專訪丨Gareth.T湯令山變「心傷王子」澳門 & 英國開騷 期望明年進軍紅館 丨英國之行最期待與Wyman見面 歡迎樂迷「令山轉」丨想向Tyson Yoshi學習說話技巧應對傳媒丨田木集作",
-      "category": "深度專訪",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/DZuUZ1teJ4U/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=DZuUZ1teJ4U"
-    },
-    {
-      "id": "Pv_ZjTnbjwk",
-      "title": "Gareth.T 湯令山 ｜專訪｜演唱會觀眾為何要洗定手入場？點解著一套衫可以唱哂成個Show？有什麼必殺技？",
-      "category": "深度專訪",
-      "source": "hksingerchannel",
-      "thumb": "https://i.ytimg.com/vi/Pv_ZjTnbjwk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Pv_ZjTnbjwk"
-    },
-    {
-      "id": "kiCu40KFoIk",
-      "title": "【囝囝研究所 EP72】湯令山｜Gareth Tong｜最具潛力香港R&B唱作歌手｜勁浪漫 超溫馨｜姜濤",
-      "category": "深度專訪",
-      "source": "囝囝研究所",
-      "thumb": "https://i.ytimg.com/vi/kiCu40KFoIk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=kiCu40KFoIk"
-    },
-    {
-      "id": "qYfuRnMu8O8",
-      "title": "【電笠】Gareth.T 湯令山 專訪：紅館．王菲．廣東歌 / 我已經在山裏面了，但一山還比一山高。",
-      "category": "深度專訪",
-      "source": "dl.thevoc",
-      "thumb": "https://i.ytimg.com/vi/qYfuRnMu8O8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=qYfuRnMu8O8"
-    },
-    {
-      "id": "eF0YeCF4FJA",
-      "title": "湯令山Gareth.T明年一月首登紅館丨為人生第一張紅館演唱會海報變身羅馬石像 花兩個半小時特效化妝嗌值得丨田木集作",
-      "category": "深度專訪",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/eF0YeCF4FJA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=eF0YeCF4FJA"
-    },
-    {
-      "id": "VegwN_sxcx0",
-      "title": "演唱會名稱早於澳門騷披露？Gareth.T：紅館英文名係咩？｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/VegwN_sxcx0/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=VegwN_sxcx0"
-    },
-    {
-      "id": "Sxj0ELh13po",
-      "title": "Gareth.T式「勁浪漫」係聖誕唔使送禮物！",
-      "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/Sxj0ELh13po/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Sxj0ELh13po"
-    },
-    {
-      "id": "CmfLC8pSkCA",
-      "title": "赴菲律賓拍MV慘遭曝曬  Gareth.T：太陽係最大難關｜《叱咤樂壇》",
-      "category": "MV / 現場演出",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/CmfLC8pSkCA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=CmfLC8pSkCA"
-    },
-    {
-      "id": "4ydL1P98G4I",
-      "title": "湯令山《笑住喊》奪「叱咤十大」第八位：今年最好的生日禮物丨田木集作",
-      "category": "電台節目",
-      "source": "田木集作",
-      "thumb": "https://i.ytimg.com/vi/4ydL1P98G4I/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=4ydL1P98G4I"
-    },
-    {
-      "id": "-mMJvb6AsS4",
-      "title": "隔離21日後疑患人群恐懼症？ Gareth.T：人生中最孤獨時刻！｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/-mMJvb6AsS4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=-mMJvb6AsS4"
+      "id": "text_ubeat_202203",
+      "title": "革新香港音樂的湯令山 Gareth.T（人物專訪）",
+      "category": "文字專訪",
+      "source": "大學線月刊 UBeat（香港中文大學）",
+      "thumb": "",
+      "link": "https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html",
+      "date": "2022-02-23",
+      "is_text": true
     },
     {
       "id": "rJU0HUZL79g",
@@ -2224,87 +2542,35 @@
       "category": "電台節目",
       "source": "Jap Jap Jap",
       "thumb": "https://i.ytimg.com/vi/rJU0HUZL79g/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=rJU0HUZL79g"
+      "link": "https://www.youtube.com/watch?v=rJU0HUZL79g",
+      "date": "2022-01-01"
     },
     {
-      "id": "L0gsbDmZLh4",
-      "title": "叱咤2022｜專業推介叱咤十大第八位《笑住喊》Gareth.T湯令山後台訪問",
-      "category": "電台節目",
-      "source": "am730",
-      "thumb": "https://i.ytimg.com/vi/L0gsbDmZLh4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=L0gsbDmZLh4"
-    },
-    {
-      "id": "tqYhRbo7SPA",
-      "title": "虐心流淚畫面靠平日訓練有素？Gareth.T：純粹將日常抽象化！｜《叱咤樂壇》",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/tqYhRbo7SPA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=tqYhRbo7SPA"
-    },
-    {
-      "id": "bX5UuF4uvJ0",
-      "title": "【拉闊少於三】愛情研究所之兩性討論｜MC 張天賦、CONSTANCE 康堤、Gareth.T 愛情底線有幾底？",
+      "id": "Sxj0ELh13po",
+      "title": "Gareth.T式「勁浪漫」係聖誕唔使送禮物！",
       "category": "深度專訪",
       "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/bX5UuF4uvJ0/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=bX5UuF4uvJ0"
+      "thumb": "https://i.ytimg.com/vi/Sxj0ELh13po/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Sxj0ELh13po",
+      "date": "2021-12-10"
     },
     {
-      "id": "mbw7pNH_iHM",
-      "title": "【拉闊 少於三】少於三愛情觀 三大準則 三個人不同觀點｜MC 張天賦 x CONSTANCE x Gareth.T",
+      "id": "bZDGbJQoUOc",
+      "title": "湯令山 GARETH.T & MOON TANG・相愛相殺日記 | MINDLY.JOURNAL",
       "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/mbw7pNH_iHM/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=mbw7pNH_iHM"
+      "source": "MINDLY.JOURNAL",
+      "thumb": "https://i.ytimg.com/vi/bZDGbJQoUOc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=bZDGbJQoUOc",
+      "date": "2021-09-30"
     },
     {
-      "id": "VBUhjfeZHAA",
-      "title": "Gareth.T🕵🏻叱咤認「正」會員",
-      "category": "電台節目",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/VBUhjfeZHAA/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=VBUhjfeZHAA"
-    },
-    {
-      "id": "vutsUk4Ebg4",
-      "title": "【拉闊 少於三】一律建議👏🏻👏🏻 MC 張天賦、CONSTANCE 康堤、Gareth.T邊個最唔熟自己首歌？",
+      "id": "cCIMriBkzpU",
+      "title": "湯令山之誠實小測驗/ Gareth.T's Honesty Test",
       "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/vutsUk4Ebg4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=vutsUk4Ebg4"
-    },
-    {
-      "id": "qw4tOf75Pfg",
-      "title": "Gareth T有想过学法律🎓",
-      "category": "深度專訪",
-      "source": "MY FM 好玩",
-      "thumb": "https://i.ytimg.com/vi/qw4tOf75Pfg/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=qw4tOf75Pfg"
-    },
-    {
-      "id": "SlhQIV08vWk",
-      "title": "【拉闊少於三】少於三的拉闊期望(´･ω･`)｜MC 張天賦 x CONSTANCE x Gareth.T",
-      "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/SlhQIV08vWk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=SlhQIV08vWk"
-    },
-    {
-      "id": "0opaICqZZR4",
-      "title": "【拉闊少於三】三字頭以下 三個人以內｜MC 張天賦 x CONSTANCE x Gareth.T",
-      "category": "深度專訪",
-      "source": "商業電台 Hong Kong Toolbar",
-      "thumb": "https://i.ytimg.com/vi/0opaICqZZR4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=0opaICqZZR4"
-    },
-    {
-      "id": "YC7DOLEllR4",
-      "title": "【His Story】湯令山 Gareth.T｜大馬演唱會一票難求！人氣急升的香港新世代唱作人，如何征服華語地區樂迷？",
-      "category": "深度專訪",
-      "source": "Uncore安歌頻道",
-      "thumb": "https://i.ytimg.com/vi/YC7DOLEllR4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=YC7DOLEllR4"
+      "source": "Gareth.T",
+      "thumb": "https://i.ytimg.com/vi/cCIMriBkzpU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=cCIMriBkzpU",
+      "date": "2021-08-13"
     }
   ],
   "mvs": [
@@ -2647,42 +2913,6 @@
   ],
   "lives": [
     {
-      "id": "zvr6HFoWu5E",
-      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
-      "date": "2026-04-24",
-      "category": "現場演出",
-      "source": "RTHK 香港電台（官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
-    },
-    {
-      "id": "MnCf7bMVork",
-      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
-      "date": "2025-12-27",
-      "category": "現場演出",
-      "source": "STARS（YouTube，非官方上載）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
-    },
-    {
-      "id": "XmWu9jcnNHc",
-      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
-      "date": "2025-06-30",
-      "category": "現場演出",
-      "source": "Music Life（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
-    },
-    {
       "id": "XIf9Nc-b9tk",
       "title": "2022-11-23 湯令山 Gareth. T - Master Class + 鏡中鏡 @ November Rain 2022",
       "date": "2022-11-23",
@@ -2694,50 +2924,6 @@
       ],
       "thumb": "https://i.ytimg.com/vi/XIf9Nc-b9tk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=XIf9Nc-b9tk"
-    },
-    {
-      "id": "xPdNKcngYU8",
-      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
-      "date": "2022-07-10",
-      "category": "現場演出",
-      "source": "Warner Music Hong Kong（官方）",
-      "songs": [
-        "心亂如麻",
-        "Boyfriend Material"
-      ],
-      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
-    },
-    {
-      "id": "owRghq0jMVk",
-      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
-      "date": "2022-05-18",
-      "category": "現場演出",
-      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
-      "songs": [
-        "懷舊情人",
-        "勁浪漫 超溫馨"
-      ],
-      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
-    },
-    {
-      "id": "NASap-eBRjU",
-      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
-      "date": "2021-11-23",
-      "category": "現場演出",
-      "source": "MC 張天賦（YouTube 官方）",
-      "songs": [
-        "E先生連環不幸事件",
-        "Honest",
-        "我不如",
-        "記憶棉",
-        "真話的清高",
-        "深夜浪漫",
-        "係咁先啦"
-      ],
-      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
     },
     {
       "id": "Dp4BZr41hHc",
@@ -3128,6 +3314,32 @@
       "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
     },
     {
+      "id": "owRghq0jMVk",
+      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
+      "date": "2022-05-18",
+      "category": "現場演出",
+      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "songs": [
+        "懷舊情人",
+        "勁浪漫 超溫馨"
+      ],
+      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
+    },
+    {
+      "id": "xPdNKcngYU8",
+      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
+      "date": "2022-07-10",
+      "category": "現場演出",
+      "source": "Warner Music Hong Kong（官方）",
+      "songs": [
+        "心亂如麻",
+        "Boyfriend Material"
+      ],
+      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
+    },
+    {
       "id": "glC4c918Wf8",
       "title": "《CHILL CLUB》注入全新感覺！男女合唱的浪漫！Julia Wu 吳卓源 & Gareth.T《那些年》",
       "date": null,
@@ -3138,59 +3350,63 @@
       ],
       "thumb": "https://i.ytimg.com/vi/glC4c918Wf8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=glC4c918Wf8"
-    }
-  ],
-  "fancams": [
-    {
-      "id": "PSr-oBXNnx4",
-      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
-      "date": "2026-07-11",
-      "category": "Fan Cam",
-      "source": "77mcff（YouTube，FanCam）",
-      "songs": [
-        "泥菩薩",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
     },
     {
-      "id": "eXSMe0Qyj6c",
-      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
-      "date": "2026-03-28",
-      "category": "Fan Cam",
-      "source": "Karius Wong（YouTube，非官方）",
-      "songs": [
-        "早到的U"
-      ],
-      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
-    },
-    {
-      "id": "Wo5BVn9cm0w",
-      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
-      "date": "2025-12-20",
-      "category": "Fan Cam",
-      "source": "pipishuut（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
-    },
-    {
-      "id": "o9UlXZx_2og",
-      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
-      "date": "2025-11-03",
-      "category": "Fan Cam",
-      "source": "仍然懷念她（YouTube，非官方）",
+      "id": "zvr6HFoWu5E",
+      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
+      "date": "2026-04-24",
+      "category": "現場演出",
+      "source": "RTHK 香港電台（官方）",
       "songs": [
         "用背脊唱情歌"
       ],
-      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
+      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
     },
+    {
+      "id": "NASap-eBRjU",
+      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
+      "date": "2021-11-23",
+      "category": "現場演出",
+      "source": "MC 張天賦（YouTube 官方）",
+      "songs": [
+        "E先生連環不幸事件",
+        "Honest",
+        "我不如",
+        "記憶棉",
+        "真話的清高",
+        "深夜浪漫",
+        "係咁先啦"
+      ],
+      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
+    },
+    {
+      "id": "XmWu9jcnNHc",
+      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
+      "date": "2025-06-30",
+      "category": "現場演出",
+      "source": "Music Life（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
+    },
+    {
+      "id": "MnCf7bMVork",
+      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
+      "date": "2025-12-27",
+      "category": "現場演出",
+      "source": "STARS（YouTube，非官方上載）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
+    }
+  ],
+  "fancams": [
     {
       "id": "V2CjuEOvxHA",
       "title": "《用背脊唱情歌》Gareth Tong 湯令山【Chill Club 推介榜年度推介 25/26】Fan Cam (2026.05.03)",
@@ -3208,6 +3424,32 @@
       "link": "https://www.youtube.com/watch?v=ryGPAlrfpzM"
     },
     {
+      "id": "PSr-oBXNnx4",
+      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
+      "date": "2026-07-11",
+      "category": "Fan Cam",
+      "source": "77mcff（YouTube，FanCam）",
+      "songs": [
+        "泥菩薩",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
+    },
+    {
+      "id": "Wo5BVn9cm0w",
+      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
+      "date": "2025-12-20",
+      "category": "Fan Cam",
+      "source": "pipishuut（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
+    },
+    {
       "id": "UK3abwDoNXo",
       "title": "《洋蔥》 live by Gareth T. 2025 Concert Tour",
       "date": null,
@@ -3218,6 +3460,30 @@
       ],
       "thumb": "https://i.ytimg.com/vi/UK3abwDoNXo/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UK3abwDoNXo"
+    },
+    {
+      "id": "o9UlXZx_2og",
+      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
+      "date": "2025-11-03",
+      "category": "Fan Cam",
+      "source": "仍然懷念她（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
+    },
+    {
+      "id": "eXSMe0Qyj6c",
+      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
+      "date": "2026-03-28",
+      "category": "Fan Cam",
+      "source": "Karius Wong（YouTube，非官方）",
+      "songs": [
+        "早到的U"
+      ],
+      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
     },
     {
       "id": "qhwtIqkM3X8",
@@ -4206,6 +4472,182 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWlFVWNYc2VYWS1Wajhwd183azFGRnJwNmtHSElFMV9JQ0dtRm11cFpDeG5qV3ItYW5uSEFNM3h1X2t2WUFWOUZSOFAxTUdaR3JWdlI3NkxkVXJ2NG9sNWxNWGNGUHU2b3ZTQjhhZGhKeUliWlg0RDFBWlVJN0U0S2pKQmxMOGQzbkRDN0RGVWUxdVBEY1ZLTA?oc=5",
       "source": "Singtaousa",
       "date": "2026-10-23"
+    },
+    {
+      "title": "Is Three Minutes Enough Time to Confess Your Love? Cantopop Star Gareth T Finds Out in Uber Hong Kong's New Campaign via Special",
+      "link": "https://campaignbrief.com/is-three-minutes-enough-time-to-confess-your-love-cantopop-star-gareth-t-finds-out-in-uber-hong-kongs-new-campaign-by-special/",
+      "source": "Campaign Brief",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "湯令山考車牌4次失敗再接再厲 指緋聞女友林熙彤風趣幽默",
+      "link": "https://ol.mingpao.com/ldy/showbiz/latest/20260821/1787330135766",
+      "source": "明報",
+      "date": "2026-08-21"
+    }
+  ],
+  "endorsements": [
+    {
+      "brand": "Cartier 卡地亞",
+      "product": "「Love Is All」音樂企劃",
+      "date": "2021-12-19",
+      "role": "品牌合作演出（非代言人）",
+      "description": "為 Cartier「Love Is All」音樂企劃演出，演唱《勁浪漫 超溫馨》及《Boyfriend Material》。",
+      "videos": [
+        {
+          "id": "DXHZX7NP7uE",
+          "link": "https://www.youtube.com/watch?v=DXHZX7NP7uE",
+          "thumb": "https://i.ytimg.com/vi/DXHZX7NP7uE/hqdefault.jpg",
+          "title": "【4K】Gareth.T 湯令山 - 勁浪漫 超溫馨 [Cartier “Love Is All” Music 20211219]"
+        },
+        {
+          "id": "kpdRXGcM6Ec",
+          "link": "https://www.youtube.com/watch?v=kpdRXGcM6Ec",
+          "thumb": "https://i.ytimg.com/vi/kpdRXGcM6Ec/hqdefault.jpg",
+          "title": "【4K】Gareth.T 湯令山 - Boyfriend Materials [Cartier “Love Is All” Music 20211219]"
+        }
+      ],
+      "photos": [
+        "endorsements/cartier_loveisall_1.jpg",
+        "endorsements/cartier_loveisall_2.jpg"
+      ],
+      "source": "YouTube / Cartier「Love Is All」Music",
+      "source_link": "https://www.youtube.com/watch?v=DXHZX7NP7uE",
+      "photo_note": "Cartier「Love Is All」現場演出劇照（本地保存）"
+    },
+    {
+      "brand": "AXA 安盛",
+      "product": "「醫保值附加契約」",
+      "date": "2022-10-03",
+      "role": "醫保值大使（代言人）",
+      "description": "首次擔正保險廣告，一人分飾病人及 Dr T 兩角；宣傳預繳醫保保費每年高達 4% 保證利息。廣告於 2022 年 10 月 5 日起在 ViuTV、有線電視、開電視及 YouTube 首播。",
+      "videos": [
+        {
+          "id": "hMKCB09hL5k",
+          "link": "https://www.youtube.com/watch?v=hMKCB09hL5k",
+          "thumb": "https://i.ytimg.com/vi/hMKCB09hL5k/hqdefault.jpg",
+          "title": "【AXA安盛 X Gareth. T】預繳醫保保費 健康有回報"
+        }
+      ],
+      "photos": [
+        "endorsements/axa_ad.jpg"
+      ],
+      "source": "AXA 安盛新聞稿（2022-10-03）",
+      "source_link": "https://www.hkej.com/landing/articleprint/id/3264396",
+      "photo_note": "AXA 安盛廣告片劇照：Gareth.T 一人分飾病人與 Dr T（本地保存）"
+    },
+    {
+      "brand": "Crocs",
+      "product": "Crocs 輕便鞋",
+      "date": "2022-10",
+      "role": "品牌宣傳（與 Moon Tang 情侶檔）",
+      "description": "與女友 Moon Tang 以情侶檔拍攝 Crocs 宣傳照。",
+      "videos": [],
+      "photos": [
+        "endorsements/crocs_am730.jpg"
+      ],
+      "source": "am730（2022-10）",
+      "source_link": "https://www.am730.com.hk/article/342815",
+      "photo_note": "Crocs 情侶檔宣傳照：Gareth.T 與 Moon Tang（am730 報道圖片，本地保存）"
+    },
+    {
+      "brand": "恒生銀行",
+      "product": "優進理財 Preferred Banking「爆新技 Carry 自己」",
+      "date": "2023-09-05",
+      "role": "品牌合作",
+      "description": "參與恒生優進理財「爆新技 Carry 自己」理財任務宣傳，14 張「技能卡」以 Gareth.T 不同造型登場；同年 11 月再與恒生虛擬 KOL Hazel 合拍理財主題音樂影片。",
+      "videos": [
+        {
+          "id": "BBlCR1er4_E",
+          "link": "https://www.youtube.com/watch?v=BBlCR1er4_E",
+          "thumb": "https://i.ytimg.com/vi/BBlCR1er4_E/hqdefault.jpg",
+          "title": "恒生「爆新技 Carry 自己」一分鐘宣傳片"
+        },
+        {
+          "id": "r6FsHOhHDio",
+          "link": "https://www.youtube.com/watch?v=r6FsHOhHDio",
+          "thumb": "https://i.ytimg.com/vi/r6FsHOhHDio/hqdefault.jpg",
+          "title": "恒生銀行 x Hazel x Gareth.T 理財主題音樂影片"
+        }
+      ],
+      "photos": [
+        "endorsements/hangseng_carry.jpg",
+        "endorsements/hangseng_prefer.jpg"
+      ],
+      "source": "恒生銀行新聞稿（2023-09-05）",
+      "source_link": "https://cms.hangseng.com/cms/ccd/schi/PDF/050923s.pdf",
+      "photo_note": "恒生「爆新技 Carry 自己」及《Prefer》MV 劇照（本地保存）"
+    },
+    {
+      "brand": "HSBC 新加坡",
+      "product": "「Get This Bread」/「Bread and Better」",
+      "date": "2024-03-13",
+      "role": "品牌合作歌曲",
+      "description": "與姜濤、Gentle Bones 合唱 HSBC 新加坡「Get This Bread」企劃主題曲《Bread and Better》，鼓勵年輕人建立理財信心；MV 在 HSBC 新加坡 YouTube 頻道播出，逾 170 萬觀看。",
+      "videos": [
+        {
+          "id": "snWGP7VzraI",
+          "link": "https://www.youtube.com/watch?v=snWGP7VzraI",
+          "thumb": "https://i.ytimg.com/vi/snWGP7VzraI/hqdefault.jpg",
+          "title": "Gareth.T, Keung To, Gentle Bones《Bread and Better》Official Music Video"
+        },
+        {
+          "id": "1donWAsmbZM",
+          "link": "https://www.youtube.com/watch?v=1donWAsmbZM",
+          "thumb": "https://i.ytimg.com/vi/1donWAsmbZM/hqdefault.jpg",
+          "title": "Bread and Better - Official Behind the Scenes"
+        }
+      ],
+      "photos": [
+        "endorsements/hsbc_breadandbetter.jpg",
+        "endorsements/hsbc_bts.jpg"
+      ],
+      "source": "HSBC 新加坡新聞稿（2024-03-13）",
+      "source_link": "https://www.about.hsbc.com.sg/news-and-media/hsbc-singapore-launches-get-this-bread",
+      "photo_note": "HSBC《Bread and Better》MV 及幕後花絮劇照（本地保存）"
+    },
+    {
+      "brand": "Uber 香港",
+      "product": "「Keep Doing What You Do」品牌企劃",
+      "date": "2026-08-21",
+      "role": "品牌代言人",
+      "description": "四度考車牌失利後獲 Uber 頒發「永遠榮譽乘客」獎座及證書（2026-08-20，獎座刻上《早到的U》歌詞「我肯定會是你的最愛」），再出任 Uber 香港品牌代言人；廣告以《早到的U》重新填詞（黃偉文），講述把握 Uber 到達前 3 分鐘完成告白，2026 年 8 月 21 日於西九文化區舉行發布會。",
+      "videos": [
+        {
+          "id": "vimeo_1220075960",
+          "title": "Uber 香港「Keep Doing What You Do」60 秒廣告片",
+          "link": "https://vimeo.com/1220075960",
+          "thumb": "./endorsements/uber_vimeo.jpg"
+        }
+      ],
+      "photos": [
+        "photos/Threads_2026-11-27_60de0fc2b7.jpg",
+        "endorsements/uber_vimeo.jpg"
+      ],
+      "photo_note": "Uber「永遠榮譽乘客」獎座自拍及 60 秒廣告片劇照（本地保存）",
+      "source": "明報（2026-08-21）/ Campaign Brief（2026-08-24）",
+      "source_link": "https://ol.mingpao.com/ldy/showbiz/latest/20260821/1787330135766"
+    },
+    {
+      "brand": "Samsung 三星",
+      "product": "Galaxy Z Fold8「Switch It Up」",
+      "date": "2026-11-14",
+      "role": "星級用家",
+      "description": "Samsung 宣布 Gareth.T 正式「轉陣」，成為 Galaxy Z Fold8 星級用家，拍攝「Switch It Up / 轉 變更更好」廣告；11 月 30 日於啟德 AIRSIDE 舉行「Switch & Shoot」投籃挑戰賽，與樂迷同場切磋。",
+      "videos": [
+        {
+          "id": "ig_DftRKO4SnHn",
+          "title": "Samsung Galaxy Z Fold8《Switch It Up》廣告（Instagram）",
+          "link": "https://www.instagram.com/reel/DftRKO4SnHn/",
+          "thumb": ""
+        }
+      ],
+      "photos": [
+        "endorsements/samsung_kv.jpg"
+      ],
+      "source": "Samsung 香港官方網站",
+      "source_link": "https://www.samsung.com/hk_en/smartphones/galaxy-z-fold8/switch-it-up/",
+      "photo_note": "Samsung Galaxy Z Fold8「Switch It Up」官方主視覺：Gareth.T 手持紫色 Fold8（本地保存）"
     }
   ]
 }
