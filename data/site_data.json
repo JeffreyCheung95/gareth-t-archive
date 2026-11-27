@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 15:05 UTC",
+  "updated_at": "2026-11-27 15:00 UTC",
   "releases": [
     {
       "id": "6836248204",
@@ -1713,16 +1713,6 @@
   ],
   "posts": [
     {
-      "id": "th_txt_mv_share",
-      "platform": "Threads",
-      "date": "未能查證",
-      "text": "gareth.t - 用背脊唱情歌 (official video)",
-      "kind": "post",
-      "verified": false,
-      "post_url": "",
-      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
-    },
-    {
       "id": "ig_post_18174169852485671",
       "platform": "Instagram",
       "date": "2026-11-27",
@@ -1919,6 +1909,16 @@
       "kind": "post",
       "verified": true,
       "post_url": ""
+    },
+    {
+      "id": "th_txt_mv_share",
+      "platform": "Threads",
+      "date": "未能查證",
+      "text": "gareth.t - 用背脊唱情歌 (official video)",
+      "kind": "post",
+      "verified": false,
+      "post_url": "",
+      "note": "原 th_txt 抓取條目，無日期記錄；疑為 2025-06-09《用背脊唱情歌》MV 分享，未經核實"
     }
   ],
   "interviews": [
@@ -2913,42 +2913,6 @@
   ],
   "lives": [
     {
-      "id": "zvr6HFoWu5E",
-      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
-      "date": "2026-04-24",
-      "category": "現場演出",
-      "source": "RTHK 香港電台（官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
-    },
-    {
-      "id": "MnCf7bMVork",
-      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
-      "date": "2025-12-27",
-      "category": "現場演出",
-      "source": "STARS（YouTube，非官方上載）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
-    },
-    {
-      "id": "XmWu9jcnNHc",
-      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
-      "date": "2025-06-30",
-      "category": "現場演出",
-      "source": "Music Life（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌"
-      ],
-      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
-    },
-    {
       "id": "XIf9Nc-b9tk",
       "title": "2022-11-23 湯令山 Gareth. T - Master Class + 鏡中鏡 @ November Rain 2022",
       "date": "2022-11-23",
@@ -2960,50 +2924,6 @@
       ],
       "thumb": "https://i.ytimg.com/vi/XIf9Nc-b9tk/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=XIf9Nc-b9tk"
-    },
-    {
-      "id": "xPdNKcngYU8",
-      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
-      "date": "2022-07-10",
-      "category": "現場演出",
-      "source": "Warner Music Hong Kong（官方）",
-      "songs": [
-        "心亂如麻",
-        "Boyfriend Material"
-      ],
-      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
-    },
-    {
-      "id": "owRghq0jMVk",
-      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
-      "date": "2022-05-18",
-      "category": "現場演出",
-      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
-      "songs": [
-        "懷舊情人",
-        "勁浪漫 超溫馨"
-      ],
-      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
-    },
-    {
-      "id": "NASap-eBRjU",
-      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
-      "date": "2021-11-23",
-      "category": "現場演出",
-      "source": "MC 張天賦（YouTube 官方）",
-      "songs": [
-        "E先生連環不幸事件",
-        "Honest",
-        "我不如",
-        "記憶棉",
-        "真話的清高",
-        "深夜浪漫",
-        "係咁先啦"
-      ],
-      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
     },
     {
       "id": "Dp4BZr41hHc",
@@ -3394,6 +3314,32 @@
       "link": "https://www.youtube.com/watch?v=sRE_YbVibMU"
     },
     {
+      "id": "owRghq0jMVk",
+      "title": "THE NEXT 20 張敬軒演唱會 第17場嘉賓 | Gareth.T 湯令山 懷舊情人 勁浪漫超溫馨",
+      "date": "2022-05-18",
+      "category": "現場演出",
+      "source": "The Show Must Go On（YouTube 頻道，非官方上載）",
+      "songs": [
+        "懷舊情人",
+        "勁浪漫 超溫馨"
+      ],
+      "thumb": "https://i.ytimg.com/vi/owRghq0jMVk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=owRghq0jMVk"
+    },
+    {
+      "id": "xPdNKcngYU8",
+      "title": "【Janice Vidal Be Still Live 2022 現場直擊！】 第二場嘉賓： Gareth. T《心亂如麻》＋《Boyfriend Material》",
+      "date": "2022-07-10",
+      "category": "現場演出",
+      "source": "Warner Music Hong Kong（官方）",
+      "songs": [
+        "心亂如麻",
+        "Boyfriend Material"
+      ],
+      "thumb": "https://i.ytimg.com/vi/xPdNKcngYU8/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=xPdNKcngYU8"
+    },
+    {
       "id": "glC4c918Wf8",
       "title": "《CHILL CLUB》注入全新感覺！男女合唱的浪漫！Julia Wu 吳卓源 & Gareth.T《那些年》",
       "date": null,
@@ -3404,59 +3350,63 @@
       ],
       "thumb": "https://i.ytimg.com/vi/glC4c918Wf8/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=glC4c918Wf8"
-    }
-  ],
-  "fancams": [
-    {
-      "id": "PSr-oBXNnx4",
-      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
-      "date": "2026-07-11",
-      "category": "Fan Cam",
-      "source": "77mcff（YouTube，FanCam）",
-      "songs": [
-        "泥菩薩",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
     },
     {
-      "id": "eXSMe0Qyj6c",
-      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
-      "date": "2026-03-28",
-      "category": "Fan Cam",
-      "source": "Karius Wong（YouTube，非官方）",
-      "songs": [
-        "早到的U"
-      ],
-      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
-    },
-    {
-      "id": "Wo5BVn9cm0w",
-      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
-      "date": "2025-12-20",
-      "category": "Fan Cam",
-      "source": "pipishuut（YouTube，非官方）",
-      "songs": [
-        "用背脊唱情歌",
-        "去北極忘記你"
-      ],
-      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
-    },
-    {
-      "id": "o9UlXZx_2og",
-      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
-      "date": "2025-11-03",
-      "category": "Fan Cam",
-      "source": "仍然懷念她（YouTube，非官方）",
+      "id": "zvr6HFoWu5E",
+      "title": "第47屆十大中文金曲頒獎音樂會(精華片段)：Gareth. T《用背脊唱情歌》",
+      "date": "2026-04-24",
+      "category": "現場演出",
+      "source": "RTHK 香港電台（官方）",
       "songs": [
         "用背脊唱情歌"
       ],
-      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
-      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
+      "thumb": "https://i.ytimg.com/vi/zvr6HFoWu5E/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=zvr6HFoWu5E"
     },
+    {
+      "id": "NASap-eBRjU",
+      "title": "MC 張天賦 X Gareth.T 湯令山 - 2021新人精選 Cover （ E先生連環不幸事件｜Honest ｜我不如｜記憶棉｜真話的清高｜深夜浪漫｜係咁先啦）",
+      "date": "2021-11-23",
+      "category": "現場演出",
+      "source": "MC 張天賦（YouTube 官方）",
+      "songs": [
+        "E先生連環不幸事件",
+        "Honest",
+        "我不如",
+        "記憶棉",
+        "真話的清高",
+        "深夜浪漫",
+        "係咁先啦"
+      ],
+      "thumb": "https://i.ytimg.com/vi/NASap-eBRjU/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=NASap-eBRjU"
+    },
+    {
+      "id": "XmWu9jcnNHc",
+      "title": "Gareth.T 湯令山 - 用背脊唱情歌 朗豪坊 純享版 Live",
+      "date": "2025-06-30",
+      "category": "現場演出",
+      "source": "Music Life（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/XmWu9jcnNHc/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=XmWu9jcnNHc"
+    },
+    {
+      "id": "MnCf7bMVork",
+      "title": "Gareth. T 湯令山 | 新城勁爆年度歌曲 | 用背脊唱情歌 | 新城勁爆頒獎典禮2025 | 2025年12月27日",
+      "date": "2025-12-27",
+      "category": "現場演出",
+      "source": "STARS（YouTube，非官方上載）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/MnCf7bMVork/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=MnCf7bMVork"
+    }
+  ],
+  "fancams": [
     {
       "id": "V2CjuEOvxHA",
       "title": "《用背脊唱情歌》Gareth Tong 湯令山【Chill Club 推介榜年度推介 25/26】Fan Cam (2026.05.03)",
@@ -3474,6 +3424,32 @@
       "link": "https://www.youtube.com/watch?v=ryGPAlrfpzM"
     },
     {
+      "id": "PSr-oBXNnx4",
+      "title": "泥菩薩 - 合唱｜MC張天賦｜GarethT湯令山｜E=MC² 演唱會2026｜2026.7.11｜FanCam飯拍【4K】",
+      "date": "2026-07-11",
+      "category": "Fan Cam",
+      "source": "77mcff（YouTube，FanCam）",
+      "songs": [
+        "泥菩薩",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/PSr-oBXNnx4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=PSr-oBXNnx4"
+    },
+    {
+      "id": "Wo5BVn9cm0w",
+      "title": "[4K] 姜濤 x Gareth.T 湯令山（嘉賓）- 用背脊唱情歌 + Talk + 去北極忘記你 @KEUNG TO \"LAVA\" LIVE 2025 第四場",
+      "date": "2025-12-20",
+      "category": "Fan Cam",
+      "source": "pipishuut（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌",
+        "去北極忘記你"
+      ],
+      "thumb": "https://i.ytimg.com/vi/Wo5BVn9cm0w/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Wo5BVn9cm0w"
+    },
+    {
       "id": "UK3abwDoNXo",
       "title": "《洋蔥》 live by Gareth T. 2025 Concert Tour",
       "date": null,
@@ -3484,6 +3460,30 @@
       ],
       "thumb": "https://i.ytimg.com/vi/UK3abwDoNXo/hqdefault.jpg",
       "link": "https://www.youtube.com/watch?v=UK3abwDoNXo"
+    },
+    {
+      "id": "o9UlXZx_2og",
+      "title": "Gareth.T 湯令山《用背脊唱情歌》Live at CUHK",
+      "date": "2025-11-03",
+      "category": "Fan Cam",
+      "source": "仍然懷念她（YouTube，非官方）",
+      "songs": [
+        "用背脊唱情歌"
+      ],
+      "thumb": "https://i.ytimg.com/vi/o9UlXZx_2og/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=o9UlXZx_2og"
+    },
+    {
+      "id": "eXSMe0Qyj6c",
+      "title": "gareth.t 湯令山《早到的U》墨爾本oddshapes音樂節",
+      "date": "2026-03-28",
+      "category": "Fan Cam",
+      "source": "Karius Wong（YouTube，非官方）",
+      "songs": [
+        "早到的U"
+      ],
+      "thumb": "https://i.ytimg.com/vi/eXSMe0Qyj6c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=eXSMe0Qyj6c"
     },
     {
       "id": "qhwtIqkM3X8",
@@ -4462,16 +4462,28 @@
       "date": "2026-10-24"
     },
     {
-      "title": "Gareth.T湯令山首度進軍紅館舉辦個唱 強勢宣布連唱四晚絕不加場 - 香港01",
-      "link": "https://news.google.com/rss/articles/CBMiogNBVV95cUxQQWFfcTNDRm1QWDlCaDdicmdaa2tQc2RCRXpFVGlsZ002R0p2VWFpQ25lZDFvMV9xQXU4VmFjdzBXZTh4S0xINEQ4SER5Wkk4enZDVEZ5aEpxbUhaRmE4MUgyOHp0UjVBY2JGSk5IU2FqYzlOUkRrYlgxNlIwSWR0RmphMjVheXB1QlhTanBJYzVnUUUxYzllaFZZTnM1cm5OUkpabVZyWmp1U1ZqTUFocnlDczRveVpLdHpqUjR4amRacFNnQlRRWTJoal9jdlBjZG9sYi1OcmNYZTZjVDRwYjBnM3IzY05FanNmWWo3a09sdHhnSU1xbXN4SHNHNWd2eHZMb3NHNGxJUXJ0aTdUSHNQSU9HVGVTYmpybG9PSGdteGN0c2xYTjE1aDl5TlhOVWZkcTNZRXdERVVpcmRoQktkTmRoeXF2WjlkU1pUNGxyaHVOZkFQd3Ywc3hPcHBONVEzbjI4T0U4ZU96UG52VGMzekJ6Q25uV3VlRkV4MFJTS1ktRzFTb1lLSE4wdU41R0VmRzE0blB0RkdQRHFSRFlR?oc=5",
-      "source": "香港01",
-      "date": "2026-10-24"
-    },
-    {
       "title": "湯令山紅館演唱會2027｜Gareth.T一月紅館連開4場恒生卡優先訂票/Trip.com率先發售/票價/日期 - 加拿大星島日報",
       "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNYm8wMkYtZVBMRWtZdE5KVzRNWlV5WWJsdms5Q09qZnFaLU9kWGpLVWhxNlVNYmhSWjBpMy1NQ2VsOF9nYUJzQWE4NVhyak9VMzQ0bjJFZXBhR0VOQUtkbGNFdzA2bngyZVVlMVdzd2RtNDBFRU1TdElqVnJtenNwWGFmZlRPSVNKX1dxcFIzbHlDOEZSbGJZMVFybEwwaF8yXy1uYzVGWlBvaHpQS3JBc1c4TGxQNjlsTTMyRkVEMjVaNW5sQjBfbTB2dk43ODU2Ynk2MFdCOGtsR3B5OXJtaF9hMXBmYnZXb0NMODNYZlltZlFXVU5NcHZ1M0h5LXRvMTVlMjdaWTdRWEJSLURGWmRNTHBOcTNIR21yMDVvY1FVbEtYUnJoOHlVT05pSWo3cFctSW80cktwSE1IcDlfWkliMTVYTTZRNW9QemNFZlJTSU9HaVUzVA?oc=5",
       "source": "加拿大星島日報",
       "date": "2026-10-23"
+    },
+    {
+      "title": "Gareth.T湯令山宣布紅館處男騷 2027年1月連開四場「Coliseum」演唱會 - Singtaousa",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOWlFVWNYc2VYWS1Wajhwd183azFGRnJwNmtHSElFMV9JQ0dtRm11cFpDeG5qV3ItYW5uSEFNM3h1X2t2WUFWOUZSOFAxTUdaR3JWdlI3NkxkVXJ2NG9sNWxNWGNGUHU2b3ZTQjhhZGhKeUliWlg0RDFBWlVJN0U0S2pKQmxMOGQzbkRDN0RGVWUxdVBEY1ZLTA?oc=5",
+      "source": "Singtaousa",
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Is Three Minutes Enough Time to Confess Your Love? Cantopop Star Gareth T Finds Out in Uber Hong Kong's New Campaign via Special",
+      "link": "https://campaignbrief.com/is-three-minutes-enough-time-to-confess-your-love-cantopop-star-gareth-t-finds-out-in-uber-hong-kongs-new-campaign-by-special/",
+      "source": "Campaign Brief",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "湯令山考車牌4次失敗再接再厲 指緋聞女友林熙彤風趣幽默",
+      "link": "https://ol.mingpao.com/ldy/showbiz/latest/20260821/1787330135766",
+      "source": "明報",
+      "date": "2026-08-21"
     }
   ],
   "endorsements": [
@@ -4636,6 +4648,154 @@
       "source": "Samsung 香港官方網站",
       "source_link": "https://www.samsung.com/hk_en/smartphones/galaxy-z-fold8/switch-it-up/",
       "photo_note": "Samsung Galaxy Z Fold8「Switch It Up」官方主視覺：Gareth.T 手持紫色 Fold8（本地保存）"
+    },
+    {
+      "brand": "雪碧 Sprite",
+      "product": "白檸味汽水（無糖）",
+      "date": "2023-08",
+      "role": "代言人",
+      "description": "2023年夏季擔任雪碧香港代言人，主打「夏日熱播 CHILL住歎 清爽檸檬口味（無糖）」；其形象登上九巴車身廣告（2023年8月實拍），手持雪碧汽水、坐在復古車頭上手持 boombox。",
+      "photo_note": "九巴車身廣告實拍（2023-08-08）：Gareth.T 形象與兩支雪碧汽水（本地保存）",
+      "videos": [],
+      "photos": [
+        "endorsements/sprite_2023.jpg"
+      ],
+      "source": "九巴車身廣告實拍（fotop，2023-08-08）及 HKGolden 巴士廣告討論串",
+      "source_link": "https://www.fotop.net/cutebus/e50dfacelift/ud1885_59a?set_fullOnly=on"
+    },
+    {
+      "brand": "可口可樂 Coca-Cola",
+      "product": "Starlight 限量版（Coca-Cola Creations）",
+      "date": "2022-04-18",
+      "role": "品牌合作",
+      "description": "參與 Coca-Cola Creations「Starlight」限量版推廣，拍攝太空主題短片；帖文寫道「if you feel lonely/unnoticed/ or like an alien, drinking 可口可樂 Starlight, will make you a star」，並引導粉絲到 @cocacolahk 查看。",
+      "photo_note": "Starlight 宣傳照：Gareth.T 與 Starlight 易拉罐，Coca-Cola Creations「STARLIGHT」字樣（Instagram 影片封面，本地保存）",
+      "videos": [],
+      "photos": [
+        "endorsements/cocacola_starlight_2022.jpg"
+      ],
+      "source": "Gareth.T Instagram（@gareth_tong）",
+      "source_link": "https://www.instagram.com/reel/CcfkZ3sJzRT/"
+    },
+    {
+      "brand": "McDonald's 麥當勞香港",
+      "product": "「McNugget Art World」期間限定活動",
+      "date": "2023-07-28",
+      "role": "品牌合作",
+      "description": "2023年7月參與香港麥當勞「McNugget Art World」期間限定活動，現場表演並在帖文寫道「im loving it」，感謝 @kpee 及 @mcdonaldshk；相片為活動現場，戴上麥當勞金拱門鴨舌帽。",
+      "photo_note": "McNugget Art World 活動現場：Gareth.T 戴麥當勞鴨舌帽（Instagram 相集首圖，本地保存）",
+      "videos": [],
+      "photos": [
+        "endorsements/mcdonalds_2023.jpg"
+      ],
+      "source": "Gareth.T Instagram（@gareth_tong）",
+      "source_link": "https://www.instagram.com/p/CvPdQOSPWo6/"
+    },
+    {
+      "brand": "foodpanda",
+      "product": "pandapro 會員推廣",
+      "date": "2021-12-20",
+      "role": "品牌合作",
+      "description": "2021年12月及2022年1月先後拍攝兩條 pandapro 會員推廣短片：聖誕篇宣傳 foodpanda mall 免運費（12月全月免費送貨，滿$150適用）；1月篇以「$1 登記 pandapro」推廣首月$1會員、無限次免運費及餐廳75折等優惠。",
+      "photo_note": "兩條 pandapro 廣告片劇照（Instagram 影片封面，本地保存；畫面中未見 foodpanda 標誌）",
+      "videos": [],
+      "photos": [
+        "endorsements/foodpanda_2021.jpg",
+        "endorsements/foodpanda_2022.jpg"
+      ],
+      "source": "Gareth.T Instagram（@gareth_tong）",
+      "source_link": "https://www.instagram.com/tv/CXuxJcTsh5f/"
+    },
+    {
+      "brand": "YETI（Blue / Logitech）",
+      "product": "Blue Yeti X USB 麥克風",
+      "date": "2022-01-17",
+      "role": "品牌合作",
+      "description": "2022年1月為 Blue Yeti X 拍攝廣告短片，與 Teddy Fan 翻唱《Young, Wild & Free》，屬 Logitech for Creators 合作；帖文寫道「i started making music at 16 and the YETI was my first mic……weird how the world goes around cause now i'm doing an ad for them」。",
+      "photo_note": "Yeti X 廣告片劇照：Gareth.T 對著 Blue Yeti X 咪高峰演唱（Instagram 影片封面，本地保存）",
+      "videos": [],
+      "photos": [
+        "endorsements/yeti_2022.jpg"
+      ],
+      "source": "Gareth.T Instagram（@gareth_tong）",
+      "source_link": "https://www.instagram.com/tv/CY08j9FNp2u/"
+    },
+    {
+      "brand": "adidas",
+      "product": "Adizero Evo SL 跑鞋",
+      "date": "2025-07-03",
+      "role": "品牌合作",
+      "description": "Gareth.T 於個人 Instagram 發佈穿著 Adizero Evo SL 的跑步造型照，標註 #adizeroevosl 及 @adidasrunning @adidashk。",
+      "videos": [],
+      "photos": [
+        "endorsements/adidas_evosl.jpg"
+      ],
+      "source": "Gareth.T 本人 Instagram（2025-07-03）",
+      "source_link": "https://www.instagram.com/p/DLpFpIGv_1J/",
+      "photo_note": "Gareth.T 穿著白色 Adizero Evo SL（藍間）戶外跑步造型照（本人 IG 原圖，本地保存）"
+    },
+    {
+      "brand": "Nike",
+      "product": "渣打馬拉松",
+      "date": "2022-11, 2023-02",
+      "role": "品牌合作",
+      "description": "2022年11月30日於個人 Instagram 發佈 November Rain 演唱會後台穿著 Nike 外套照片並致謝 @nikehkg；2023年2月12日參加第25屆渣打香港馬拉松10公里（1小時1分43秒），發文致謝 @nike @schkmarathon。",
+      "videos": [],
+      "photos": [
+        "endorsements/nike_novemberrain.jpg"
+      ],
+      "source": "Gareth.T 本人 Instagram（2022-11-30、2023-02-12）",
+      "source_link": "https://www.instagram.com/p/CllFPQtPe9m/",
+      "photo_note": "November Rain 後台穿著 Nike 外套照片（本人 IG 原圖，本地保存）"
+    },
+    {
+      "brand": "Prada",
+      "product": "Re-Nylon 系列",
+      "date": "2024-03, 2025-04",
+      "role": "品牌合作",
+      "description": "Prada 邀請香港代表拍攝 Re-Nylon 造型照，Gareth.T 為香港代表之一，演繹黑色 Re-Nylon 背包及再生尼龍造型；2025年 Re-Nylon 系列延續 SEA BEYOND 海洋保育企劃。（2025-04 為用戶提供日期，未獨立核實）",
+      "videos": [],
+      "photos": [
+        "endorsements/prada_renylon.jpg"
+      ],
+      "source": "POPBEE（2024-03-28）",
+      "source_link": "https://popbee.com/accessories/handbags/prada-re-nylon-celebrities-demonstration",
+      "photo_note": "Prada Re-Nylon 官方造型照：Gareth.T 手持黑色 Re-Nylon 背包（POPBEE 報道圖片，本地保存）"
+    },
+    {
+      "brand": "Miu Miu",
+      "product": "廣東道店重開",
+      "date": "2022-08-26",
+      "role": "品牌合作",
+      "description": "出席 Miu Miu 廣東道旗艦店重開派對，與 Moon Tang 一同擔任 DJ，穿上 Miu Miu 2022 秋冬系列；新店率先發售綢緞 Miu Wander 半月袋。",
+      "videos": [],
+      "photos": [
+        "endorsements/miumiu_cantonroad.jpg"
+      ],
+      "source": "Madame Figaro Hong Kong（2022-08-26）",
+      "source_link": "https://www.madamefigaro.hk/fashion/miu-miu-%e5%bb%a3%e6%9d%b1%e9%81%93%e6%96%b0%e5%ba%97-miu-wander-%e6%89%8b%e8%a2%8b-103893/",
+      "photo_note": "Miu Miu 廣東道店重開派對：Gareth.T 與 Moon Tang 打碟（Madame Figaro 報道圖片，本地保存）"
+    },
+    {
+      "brand": "Chanel",
+      "product": "Bleu de Chanel 香水、2024/25 Cruise 香港大秀",
+      "date": "2021-2024",
+      "role": "品牌合作",
+      "description": "多次參與 Chanel 活動：2022年7月以神秘嘉賓身份出席 Bleu de Chanel 活動並獻唱，呼應 Bleu de Chanel 拒絕墨守成規的精神（HYPEBEAST SOUNDS Live × CHANEL BEAUTY）；2024年11月5日出席 CHANEL 2024/25 Cruise 度假系列香港大秀（香港知專設計學院）。另有 Factory 5（2021）及 Into the Allure 活動列入合作紀錄，惟該兩項未能於公開報道中單獨核實 Gareth.T 的參與。",
+      "videos": [
+        {
+          "id": "YYO8aEJS9a0",
+          "title": "創新力量呼應 Bleu de CHANEL 象徵的精神態度",
+          "link": "https://www.youtube.com/watch?v=YYO8aEJS9a0",
+          "thumb": "https://i.ytimg.com/vi/YYO8aEJS9a0/hqdefault.jpg"
+        }
+      ],
+      "photos": [
+        "endorsements/chanel_cruise.jpg"
+      ],
+      "source": "Hypebeast（2022-07）/ Bastillepost（2024-11-05）",
+      "source_link": "https://www.bastillepost.com/hongkong/article/14470700-chanel%e6%99%82%e8%a3%9d%e7%a7%80%ef%bd%9cgd%e4%b9%85%e6%9c%aa%e4%be%86%e6%b8%af%e5%87%ba%e5%a0%b4%e5%bc%95%e5%96%9a%e5%8f%ab-%e7%99%bc%e5%93%a5%e7%99%bc%e5%ab%82%e9%a9%9a%e5%96%9c%e5%a3%8b%e8%bb%b8",
+      "photo_note": "CHANEL 2024/25 Cruise 香港大秀現場：Gareth.T 於 CHANEL 背板前留影（Bastillepost 記者攝，本地保存）"
     }
   ]
 }
