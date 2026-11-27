@@ -42,6 +42,7 @@ BLOCKED_VIDEO_IDS = {
     'tAQNaaDnUoA',  # 娛聞新村新聞片段（不是演出片）
     'gWSF0lPkNC0',  # 緊急聯絡人 Cover by MC 張天賦 X 希晉（別人翻唱）
     'kOowvGoiTWw',  # 用背脊唱情歌 Cover by MC 張天賦 澳門（別人翻唱）
+    '8zNy4Q6jaZc',  # 玻璃 demo（demo 不是現場 MV，也不是正式 MV）
 }
 # 已确认非 Gareth 的两张图的內容 MD5（去重用）：
 BAD_PHOTO_MD5 = {"1fa713edb965b14388a3550f9e696d2e"}  # 駕駛考試成績表
@@ -250,6 +251,9 @@ def _is_rejected_video(vid, title):
                             "頒獎典禮", "紅毯", "娛樂新聞", "娛聞新村",
                             "明報娛樂新聞")):
         return True
+    # demo 不是 MV 也不是現場：demo 錄音/試聽不收（例：玻璃 demo）。
+    if "demo" in low:
+        return True
     # 「加冕年度之歌」若無演唱字眼（唱/live/現場）就是頒獎新聞，不是演出。
     # 已核實的現場 w_Lg2gecd_0 標題含「孭背包唱情歌」有「唱」字，不會被拒。
     if "加冕" in t and "年度之歌" in t and "唱" not in t and "live" not in low and "現場" not in t:
@@ -289,8 +293,6 @@ def classify_video(vid, title, source=""):
         return "lives"        # 拉闊音樂會 少於三足本重溫 = concert replay
     if vid == "aVsEQRptqNY":
         return "lives"        # 2021 叱咤群星表演片段（Gareth.T 有份演出）
-    if vid == "8zNy4Q6jaZc":
-        return "lives"        # 玻璃 demo (live studio video) = 現場錄製
     if vid == "CSf511CFkYc":
         return "lives"        # Live at HYPEBEAST SOUNDS = 正式現場演出
     if vid == "sRE_YbVibMU":
