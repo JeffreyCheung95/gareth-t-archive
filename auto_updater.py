@@ -24,10 +24,25 @@ HEADERS = {
 
 
 KNOWN_TEXT_INTERVIEWS = [{'id': 'text_cool_20260430', 'title': 'Gareth.T 專訪｜湯令山從心傷到心零！想嘗試珍奶對決，對台灣第一個聯想是這個', 'category': '文字專訪', 'source': 'COOL-STYLE 潮流生活網', 'date': '2026-04-30', 'link': 'https://www.cool-style.com.tw/wd2/archives/1296564-gareth-t-%E5%B0%88%E8%A8%AA%EF%BD%9C%E6%B9%AF%E4%BB%A4%E5%B1%B1%E5%BE%9E%E5%BF%83%E5%82%B7%E5%88%B0%E5%BF%83%E9%9B%B6%EF%BC%81%E6%83%B3%E5%98%97%E8%A9%A6%E7%8F%8D%E5%A5%B6%E5%B0%8D%E6%B1%BA%EF%BC%8C', 'thumb': ''}, {'id': 'text_60s_202509', 'title': '〖60秒鐘音樂雜誌·歌手專訪·790話〗專訪湯令山 Gareth.T ——— 參見…不再傷心的心傷王子？！', 'category': '文字專訪', 'source': '閱評流（LINE TODAY）', 'date': '2025-09', 'link': 'https://today.line.me/hk/v3/article/j7gLOza', 'thumb': ''}, {'id': 'text_hbx_202206', 'title': 'HBX 專訪唱作人 Gareth.T 湯令山，談首張個人專輯《to be honest》', 'category': '文字專訪', 'source': 'Hypebeast', 'date': '2022-06', 'link': 'https://hypebeast.com/zh/2022/6/hbx-gareth-t-to-be-honest', 'thumb': ''}, {'id': 'text_ubeat_202203', 'title': '革新香港音樂的湯令山 Gareth.T（人物專訪）', 'category': '文字專訪', 'source': '大學線月刊 UBeat（香港中文大學）', 'date': '2022-03', 'link': 'https://ubeat.com.cuhk.edu.hk/ebook/158/files/basic-html/page20.html', 'thumb': ''}]
-ARTIST_INTERACTIONS = [{'artist': 'Tyson Yoshi', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文（作詞 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作詞：@tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文', 'date': '2023-12-26', 'text': 'december christmas remix 🎄 original by @tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C1UkkRtvTxq/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 帖文內文（作曲 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作曲：me and @teddyfanguitar', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'MC 張天賦', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 伙拍 MC 及 Lewsz 合唱《孤單》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': 'MC 張天賦', 'where': '歌曲合作《金童子》', 'date': '2025', 'text': 'MC 張天賦 x Gareth Tong《金童子》| 首播 | 叱咤樂壇', 'post_url': 'https://www.youtube.com/watch?v=_JJiBX5vAIE', 'source': 'YouTube 叱咤樂壇（已收錄於 MV 清單）'}, {'artist': 'moon tang', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 及 moon tang 繼香港站後，於澳門站再度合唱《Honest》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': '林峯', 'where': '林峯澳門演唱會（嘉賓合唱）', 'date': '2025', 'text': 'Gareth T X 林峯《用背脊唱情歌》Go With The Flow 林峯澳門演唱會', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單；完整連結見 lives）'}, {'artist': '姜濤', 'where': 'November Rain 2022 尾場嘉賓', 'date': '2022-11-20', 'text': '姜濤任尾場嘉賓；Gareth.T 曾為姜濤創作《Master Class》《鏡中鏡》', 'post_url': '', 'source': '原基準資料；中時新聞 2026-04-30（創作 credit）'}, {'artist': 'Day @ COLLAR', 'where': 'November Rain 2022 第二場嘉賓', 'date': '2022-11-19', 'text': 'Day @ COLLAR 合唱《笑住喊》', 'post_url': '', 'source': '原基準資料'}, {'artist': '菲道爾 Firdhaus', 'where': 'Prince Of Nothing 澳門站 2026-07-03 嘉賓', 'date': '2026-07-03', 'text': '合唱《能遇見，就很不錯了》《去北極忘記你》— 據原基準資料，未經網上核實', 'post_url': '', 'source': '原基準資料（待核實）'}, {'artist': '攬佬', 'where': '歌曲合作〈悲傷結了帳〉', 'date': '2026', 'text': '與攬佬合作的〈悲傷結了帳〉，為過去劃下句點', 'post_url': '', 'source': 'COOL 專訪 2026-04-30'}, {'artist': '黃偉文 Wyman', 'where': '填詞合作（長期）', 'date': '2026', 'text': '《THE PROTÉGÉ》全專輯填詞、專輯名亦由其命名；另填詞《勁浪漫 超溫馨》《國際孤獨等級》《緊急聯絡人》《偶像已死》《你都不知道自己有多好》《用背脊唱情歌》《泥菩薩》', 'post_url': '', 'source': 'Blow 吹音樂 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': '倫敦站現場', 'date': '2025-10-30', 'text': "黃偉文親臨倫敦 O2 Shepherd's Bush Empire 現場支持；Gareth.T 台上隔空致謝", 'post_url': '', 'source': '明周 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': 'Instagram 留言（Gemini 种子 seed_4，未核實）', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'post_url': '', 'source': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）'}, {'artist': '容祖兒', 'where': '創作合作', 'date': '2024', 'text': 'Gareth.T 為容祖兒創作〈九秒九〉，成五台冠軍曲', 'post_url': '', 'source': '緯來新聞網（2024 台北 T-Time 報道）'}, {'artist': '梁總', 'where': 'Threads 回覆', 'date': '2025-07-09', 'text': '謝梁總', 'post_url': '', 'source': 'threads-cli profile-replies（author-filtered）；梁總身份未能查證'}, {'artist': 'R.O.O.T', 'where': 'Chill Club 現場演出', 'date': '未能查證', 'text': '《CHILL CLUB》Gareth.T X R.O.O.T《Master Class》（現場演出）', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單）'}, {'artist': '葉崇恩 Patrick Yip / 徐偉臻 nictsui', 'where': 'Instagram 帖文內文（製作 credit）', 'date': '2026-11-27', 'text': '「心動一半」曲：我和 @nictsui；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}]
+ARTIST_INTERACTIONS = [{'artist': 'Tyson Yoshi', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@tysonyoshi buy u next time', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文（作詞 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作詞：@tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Tyson Yoshi', 'where': 'Instagram 帖文內文', 'date': '2023-12-26', 'text': 'december christmas remix 🎄 original by @tysonyoshi', 'post_url': 'https://www.instagram.com/reel/C1UkkRtvTxq/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-10-11', 'text': '@teddyfanguitar 😏', 'post_url': 'https://www.instagram.com/reel/DeW1VEvyrwm/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2026-09-23', 'text': '@teddyfanguitar 同意', 'post_url': 'https://www.instagram.com/reel/DdoROSQyJHA/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 回覆', 'date': '2025-08-30', 'text': '@teddyfanguitar 來', 'post_url': 'https://www.instagram.com/p/DOAogtUEu2_/', 'source': 'instagram-cli fetch-post-comments（author-filtered）'}, {'artist': 'Teddy Fan（結他手）', 'where': 'Instagram 帖文內文（作曲 credit）', 'date': '2024-04-10', 'text': '《遇上你之前的我》作曲：me and @teddyfanguitar', 'post_url': 'https://www.instagram.com/reel/C5lJWc_vorB/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}, {'artist': 'MC 張天賦', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 伙拍 MC 及 Lewsz 合唱《孤單》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': 'MC 張天賦', 'where': '歌曲合作《金童子》', 'date': '2026-02-26', 'text': 'MC 張天賦 x Gareth Tong《金童子》官方 MV', 'post_url': 'https://www.youtube.com/watch?v=hgGoXAwA6J4', 'source': 'YouTube Gareth.T 官方 MV'}, {'artist': 'moon tang', 'where': '華納家族演唱會《WM!GO!》澳門站', 'date': '2025-08-02', 'text': 'Gareth.T 及 moon tang 繼香港站後，於澳門站再度合唱《Honest》', 'post_url': '', 'source': '明報 2025-08-03'}, {'artist': '林峯', 'where': '林峯澳門演唱會（嘉賓合唱）', 'date': '2025', 'text': 'Gareth T X 林峯《用背脊唱情歌》Go With The Flow 林峯澳門演唱會', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單；完整連結見 lives）'}, {'artist': '姜濤', 'where': 'November Rain 2022 尾場嘉賓', 'date': '2022-11-20', 'text': '姜濤任尾場嘉賓；Gareth.T 曾為姜濤創作《Master Class》《鏡中鏡》', 'post_url': '', 'source': '原基準資料；中時新聞 2026-04-30（創作 credit）'}, {'artist': 'Day @ COLLAR', 'where': 'November Rain 2022 第二場嘉賓', 'date': '2022-11-19', 'text': 'Day @ COLLAR 合唱《笑住喊》', 'post_url': '', 'source': '原基準資料'}, {'artist': '菲道爾 Firdhaus', 'where': 'Prince Of Nothing 澳門站 2026-07-03 嘉賓', 'date': '2026-07-03', 'text': '合唱《能遇見，就很不錯了》《去北極忘記你》— 據原基準資料，未經網上核實', 'post_url': '', 'source': '原基準資料（待核實）'}, {'artist': '攬佬', 'where': '歌曲合作〈悲傷結了帳〉', 'date': '2026', 'text': '與攬佬合作的〈悲傷結了帳〉，為過去劃下句點', 'post_url': '', 'source': 'COOL 專訪 2026-04-30'}, {'artist': '黃偉文 Wyman', 'where': '填詞合作（長期）', 'date': '2026', 'text': '《THE PROTÉGÉ》全專輯填詞、專輯名亦由其命名；另填詞《勁浪漫 超溫馨》《國際孤獨等級》《緊急聯絡人》《偶像已死》《你都不知道自己有多好》《用背脊唱情歌》《泥菩薩》', 'post_url': '', 'source': 'Blow 吹音樂 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': '倫敦站現場', 'date': '2025-10-30', 'text': "黃偉文親臨倫敦 O2 Shepherd's Bush Empire 現場支持；Gareth.T 台上隔空致謝", 'post_url': '', 'source': '明周 / topick 倫敦站報道'}, {'artist': '黃偉文 Wyman', 'where': 'Instagram 留言（Gemini 种子 seed_4，未核實）', 'date': '2026-09-24', 'text': '《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」', 'post_url': '', 'source': 'Gemini 种子（未在已掃描帖文中核實，保留原樣）'}, {'artist': '容祖兒', 'where': '創作合作', 'date': '2024', 'text': 'Gareth.T 為容祖兒創作〈九秒九〉，成五台冠軍曲', 'post_url': '', 'source': '緯來新聞網（2024 台北 T-Time 報道）'}, {'artist': '梁總', 'where': 'Threads 回覆', 'date': '2025-07-09', 'text': '謝梁總', 'post_url': '', 'source': 'threads-cli profile-replies（author-filtered）；梁總身份未能查證'}, {'artist': 'R.O.O.T', 'where': 'Chill Club 現場演出', 'date': '未能查證', 'text': '《CHILL CLUB》Gareth.T X R.O.O.T《Master Class》（現場演出）', 'post_url': '', 'source': 'YouTube 現場片段標題（已收錄於現場演出清單）'}, {'artist': '葉崇恩 Patrick Yip / 徐偉臻 nictsui', 'where': 'Instagram 帖文內文（製作 credit）', 'date': '2026-11-27', 'text': '「心動一半」曲：我和 @nictsui；編：@yippatrick @nictsui @marcustsao @devlinonthedrums 和我；監：我 @yippatrick 和 @nictsui', 'post_url': 'https://www.instagram.com/reel/DgPo6T1Sjz4/', 'source': 'Gareth.T 本人 IG 帖文（connector 核實）'}]
 # 已确认非 Gareth / 重复的照片文件：每次运行都从数据里清除，
 # 主 agent 另需从仓库 photos/ 删除这些文件。
 BAD_PHOTO_FILES = ['Instagram_2026-11-27_dfa0d9915a.jpg', 'Threads_2026-11-27_2d9242db6f.jpg', 'Threads_2026-11-27_ba6dba162c.jpg', 'Threads_2026-11-27_d046f1d12b.jpg']
+# 已核實不是 MV/現場的影片：頒獎片段、紅毯、新聞片段、別人翻唱、專輯試聽、電台首播。
+# 2026-11-27 人工核實後移除，永不再收錄（sync_videos 跳過、main() 清除）。
+BLOCKED_VIDEO_IDS = {
+    'hF5Uujo64b0',  # THE PROTÉGÉ 全專輯試聽（不是 MV）
+    '_JJiBX5vAIE',  # 金童子 叱咤首播（電台首播，不是 MV；正式 MV 是 hgGoXAwA6J4）
+    'MOtvboXPivM',  # 叱咤至尊歌曲頒獎片段（不唱歌）
+    'KJuqcUyQrQ8',  # 2021 叱咤生力軍金獎：MC 張天賦（不是 Gareth）
+    'uoUMwd7e9rY',  # 叱咤填詞人大獎：黃偉文（不是 Gareth 演出）
+    '00QuVKrzZkY',  # 2022 叱咤專業推介十大第八位（榜單公佈，不是演出）
+    '1ASWIUhawI8',  # 浪潮音樂大賞紅毯現場（不唱歌）
+    'ZGD2MacSzQ4',  # 明報新聞片段（姜濤現身尾場報道，不是演出片）
+    'tAQNaaDnUoA',  # 娛聞新村新聞片段（不是演出片）
+    'gWSF0lPkNC0',  # 緊急聯絡人 Cover by MC 張天賦 X 希晉（別人翻唱）
+    'kOowvGoiTWw',  # 用背脊唱情歌 Cover by MC 張天賦 澳門（別人翻唱）
+}
 # 已确认非 Gareth 的两张图的內容 MD5（去重用）：
 BAD_PHOTO_MD5 = {"1fa713edb965b14388a3550f9e696d2e"}  # 駕駛考試成績表
 
@@ -197,7 +212,7 @@ def sync_music_and_real_covers(existing_releases=None):
     merged = {r.get("id"): r for r in existing_releases if r.get("id")}
     for r in fresh:
         merged[r["id"]] = r
-    releases = sorted(merged.values(), key=lambda x: x.get("date", ""), reverse=True)
+    releases = sorted(merged.values(), key=lambda x: x.get("date") or "", reverse=True)
     return releases
 
 
@@ -213,7 +228,9 @@ LIVE_STRONG = ["Fan Cam", "fancam", "現場版", "live @", "live in", "頒獎", 
 
 def classify_video(vid, title, source=""):
     """Strict classifier (tested in /tmp/test_fix.py).
-    Returns one of: interviews / mvs / lives / fancams.
+    Returns interviews / mvs / lives / fancams, or None for videos that are
+    none of those (album trial, award clip, red carpet, news segment) —
+    those must be dropped, never filed under another heading.
     Fan cams are NEVER official live. MVs are official videos only."""
     t = title or ""
     low = t.lower()
@@ -221,15 +238,35 @@ def classify_video(vid, title, source=""):
         return "fancams"
     if vid == "pc9nZ2syMs0":
         return "lives"        # 拉闊音樂會 少於三足本重溫 = concert replay
+    if vid == "aVsEQRptqNY":
+        return "lives"        # 2021 叱咤群星表演片段（Gareth.T 有份演出）
+    if vid == "8zNy4Q6jaZc":
+        return "lives"        # 玻璃 demo (live studio video) = 現場錄製
+    if vid == "CSf511CFkYc":
+        return "lives"        # Live at HYPEBEAST SOUNDS = 正式現場演出
+    if vid == "sRE_YbVibMU":
+        return "lives"        # Concrete Woods Live Session = 正式現場錄製
+    if vid == "XIf9Nc-b9tk":
+        return "lives"        # Master Class + 鏡中鏡 @ November Rain 2022 = 演唱會現場
+    if "live studio" in low or "live session" in low:
+        return "lives"        # live studio / live session = 正式現場錄製
     if vid == "L0gsbDmZLh4":
         return "interviews"   # 叱咤2022 後台訪問 = backstage interview
-    if ("official video" in low or "official mv" in low or "首播" in t
-            or "全專輯試聽" in t):
+    if "全專輯試聽" in t:
+        return None           # album trial, not an MV
+    if ("official video" in low or "official mv" in low
+            or "official music video" in low):
         return "mvs"
     if "叱咤" in t or "叱吒" in t:
-        if any(k in t for k in ["頒獎", "表演片段", "金獎", "大獎", "專業推介", "填詞人", "至尊歌曲"]):
+        if any(k in t for k in ["頒獎", "金獎", "大獎", "專業推介", "填詞人"]):
+            return None       # award clip, he does not sing
+        if "表演片段" in t:
             return "lives"
         return "interviews"
+    if "紅毯" in t:
+        return None           # red carpet, not a performance
+    if any(k in t for k in ["娛聞新村", "明報娛樂新聞", "娛樂新聞"]):
+        return None           # news segment, not a performance
     if "Chill Club" in t or "CHILL CLUB" in t:
         return "lives"
     if any(k in t for k in INTERVIEW_STRONG):
@@ -248,11 +285,16 @@ def sync_videos(existing=None):
         "lives": list(existing.get("lives", [])),
         "fancams": list(existing.get("fancams", [])),
     }
+    # 已核實剔除的影片（頒獎/紅毯/新聞/別人翻唱/專輯試聽）永不回來。
+    for key in out:
+        out[key] = [v for v in out[key] if v.get("id") not in BLOCKED_VIDEO_IDS]
     # 兼容旧版：interviews 曾是混合清单，先按 classify_video() 重分一次。
     legacy = existing.get("interviews_legacy")
     if legacy:
         for v in legacy:
-            cat = classify_video(v.get("id", ""), v.get("title", ""), v.get("source", ""))
+            if v.get("id") in BLOCKED_VIDEO_IDS:
+                continue
+            cat = classify_video(v.get("id", ""), v.get("title", ""), v.get("source", "")) or "interviews"
             if v.get("id") not in {x.get("id") for x in out[cat]}:
                 out[cat].append(v)
     seen_ids = {v.get("id") for lst in out.values() for v in lst}
@@ -284,8 +326,12 @@ def sync_videos(existing=None):
                         title = (entry.get("title") or "").strip()
                         if not vid or vid in seen_ids or not title:
                             continue
+                        if vid in BLOCKED_VIDEO_IDS:
+                            continue
                         seen_ids.add(vid)
                         cat = classify_video(vid, title, entry.get("channel") or "")
+                        if cat is None:
+                            continue  # 既非 MV/現場亦非專訪：直接丟棄，不入任何清單
                         item = {
                             "id": vid, "title": title,
                             "category": {"interviews": "深度專訪", "mvs": "歌曲MV",
@@ -316,7 +362,7 @@ def sync_videos(existing=None):
                 "source": t["source"], "thumb": "", "link": t["link"],
                 "date": t["date"], "is_text": True})
     for lst in out.values():
-        lst.sort(key=lambda v: v.get("date", ""), reverse=True)
+        lst.sort(key=lambda v: v.get("date") or "", reverse=True)
     return out
 
 
@@ -367,7 +413,7 @@ def sync_news(existing_news=None):
         except Exception as e:
             print(f"[资讯抓取跳过] {feed_url} -> {e}")
             continue
-    items.sort(key=lambda n: n.get("date", ""), reverse=True)
+    items.sort(key=lambda n: n.get("date") or "", reverse=True)
     return items[:20]
 
 
@@ -480,7 +526,9 @@ def main():
         legacy = db.pop("interviews")
         split = {"interviews": [], "mvs": [], "lives": [], "fancams": []}
         for v in legacy:
-            split[classify_video(v.get("id", ""), v.get("title", ""), v.get("source", ""))].append(v)
+            if v.get("id") in BLOCKED_VIDEO_IDS:
+                continue
+            split[classify_video(v.get("id", ""), v.get("title", ""), v.get("source", "")) or "interviews"].append(v)
         db["interviews"] = split["interviews"]
         db["mvs"] = split["mvs"]
         db["lives"] = split["lives"]
