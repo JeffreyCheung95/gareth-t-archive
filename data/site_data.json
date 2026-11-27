@@ -1,0 +1,1105 @@
+{
+  "comments": [
+    {
+      "id": "seed_1",
+      "platform": "Instagram",
+      "date": "2026-11-27",
+      "text": "《心動一半》MV 預告底下粉絲留言問「點解著紅色大褸行雪地」，Gareth.T 本尊回覆：「因為綠色聖誕樹唔畀入鏡。」"
+    },
+    {
+      "id": "seed_2",
+      "platform": "Instagram",
+      "date": "2026-11-20",
+      "text": "華納唱片官宣 2027 紅館《Coliseum 2027》四場開賣，粉絲求加場，Gareth.T 回覆：「4 場剛剛好，留返啲力氣唱爆紅館。」"
+    },
+    {
+      "id": "seed_3",
+      "platform": "Threads",
+      "date": "2026-11-18",
+      "text": "凌晨 3:42 Threads 動態：「寫完副歌發現成個 studio 得返我同杯凍檸茶。」"
+    },
+    {
+      "id": "seed_4",
+      "platform": "Instagram",
+      "date": "2026-09-24",
+      "text": "《淺粉紅 pale pink》黃偉文填詞貼文底下，Gareth.T 留言：「多謝 Wyman 幫我把粉紅色寫得咁痛。」"
+    },
+    {
+      "id": "seed_5",
+      "platform": "Threads",
+      "date": "2026-07-04",
+      "text": "澳門《心零王子》尾場結束後 Threads：「多謝澳門三晚，下一站紅館見。」"
+    }
+  ],
+  "concerts": [
+    {
+      "tour": "OnLux 呈獻 Gareth.T 湯令山 Coliseum 2027（首個紅館個唱）",
+      "dates": "2027-01-20 至 2027-01-23（共 4 場，不再加場）",
+      "time": "每晚 20:15 開演（約 2.5 - 3 小時）",
+      "venue": "香港體育館（紅館 · 九龍紅磡灣暢運道 9 號）",
+      "prices": "HK$1,380（內場平地及看台下層正面）/ HK$980（看台中層及下層兩側）/ HK$680（看台上層山頂位）",
+      "guests": "待官方現場揭曉",
+      "setlist": [
+        "用背脊唱情歌",
+        "心動一半",
+        "國際孤獨等級",
+        "緊急聯絡人",
+        "勁浪漫 超溫馨",
+        "笑住喊",
+        "去北極忘記你",
+        "你都不知道自己有多好",
+        "boyfriend material",
+        "speed limit",
+        "玻璃"
+      ]
+    },
+    {
+      "tour": "2026《Gareth.T － Prince Of Nothing 湯令山－心零王子》世界巡演",
+      "dates": "2026-04 至 2026-07（台北 / 馬來西亞 / 悉尼 / 澳門銀河綜藝館三場）",
+      "time": "每場約 2.5 小時",
+      "venue": "澳門銀河綜藝館 / 台北 Zepp New Taipei / 雲頂雲星劇場 / 悉尼",
+      "prices": "澳門站 MOP/HKD $1,280 / $980 / $680",
+      "guests": "澳門首場（2026-07-03）：菲道爾 Firdhaus（合唱《能遇見，就很不錯了》《去北極忘記你》）",
+      "setlist": [
+        "用背脊唱情歌",
+        "國際孤獨等級",
+        "偶像已死",
+        "碧麗宮",
+        "泥菩薩",
+        "玻璃",
+        "金童子",
+        "緊急聯絡人",
+        "勁浪漫 超溫馨",
+        "笑住喊",
+        "流沙（台北限定）",
+        "落葉歸根（澳門限定）"
+      ]
+    },
+    {
+      "tour": "2025 秋季英國巡演《Prince of Sadness》（心傷王子）",
+      "dates": "2025-10-28（曼徹斯特） / 2025-10-30（倫敦）",
+      "time": "19:00 進場 · 約 2 小時",
+      "venue": "英國倫敦 O2 Shepherd's Bush Empire / 曼徹斯特",
+      "prices": "£45 - £95（VIP 含優先入場及合影）",
+      "guests": "個人專場無嘉賓",
+      "setlist": [
+        "用背脊唱情歌",
+        "國際孤獨等級",
+        "你都不知道自己有多好",
+        "緊急聯絡人",
+        "勁浪漫 超溫馨",
+        "笑住喊",
+        "去北極忘記你",
+        "boyfriend material",
+        "speed limit",
+        "Hallelujah",
+        "always",
+        "跟悲傷結了帳",
+        "早到的U",
+        "我很小朋友",
+        "mom I'm famous"
+      ]
+    },
+    {
+      "tour": "2025 春季北美五城巡演《EXPEDITION》（遠征）",
+      "dates": "2025-04-10 至 2025-04-20（溫哥華 / 多倫多 / 紐約 / 三藩市 / 洛杉磯）",
+      "time": "20:00 開演 · 約 2 小時",
+      "venue": "Enso / The Parkdale Hall / Racket NYC / The Chapel / The Vermont Hollywood",
+      "prices": "US$58 - US$138",
+      "guests": "個人巡演專場",
+      "setlist": [
+        "你都不知道自己有多好",
+        "緊急聯絡人",
+        "勁浪漫 超溫馨",
+        "笑住喊",
+        "boyfriend material",
+        "speed limit",
+        "Hallelujah",
+        "孤單",
+        "Buzzcut",
+        "自信心爆棚",
+        "去北極忘記你"
+      ]
+    },
+    {
+      "tour": "2022《Gareth.T 湯令山 November Rain》個人演唱會",
+      "dates": "2022-11-18 至 2022-11-20（共 3 場）",
+      "time": "20:15 開演 · 約 2.5 小時",
+      "venue": "九龍灣國際展貿中心 Star Hall",
+      "prices": "HK$880 / HK$680 / HK$480",
+      "guests": "首場：Tyson Yoshi ｜ 第二場：Day @ COLLAR（合唱《笑住喊》） ｜ 尾場：姜濤",
+      "setlist": [
+        "勁浪漫 超溫馨",
+        "笑住喊",
+        "緊急聯絡人",
+        "boyfriend material",
+        "speed limit",
+        "honest",
+        "dinner in bed",
+        "mom I'm famous",
+        "confidence",
+        "buzzcut"
+      ]
+    }
+  ],
+  "interviews": [],
+  "photos": [],
+  "releases": [
+    {
+      "id": "6836248204",
+      "title": "心動一半",
+      "type": "Single",
+      "date": "2026-11-27",
+      "cover": "./covers/cover_6836248204.jpg",
+      "filename": "GarethT_2026-11-27_心動一半.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "心動一半",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5e/de/b3/5edeb379-f57a-8578-fb68-d740fd1cd7ba/mzaf_15190236408953322490.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6814412776",
+      "title": "淺粉紅",
+      "type": "Single",
+      "date": "2026-09-24",
+      "cover": "./covers/cover_6814412776.jpg",
+      "filename": "GarethT_2026-09-24_淺粉紅.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "淺粉紅 pale pink",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fa/2f/c1/fa2fc169-5a36-2681-950a-1a52e585e0a4/mzaf_768506445246185999.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "淺粉紅 baby pink",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a3/b0/a0/a3b0a017-c7eb-4a93-c34a-e3dca2b525a2/mzaf_8576901497483646803.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6804624451",
+      "title": "tunnel vision",
+      "type": "Single",
+      "date": "2026-09-03",
+      "cover": "./covers/cover_6804624451.jpg",
+      "filename": "GarethT_2026-09-03_tunnelvision.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "tunnel vision",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/ce/1e/70ce1efb-c09c-ec5f-fe26-60baf425a462/mzaf_9360287342461711619.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6779309744",
+      "title": "玻璃 demo",
+      "type": "Single",
+      "date": "2026-06-23",
+      "cover": "./covers/cover_6779309744.jpg",
+      "filename": "GarethT_2026-06-23_玻璃demo.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "玻璃 demo",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/54/e2/21/54e2215f-8845-b965-b511-ac135c431ad3/mzaf_3106226319748066914.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "玻璃",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/48/27/dc/4827dc0f-7fbf-af61-2827-e2611f0d67df/mzaf_3381915457031060282.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6769327003",
+      "title": "玻璃",
+      "type": "Single",
+      "date": "2026-05-20",
+      "cover": "./covers/cover_6769327003.jpg",
+      "filename": "GarethT_2026-05-20_玻璃.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "玻璃",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/da/91/54/da9154c7-6462-cb68-5851-fd901ec06404/mzaf_594024198387560560.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1883630666",
+      "title": "THE PROTÉGÉ",
+      "type": "Album",
+      "date": "2026-03-26",
+      "cover": "./covers/cover_1883630666.jpg",
+      "filename": "GarethT_2026-03-26_THEPROTG.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "國際孤獨等級",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/37/40/8e/37408e60-4d12-9a11-655e-ad4964ab81b4/mzaf_12507924280709134923.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "⁠我很小朋友",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/30/d5/67/30d5677d-9e00-f61e-4171-c27d8777de43/mzaf_2774009996094014444.plus.aac.p.m4a"
+        },
+        {
+          "num": 3,
+          "name": "你都不知道 自己有多好",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2c/f2/22/2cf22239-9113-04ec-ec7d-75db1d2167f7/mzaf_5760268284308211507.plus.aac.p.m4a"
+        },
+        {
+          "num": 4,
+          "name": "用背脊唱情歌",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/44/60/9c4460df-5e50-5269-2f07-8b0be58abfd7/mzaf_7364776393078405529.plus.aac.p.m4a"
+        },
+        {
+          "num": 5,
+          "name": "早到的u",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/08/6a/1d086a85-fbe8-cdc9-94dd-97904635f0f7/mzaf_8017902476942301457.plus.aac.p.m4a"
+        },
+        {
+          "num": 6,
+          "name": "碧麗宮",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b0/f8/0b/b0f80b20-6e7e-c844-a6cd-d1a3f30f9b32/mzaf_5234600304884366542.plus.aac.p.m4a"
+        },
+        {
+          "num": 7,
+          "name": "偶像已死",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/85/f7/cf/85f7cfc5-2536-3d09-63ee-de24288b9645/mzaf_5215663893119488871.plus.aac.p.m4a"
+        },
+        {
+          "num": 8,
+          "name": "⁠千人操",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/01/87/a0/0187a0d2-ed8c-728d-eeef-efe07ed65b43/mzaf_5936989030985251653.plus.aac.p.m4a"
+        },
+        {
+          "num": 9,
+          "name": "泥菩薩",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4d/9d/a4/4d9da4b7-ad6a-df02-9666-6e4cc2c6107a/mzaf_8606878301960233461.plus.aac.p.m4a"
+        },
+        {
+          "num": 10,
+          "name": "緊急聯絡人",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2a/3d/4c/2a3d4c3d-83a0-e545-5654-254432d468c5/mzaf_12258940517649968426.plus.aac.p.m4a"
+        },
+        {
+          "num": 11,
+          "name": "用背脊唱情歌 (canon in d version) [Bonus Track]",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/68/0c/6c680c2a-0702-8b71-a247-2db47b9d138b/mzaf_2335467499625792243.plus.aac.p.m4a"
+        },
+        {
+          "num": 12,
+          "name": "navy (abbey road studios version) [Bonus Track]",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/7d/df/19/7ddf1970-0bab-8dcb-7c4b-b0cad46f5215/mzaf_12018727570691307534.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1877072857",
+      "title": "金童子",
+      "type": "Single",
+      "date": "2026-02-26",
+      "cover": "./covers/cover_1877072857.jpg",
+      "filename": "GarethT_2026-02-26_金童子.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "金童子",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8c/aa/ae/8caaaed4-afa6-9e23-51ba-e55f612a96d5/mzaf_14442141211747148410.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1846275833",
+      "title": "跟悲傷結了帳",
+      "type": "Single",
+      "date": "2025-10-23",
+      "cover": "./covers/cover_1846275833.jpg",
+      "filename": "GarethT_2025-10-23_跟悲傷結了帳.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "跟悲傷結了帳",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/db/0e/cb/db0ecb04-9b22-2914-ebca-8d96e7b17c2c/mzaf_7018956461583429861.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1837694610",
+      "title": "泥菩薩",
+      "type": "Single",
+      "date": "2025-09-12",
+      "cover": "./covers/cover_1837694610.jpg",
+      "filename": "GarethT_2025-09-12_泥菩薩.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "泥菩薩",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/55/6d/ab/556dab40-1a7e-a0bc-7eeb-8c0520b4d589/mzaf_6886822268735750504.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1816674588",
+      "title": "用背脊唱情歌",
+      "type": "Single",
+      "date": "2025-06-09",
+      "cover": "./covers/cover_1816674588.jpg",
+      "filename": "GarethT_2025-06-09_用背脊唱情歌.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "用背脊唱情歌",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f5/2b/d3/f52bd3bb-01d8-dcdc-1f81-4320989fee41/mzaf_8872531526766374407.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1811349431",
+      "title": "顏色",
+      "type": "Single",
+      "date": "2025-05-06",
+      "cover": "./covers/cover_1811349431.jpg",
+      "filename": "GarethT_2025-05-06_顏色.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "顏色",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a1/91/77/a19177d9-9a46-bea1-b130-8d7801b1b226/mzaf_14147622845619196012.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1801121407",
+      "title": "你都不知道 自己有多好",
+      "type": "Single",
+      "date": "2025-03-18",
+      "cover": "./covers/cover_1801121407.jpg",
+      "filename": "GarethT_2025-03-18_你都不知道自己有多好.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "你都不知道 自己有多好",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/14/9f/21149fcb-d408-a2c1-7c00-40c263aba3bc/mzaf_5093965469066965963.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1785134099",
+      "title": "not so xmas xmas, Vol. 2",
+      "type": "EP",
+      "date": "2024-12-16",
+      "cover": "./covers/cover_1785134099.jpg",
+      "filename": "GarethT_2024-12-16_notsoxmasxmasVol2.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "It's Beginning to Look a Lot Like Christmas",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/ee/e9/ebeee965-53e9-fc06-da5f-93d708898e70/mzaf_10328743908005013921.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "Like The Snow",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e7/bd/9d/e7bd9de5-806b-c484-8c5f-e836cfbb0778/mzaf_4667528266842752928.plus.aac.p.m4a"
+        },
+        {
+          "num": 3,
+          "name": "come back to me",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/17/95/05/179505fd-5249-b745-be52-8400c45038bb/mzaf_9145547424490279228.plus.aac.p.m4a"
+        },
+        {
+          "num": 4,
+          "name": "O Christmas Tree (feat. Nancy Kwai)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/67/c1/90/67c19082-75a3-843b-e07e-47f2a38ee3a0/mzaf_17864415823623310955.plus.aac.p.m4a"
+        },
+        {
+          "num": 5,
+          "name": "Santa Baby",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/7e/91/bc7e9186-807f-dd1b-2e75-5b542a26fd72/mzaf_13954370908913792642.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1766449847",
+      "title": "偶像已死",
+      "type": "Single",
+      "date": "2024-09-12",
+      "cover": "./covers/cover_1766449847.jpg",
+      "filename": "GarethT_2024-09-12_偶像已死.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "偶像已死",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/de/21/4c/de214c80-1dd0-f095-11a7-ebee05f36b8a/mzaf_15438993279649744825.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1757395725",
+      "title": "sad songs",
+      "type": "EP",
+      "date": "2024-07-22",
+      "cover": "./covers/cover_1757395725.jpg",
+      "filename": "GarethT_2024-07-22_sadsongs.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "去北極忘記你",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a4/7b/ec/a47becec-a696-0b95-4c20-bc26b86a77bc/mzaf_12123429333041317694.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "dishonesty",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/37/b9/33/37b933e2-f0e8-80c5-a3b6-72399595b469/mzaf_16528064480809329500.plus.aac.p.m4a"
+        },
+        {
+          "num": 3,
+          "name": "winners",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/ea/c7/6ceac745-df45-8bc8-4b6d-9577a973b770/mzaf_13272030928943954067.plus.aac.p.m4a"
+        },
+        {
+          "num": 4,
+          "name": "camo",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/f7/d7/41f7d74f-52da-4434-7712-965734160b72/mzaf_9896206919056192205.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1755524525",
+      "title": "winners",
+      "type": "Single",
+      "date": "2024-07-11",
+      "cover": "./covers/cover_1755524525.jpg",
+      "filename": "GarethT_2024-07-11_winners.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "winners",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/01/08/06/01080699-9871-d1f7-6f52-f2fdb096d040/mzaf_12829589810381062427.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1754894376",
+      "title": "dishonesty",
+      "type": "Single",
+      "date": "2024-07-04",
+      "cover": "./covers/cover_1754894376.jpg",
+      "filename": "GarethT_2024-07-04_dishonesty.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "dishonesty",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2d/cc/7b/2dcc7b9d-6ed0-2aad-0054-581102e25ac1/mzaf_7066147578503408779.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1752430770",
+      "title": "去北極忘記你",
+      "type": "Single",
+      "date": "2024-06-27",
+      "cover": "./covers/cover_1752430770.jpg",
+      "filename": "GarethT_2024-06-27_去北極忘記你.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "去北極忘記你",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c9/24/01/c9240170-4765-fe26-323a-00ada2572f1f/mzaf_4539185426807983885.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1739779100",
+      "title": "遇上你之前的我",
+      "type": "Single",
+      "date": "2024-04-12",
+      "cover": "./covers/cover_1739779100.jpg",
+      "filename": "GarethT_2024-04-12_遇上你之前的我.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "遇上你之前的我",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/53/fc/79/53fc79e9-65f9-d505-eb08-9f268a502cdf/mzaf_12151662141562736369.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1727520396",
+      "title": "Bread and Better (feat. Gentle Bones & 姜濤)",
+      "type": "Single",
+      "date": "2024-01-31",
+      "cover": "./covers/cover_1727520396.jpg",
+      "filename": "GarethT_2024-01-31_BreadandBetterfeatGentleBones姜濤.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Bread and Better (feat. Gentle Bones & 姜濤)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/95/77/dd/9577dd2c-e936-29e9-e32f-26f4e3350af5/mzaf_7633613969762345623.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1718045810",
+      "title": "緊急聯絡人",
+      "type": "Single",
+      "date": "2023-11-30",
+      "cover": "./covers/cover_1718045810.jpg",
+      "filename": "GarethT_2023-11-30_緊急聯絡人.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "緊急聯絡人",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/30/17/cf/3017cf5d-3d89-9856-3175-01e8ae835fd0/mzaf_6937961096117465871.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1706078791",
+      "title": "let me know",
+      "type": "Single",
+      "date": "2023-09-15",
+      "cover": "./covers/cover_1706078791.jpg",
+      "filename": "GarethT_2023-09-15_letmeknow.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "let me know",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f4/45/45/f44545f8-2eca-d8fe-39de-e5c9460fa4bb/mzaf_13606239697490589254.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1692182544",
+      "title": "CUTIE",
+      "type": "Single",
+      "date": "2023-06-16",
+      "cover": "./covers/cover_1692182544.jpg",
+      "filename": "GarethT_2023-06-16_CUTIE.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "CUTIE",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/81/c9/7d/81c97dc3-0ddd-79cf-19ba-082da209a446/mzaf_4044567988421393659.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1674509604",
+      "title": "國際孤獨等級",
+      "type": "Single",
+      "date": "2023-03-03",
+      "cover": "./covers/cover_1674509604.jpg",
+      "filename": "GarethT_2023-03-03_國際孤獨等級.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "國際孤獨等級",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9d/c1/a5/9dc1a596-22a3-e598-c3b9-b03edaaff84c/mzaf_3106474416584059448.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1661246150",
+      "title": "孤單",
+      "type": "Single",
+      "date": "2023-01-13",
+      "cover": "./covers/cover_1661246150.jpg",
+      "filename": "GarethT_2023-01-13_孤單.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "孤單",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/fd/5c/ed/fd5cedac-71d1-1373-26a3-c0140adb2b2c/mzaf_11385803688255803501.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1650184692",
+      "title": "笑住喊",
+      "type": "Single",
+      "date": "2022-10-21",
+      "cover": "./covers/cover_1650184692.jpg",
+      "filename": "GarethT_2022-10-21_笑住喊.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "笑住喊",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/1a/49/651a499c-5952-509c-308a-3c94d4d414c4/mzaf_2182797716260091848.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1643677785",
+      "title": "buzz cut",
+      "type": "Single",
+      "date": "2022-09-16",
+      "cover": "./covers/cover_1643677785.jpg",
+      "filename": "GarethT_2022-09-16_buzzcut.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "buzz cut",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/73/84/91/73849130-0d11-13be-79f2-f0fd77e97e90/mzaf_7553698899099461270.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1623536639",
+      "title": "to be honest",
+      "type": "Album",
+      "date": "2022-05-20",
+      "cover": "./covers/cover_1623536639.jpg",
+      "filename": "GarethT_2022-05-20_tobehonest.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "speed limit",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b0/db/2f/b0db2f23-7943-a701-79d1-50d669929e5a/mzaf_4674056963205041052.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "boyfriend material",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f6/8b/07/f68b0731-085a-703e-8eb9-b2ac5bca0055/mzaf_18119352654103982301.plus.aac.p.m4a"
+        },
+        {
+          "num": 3,
+          "name": "honest (feat. moon tang)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/15/7e/6c157ee1-ee0a-577e-dd00-0ee2c29ac33e/mzaf_4633983138269294376.plus.aac.p.m4a"
+        },
+        {
+          "num": 4,
+          "name": "you not ugly (skit)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/82/e9/e2/82e9e25a-8b18-0b03-0cf3-64e074e5406b/mzaf_1683250621339697992.plus.aac.p.m4a"
+        },
+        {
+          "num": 5,
+          "name": "small world",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/95/df/d895df80-f356-9902-a416-3d03d6a699c8/mzaf_6987767007333797395.plus.aac.p.m4a"
+        },
+        {
+          "num": 6,
+          "name": "confidence",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/a2/14/76a21410-0ed3-8c58-a8a3-0a3d2ba3a0ff/mzaf_4362053209864935544.plus.aac.p.m4a"
+        },
+        {
+          "num": 7,
+          "name": "勁浪漫 超溫馨",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/24/a0/75/24a0757d-58cd-442b-0d6c-4728fbf7172c/mzaf_18105094118315776242.plus.aac.p.m4a"
+        },
+        {
+          "num": 8,
+          "name": "dinner in bed",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/bb/bb/a9/bbbba9db-86c7-df06-853b-16d5e6d0821a/mzaf_16119116842761828879.plus.aac.p.m4a"
+        },
+        {
+          "num": 9,
+          "name": "mom, I'm famous",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/21/fa/db/21fadbf0-ed22-c223-8358-2cffc8cb6fd4/mzaf_8464871796778369507.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1609233536",
+      "title": "dinner in bed",
+      "type": "Single",
+      "date": "2022-02-14",
+      "cover": "./covers/cover_1609233536.jpg",
+      "filename": "GarethT_2022-02-14_dinnerinbed.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "dinner in bed",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/63/07/69/630769aa-027f-94ca-0466-120193ceb25c/mzaf_14749777193700120986.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1600189374",
+      "title": "december",
+      "type": "Single",
+      "date": "2021-12-24",
+      "cover": "./covers/cover_1600189374.jpg",
+      "filename": "GarethT_2021-12-24_december.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "december",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/7b/f6/ac/7bf6ac92-f33b-8de1-dcea-cca7caaf768e/mzaf_16878592112666328771.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1598141702",
+      "title": "雪不完的浪漫 (feat. Jessica Chan)",
+      "type": "Single",
+      "date": "2021-12-06",
+      "cover": "./covers/cover_1598141702.jpg",
+      "filename": "GarethT_2021-12-06_雪不完的浪漫featJessicaChan.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "雪不完的浪漫 (feat. Jessica Chan)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/43/ec/48/43ec4840-066f-2267-6015-e224df3c8c6c/mzaf_11114828560558712688.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1595703321",
+      "title": "勁浪漫 超溫馨",
+      "type": "Single",
+      "date": "2021-11-26",
+      "cover": "./covers/cover_1595703321.jpg",
+      "filename": "GarethT_2021-11-26_勁浪漫超溫馨.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "勁浪漫 超溫馨",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cc/8c/98/cc8c98f6-ec51-a692-d872-c60c3a950f4a/mzaf_1613642815797178284.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1581091509",
+      "title": "speed limit",
+      "type": "Single",
+      "date": "2021-08-26",
+      "cover": "./covers/cover_1581091509.jpg",
+      "filename": "GarethT_2021-08-26_speedlimit.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "speed limit",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/23/8d/d2/238dd258-ef59-db0c-cd48-8c1620dbe214/mzaf_6320697810904922232.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1570642199",
+      "title": "honest (feat. moon tang)",
+      "type": "Single",
+      "date": "2021-06-24",
+      "cover": "./covers/cover_1570642199.jpg",
+      "filename": "GarethT_2021-06-24_honestfeatmoontang.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "honest (feat. moon tang)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/70/b0/05/70b00536-81b0-5555-6840-4c9891809178/mzaf_1153545575105141555.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1556256635",
+      "title": "boyfriend material",
+      "type": "Single",
+      "date": "2021-03-26",
+      "cover": "./covers/cover_1556256635.jpg",
+      "filename": "GarethT_2021-03-26_boyfriendmaterial.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "boyfriend material",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/eb/b5/d1/ebb5d178-51d5-af52-c2b7-09e9f1372202/mzaf_2600797458341067488.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1659439735",
+      "title": "Whole World",
+      "type": "Single",
+      "date": "2021-02-18",
+      "cover": "./covers/cover_1659439735.jpg",
+      "filename": "GarethT_2021-02-18_WholeWorld.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Whole World",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview112/v4/5d/cf/db/5dcfdbec-e7eb-a9fe-15a8-76708b5abeba/mzaf_11641976203799037242.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "6836320075",
+      "title": "Whole World",
+      "type": "Single",
+      "date": "2021-02-18",
+      "cover": "./covers/cover_6836320075.jpg",
+      "filename": "GarethT_2021-02-18_WholeWorld.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Whole World",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/84/bf/99/84bf9908-70dd-6d64-d6d2-3136df0f43ec/mzaf_6188737915351834463.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1607020178",
+      "title": "SUMMER IS OVER (feat. Gareth.T) [feat. Gareth.T] [Foxela Remix]",
+      "type": "Single",
+      "date": "2021-01-01",
+      "cover": "./covers/cover_1607020178.jpg",
+      "filename": "GarethT_2021-01-01_SUMMERISOVERfeatGarethTfeatGarethTFoxelaRemix.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "SUMMER IS OVER (feat. Gareth.T) [feat. Gareth.T] [Foxela Remix]",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/58/da/31/58da3141-b34f-5075-4711-b7a228ab128e/mzaf_13725457313954049335.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1537759733",
+      "title": "2 more weeks",
+      "type": "Single",
+      "date": "2020-11-27",
+      "cover": "./covers/cover_1537759733.jpg",
+      "filename": "GarethT_2020-11-27_2moreweeks.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "2 more weeks",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/11/9d/3b119d95-48c6-2415-a820-1d93964d9111/mzaf_7959505886905008700.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1530889265",
+      "title": "November Rain",
+      "type": "Single",
+      "date": "2020-10-30",
+      "cover": "./covers/cover_1530889265.jpg",
+      "filename": "GarethT_2020-10-30_NovemberRain.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "November Rain",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/78/e7/6e78e7b3-3091-1fac-2278-68ca58b2df18/mzaf_18088439788109693528.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1787164728",
+      "title": "Youuu",
+      "type": "Single",
+      "date": "2020-10-02",
+      "cover": "./covers/cover_1787164728.jpg",
+      "filename": "GarethT_2020-10-02_Youuu.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Youuu",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/95/b7/1095b7ba-6eca-a3e5-2040-07367a0d2603/mzaf_17147160825309330781.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1607015589",
+      "title": "SUMMER IS OVER (feat. Gareth.T) [feat. Gareth.T]",
+      "type": "Single",
+      "date": "2020-08-27",
+      "cover": "./covers/cover_1607015589.jpg",
+      "filename": "GarethT_2020-08-27_SUMMERISOVERfeatGarethTfeatGarethT.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "SUMMER IS OVER (feat. Gareth.T)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/09/e4/91/09e49137-164f-d64a-896f-df4ea174e1ac/mzaf_13224761596787126723.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1510284741",
+      "title": "best me i can",
+      "type": "Single",
+      "date": "2020-06-12",
+      "cover": "./covers/cover_1510284741.jpg",
+      "filename": "GarethT_2020-06-12_bestmeican.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "best me i can",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d2/3c/ac/d23cac03-df93-429f-c030-dbb398a2a4db/mzaf_15402490202359116885.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1506792239",
+      "title": "Shining",
+      "type": "Single",
+      "date": "2020-05-15",
+      "cover": "./covers/cover_1506792239.jpg",
+      "filename": "GarethT_2020-05-15_Shining.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Shining",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/73/06/f5/7306f52f-7637-8774-a813-67bd1bdf22b1/mzaf_2145014265484190986.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1507747809",
+      "title": "DAMNED LIKE HOPE (feat. Gareth.T & Kelsey Kuan)",
+      "type": "Single",
+      "date": "2020-05-08",
+      "cover": "./covers/cover_1507747809.jpg",
+      "filename": "GarethT_2020-05-08_DAMNEDLIKEHOPEfeatGarethTKelseyKuan.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "DAMNED LIKE HOPE (feat. Gareth.T & Kelsey Kuan)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/8c/92/968c925a-f51d-6c7c-3c09-865914aed555/mzaf_12528966082172688768.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1576406743",
+      "title": "Dog Days",
+      "type": "Single",
+      "date": "2020-04-24",
+      "cover": "./covers/cover_1576406743.jpg",
+      "filename": "GarethT_2020-04-24_DogDays.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Dog Days",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/d1/f3/16/d1f31619-35c8-7831-9c76-71ce3ef635bb/mzaf_6483805613948039135.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1497589537",
+      "title": "Benjamin Franklin",
+      "type": "Single",
+      "date": "2020-04-03",
+      "cover": "./covers/cover_1497589537.jpg",
+      "filename": "GarethT_2020-04-03_BenjaminFranklin.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Benjamin Franklin",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/37/3e/0d/373e0d42-f252-4506-fd5e-5992d70f318d/mzaf_7500586136467652375.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1466908947",
+      "title": "I Know",
+      "type": "Single",
+      "date": "2019-06-14",
+      "cover": "./covers/cover_1466908947.jpg",
+      "filename": "GarethT_2019-06-14_IKnow.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "I Know",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9e/c2/2d/9ec22d34-81db-b4df-5ff6-fc7cbf320439/mzaf_11031537319716675494.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1451941720",
+      "title": "I Keep Scrolling Wishing You Would Comment....",
+      "type": "Single",
+      "date": "2019-02-04",
+      "cover": "./covers/cover_1451941720.jpg",
+      "filename": "GarethT_2019-02-04_IKeepScrollingWishingYouWouldComment.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "I Keep Scrolling Wishing You Would Comment....",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/8e/95/928e95e5-d6d3-cb9e-9f31-73b4b62cd396/mzaf_17098083059453046167.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1444561552",
+      "title": "Crush (feat. Kelsey Kuan)",
+      "type": "Single",
+      "date": "2018-11-22",
+      "cover": "./covers/cover_1444561552.jpg",
+      "filename": "GarethT_2018-11-22_CrushfeatKelseyKuan.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Crush (feat. Kelsey Kuan)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a8/3c/0a/a83c0a24-eb02-fce7-7735-7ecaf2d64373/mzaf_16193186643827503389.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1438998005",
+      "title": "18",
+      "type": "EP",
+      "date": "2018-10-13",
+      "cover": "./covers/cover_1438998005.jpg",
+      "filename": "GarethT_2018-10-13_18.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "When It Rains, It Pours",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b1/86/ac/b186acbc-9f35-8a8a-4abb-e73ea49cdc64/mzaf_9329570471277624210.plus.aac.p.m4a"
+        },
+        {
+          "num": 2,
+          "name": "French Girl in Tokyo",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/50/a9/e8/50a9e8ea-8851-5f74-192d-b10cd9e2a731/mzaf_11626997599389665657.plus.aac.p.m4a"
+        },
+        {
+          "num": 3,
+          "name": "Feeling You",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0d/98/71/0d9871a7-cca6-4e55-e5e1-5d8a60e326aa/mzaf_13269551945026458300.plus.aac.p.m4a"
+        },
+        {
+          "num": 4,
+          "name": "Glow",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1b/06/ef/1b06ef48-d8cc-a47f-1b32-46cc813a8d1c/mzaf_1281153328069257488.plus.aac.p.m4a"
+        },
+        {
+          "num": 5,
+          "name": "Faster",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8a/b7/b6/8ab7b6d7-256c-6dbd-45d3-ea27507269f8/mzaf_6861656894383135944.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1366700325",
+      "title": "Bloom (feat. Kelsey Kuan)",
+      "type": "Single",
+      "date": "2018-03-28",
+      "cover": "./covers/cover_1366700325.jpg",
+      "filename": "GarethT_2018-03-28_BloomfeatKelseyKuan.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Bloom (feat. Kelsey Kuan)",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/3a/a0/fc/3aa0fc2f-553c-6a0c-fa0d-ecd815d750df/mzaf_7546250914643934500.plus.aac.p.m4a"
+        }
+      ]
+    },
+    {
+      "id": "1345681609",
+      "title": "Faith",
+      "type": "Single",
+      "date": "2018-02-06",
+      "cover": "./covers/cover_1345681609.jpg",
+      "filename": "GarethT_2018-02-06_Faith.jpg",
+      "tracks": [
+        {
+          "num": 1,
+          "name": "Faith",
+          "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/7d/ac/b4/7dacb491-b428-5fe9-96f8-566e344f6d59/mzaf_12485896833385644398.plus.aac.p.m4a"
+        }
+      ]
+    }
+  ],
+  "updated_at": "2026-11-27 12:28 UTC"
+}
