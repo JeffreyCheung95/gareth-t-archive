@@ -477,7 +477,12 @@ def sync_news(existing_news=None):
     '湯令山'，只存真实抓到的标题/链接/来源/日期，失败则保留旧数据，
     绝不编造新闻。"""
     existing_news = existing_news or []
-    seen = {(n.get("link") or n.get("title")) for n in existing_news}
+    # Google News RSS links are opaque per-fetch URLs (CBMi...) that change
+    # on every fetch, so link-only dedupe never matches a re-fetched
+    # article and the 40-item cap keeps churning old items out. Track
+    # titles too (normalised) so the same article is not re-added.
+    seen_links = {(n.get("link") or "") for n in existing_news}
+    seen_titles = {(n.get("title") or "").strip().casefold() for n in existing_news}
     items = list(existing_news)
     feeds = [
         ("https://news.google.com/rss/search?q=%22Gareth.T%22%20%E6%B9%AF%E4%BB%A4%E5%B1%B1&hl=zh-HK&gl=HK&ceid=HK:zh-Hant", "Google News"),
@@ -494,7 +499,7 @@ def sync_news(existing_news=None):
             for entry in root.iter("item"):
                 title = (entry.findtext("title") or "").strip()
                 link = (entry.findtext("link") or "").strip()
-                if not title or not link or link in seen:
+                if not title or not link or link in seen_links or title.strip().casefold() in seen_titles:
                     continue
                 # Google News RSS puts the outlet in <source>.
                 src_el = entry.find("source")
@@ -506,7 +511,8 @@ def sync_news(existing_news=None):
                         date = datetime.strptime(pub, "%a, %d %b %Y %H:%M:%S %Z").strftime("%Y-%m-%d")
                     except Exception:
                         date = pub[:10]
-                seen.add(link)
+                seen_links.add(link)
+                seen_titles.add(title.strip().casefold())
                 items.append({"title": title, "link": link, "source": source, "date": date})
         except Exception as e:
             print(f"[资讯抓取跳过] {feed_url} -> {e}")
