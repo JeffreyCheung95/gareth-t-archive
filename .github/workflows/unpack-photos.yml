@@ -3,10 +3,7 @@ name: Unpack photo archives
 on:
   push:
     paths:
-      - 'photos-zips/photos-1.zip'
-      - 'photos-zips/photos-2.zip'
-      - 'photos-zips/photos-3.zip'
-      - 'photos-zips/photos-4.zip'
+      - 'photos-zips/*.part-*'
   workflow_dispatch:
 
 permissions:
@@ -17,22 +14,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Unpack photo archives
+      - name: Reassemble and unpack photo archives
         run: |
           mkdir -p photos
-          for f in photos-zips/photos-*.zip; do
-            if [ -f "$f" ]; then
-              unzip -o "$f" -d photos
-              rm "$f"
+          for base in photos-1.zip photos-2.zip photos-3.zip photos-4.zip; do
+            if ls photos-zips/$base.part-* 1> /dev/null 2>&1; then
+              cat photos-zips/$base.part-* > /tmp/$base
+              unzip -o /tmp/$base -d photos
+              rm /tmp/$base
             fi
           done
-          # remove the now-empty zips folder if empty
-          rmdir photos-zips 2>/dev/null || true
+          rm -f photos-zips/*.part-*
           echo "photos on disk: $(ls photos/ | wc -l)"
       - name: Commit extracted photos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A photos
-          git diff --cached --quiet || git commit -m "Unpack photo archives"
+          git add -A photos photos-zips
+          git diff --cached --quiet || git commit -m "Unpack photo wall images"
           git push
